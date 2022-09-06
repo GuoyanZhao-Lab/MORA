@@ -1,0 +1,15 @@
+Motif_ID = M04663_2.00
+TF_Name = LIN28B
+ENSEMBLE_ID = ENSG00000187772
+TF_ID = T164569_2.00
+TF_Species = Homo_sapiens
+Family_Name = CSD
+Family_ID = F158_2.00
+width = 15
+XX
+A |     1   11    2    2   70   27   73   21   46   56    0   51   19    0   12
+C |    99    0   98    0    0    2    0   12    9   14   95    7    2   97    2
+G |     0   89    0   92   24    3   26   15   33   23    0   26   77    3   83
+T |     0    0    0    6    6   68    1   52   12    7    5   16    2    0    3
+XX
+//

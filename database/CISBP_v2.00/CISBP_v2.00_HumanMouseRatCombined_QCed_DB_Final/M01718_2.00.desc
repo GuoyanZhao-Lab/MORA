@@ -1,0 +1,15 @@
+Motif_ID = M01718_2.00
+TF_Name = Twist2
+ENSEMBLE_ID = ENSMUSG00000007805
+TF_ID = T035663_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    37   74    0  100    0   78    0    0    7   20
+C |    27   16  100    0   21    0    0    0    7   30
+G |    18    5    0    0    0   22    0  100   58   20
+T |    18    5    0    0   79    0  100    0   28   30
+XX
+//

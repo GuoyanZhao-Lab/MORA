@@ -1,0 +1,15 @@
+Motif_ID = M02760_2.00
+TF_Name = TFAP2C
+ENSEMBLE_ID = ENSG00000087510
+TF_ID = T010822_2.00
+TF_Species = Homo_sapiens
+Family_Name = AP-2
+Family_ID = F024_2.00
+width = 13
+XX
+A |    17    0    0    0    7   10   16   37   17    0    0    0   54
+C |    14    0  100  100   73   29   39   21   11    0    0  100   13
+G |    19  100    0    0    6   17   27   33   65  100  100    0   16
+T |    50    0    0    0   14   44   18    9    7    0    0    0   17
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M08177_2.00
+TF_Name = NRF1
+ENSEMBLE_ID = ENSG00000106459
+TF_ID = T350239_2.00
+TF_Species = Homo_sapiens
+Family_Name = Unknown
+Family_ID = F319_2.00
+width = 11
+XX
+A |    13   13    4    0   33    0    0    0    0    2   49
+C |     8   87    4   87   40    9    0   94    8   98   17
+G |    79    0   92   10   20   11  100    0   92    0   34
+T |     0    0    0    3    7   80    0    6    0    0    0
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M03196_2.00
+TF_Name = CDX2
+ENSEMBLE_ID = ENSG00000165556
+TF_ID = T209886_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 9
+XX
+A |    13    4    6    7   98    0    8   44    5
+C |    10    2    1    0    0    9    1    1   54
+G |    21    2    0    1    1    1   38   51   18
+T |    56   92   93   92    1   90   53    4   23
+XX
+//

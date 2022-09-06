@@ -1,0 +1,15 @@
+Motif_ID = M09197_2.00
+TF_Name = Cdx4
+ENSEMBLE_ID = ENSMUSG00000031326
+TF_ID = T212464_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 12
+XX
+A |    25   18   82    2    2    8   96    4   17   21    8   20
+C |     2    1    4    1    1    5    2   18    3    5   56   41
+G |    11   70    2    2    2    8    2    4   47   65   16   12
+T |    62   11   12   95   95   79    0   74   33    9   20   27
+XX
+//

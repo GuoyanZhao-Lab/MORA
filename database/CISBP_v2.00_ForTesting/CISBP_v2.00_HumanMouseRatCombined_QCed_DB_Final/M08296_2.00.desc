@@ -1,0 +1,15 @@
+Motif_ID = M08296_2.00
+TF_Name = SP4
+ENSEMBLE_ID = ENSG00000105866
+TF_ID = T094844_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 15
+XX
+A |    16   33   24   12    2    5   12    0   12    0    0    0   22   12   16
+C |    42   26   19   11   76   56   83   99    0  100  100   69   70   64   45
+G |    13   15   49   70    7    4    3    1   68    0    0    1    0    5    6
+T |    29   26    8    7   15   35    2    0   20    0    0   30    8   19   33
+XX
+//

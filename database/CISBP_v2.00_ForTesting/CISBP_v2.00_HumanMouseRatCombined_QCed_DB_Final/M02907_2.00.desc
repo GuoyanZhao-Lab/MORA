@@ -1,0 +1,15 @@
+Motif_ID = M02907_2.00
+TF_Name = HINFP
+ENSEMBLE_ID = ENSG00000172273
+TF_ID = T095118_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 12
+XX
+A |     4   49   50    0    0    0    0    0    0    0   20   18
+C |    60   23    8   79    3    0   97   99    6   93   13   20
+G |    19   19   39   20   95    0    3    0   90    4   44   37
+T |    17    9    3    1    2  100    0    1    4    3   23   25
+XX
+//

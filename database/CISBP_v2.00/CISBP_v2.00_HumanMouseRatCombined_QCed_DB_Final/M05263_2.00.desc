@@ -1,0 +1,15 @@
+Motif_ID = M05263_2.00
+TF_Name = PRRX2
+ENSEMBLE_ID = ENSG00000167157
+TF_ID = T209891_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    19    1  100  100    0    0   70   20
+C |    25    4    0    0    0    1    1    9
+G |    17    0    0    0    0    0   27   65
+T |    39   95    0    0  100   99    2    6
+XX
+//

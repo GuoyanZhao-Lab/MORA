@@ -1,0 +1,15 @@
+Motif_ID = M03143_2.00
+TF_Name = MNX1
+ENSEMBLE_ID = ENSG00000130675
+TF_ID = T209837_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    19   20    0   73   92    0    7   64   21   26
+C |    18   19    0    8    0    0    0    1   31   35
+G |    20    9    0    2    7    6   15   35   27    4
+T |    43   52  100   17    1   94   78    0   21   35
+XX
+//

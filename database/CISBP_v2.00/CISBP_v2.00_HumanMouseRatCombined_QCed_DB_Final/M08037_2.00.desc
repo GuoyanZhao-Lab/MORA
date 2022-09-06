@@ -1,0 +1,15 @@
+Motif_ID = M08037_2.00
+TF_Name = TP73
+ENSEMBLE_ID = ENSG00000078900
+TF_ID = T311039_2.00
+TF_Species = Homo_sapiens
+Family_Name = p53
+Family_ID = F279_2.00
+width = 15
+XX
+A |    24    0   57   29    0    4    8    5   39   25   45    0   47   13    0
+C |     7   98   21    1    0   33   48   82   43   13    0   91   31    1    0
+G |    56    2    9   19  100    0   15    5    0   43   33    9    0   23   96
+T |    13    0   13   51    0   63   29    8   18   19   22    0   22   63    4
+XX
+//

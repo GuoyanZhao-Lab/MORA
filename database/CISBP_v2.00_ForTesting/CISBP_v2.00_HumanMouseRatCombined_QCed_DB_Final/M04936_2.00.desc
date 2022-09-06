@@ -1,0 +1,15 @@
+Motif_ID = M04936_2.00
+TF_Name = LHX5
+ENSEMBLE_ID = ENSG00000089116
+TF_ID = T209776_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    19    0   98  100    0    0   71   14
+C |    21    2    0    0    0    0    0   43
+G |    22    0    2    0    0    3   29   39
+T |    38   98    0    0  100   97    0    4
+XX
+//

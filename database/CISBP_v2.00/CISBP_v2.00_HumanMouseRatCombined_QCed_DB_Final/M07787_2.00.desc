@@ -1,0 +1,15 @@
+Motif_ID = M07787_2.00
+TF_Name = USF2
+ENSEMBLE_ID = ENSG00000105698
+TF_ID = T034257_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 11
+XX
+A |    23   18    1    0  100    0   22    1    0   43    6
+C |    14    1    5  100    0   99    0    0    0   14   46
+G |    56   81    2    0    0    1   78    0  100   34   19
+T |     7    0   92    0    0    0    0   99    0    9   29
+XX
+//

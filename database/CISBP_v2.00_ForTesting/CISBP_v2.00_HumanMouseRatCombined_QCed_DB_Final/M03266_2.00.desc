@@ -1,0 +1,15 @@
+Motif_ID = M03266_2.00
+TF_Name = Irx3
+ENSEMBLE_ID = ENSMUSG00000031734
+TF_ID = T212466_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 12
+XX
+A |    28   28    6    7   10    3   77    0    1    0   53   41
+C |     2    2    1    2    4   82    1    0    0    0   13    3
+G |     4   10    4   54    2    1   18    0   99    0    1   54
+T |    66   60   89   37   84   14    4  100    0  100   33    2
+XX
+//

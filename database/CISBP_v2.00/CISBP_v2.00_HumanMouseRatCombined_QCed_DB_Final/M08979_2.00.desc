@@ -1,0 +1,15 @@
+Motif_ID = M08979_2.00
+TF_Name = Sall4
+ENSEMBLE_ID = ENSMUSG00000027547
+TF_ID = T101066_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 10
+XX
+A |     4   23    0   59    1    1    2   29   13   17
+C |    81   66   99    1   81   98   97   34   48   51
+G |     3    1    0    3   16    1    0    1   26   14
+T |    12   10    1   37    2    0    1   36   13   18
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M00127_2.00
+TF_Name = EDL38120.1
+ENSEMBLE_ID = EDL38120.1
+TF_ID = T085689_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 8
+XX
+A |    59    4    0    0    2    0   68    5
+C |     8    4    0    4    0   88    8   79
+G |    25    2  100    0   98    0   20    8
+T |     8   90    0   96    0   12    4    8
+XX
+//

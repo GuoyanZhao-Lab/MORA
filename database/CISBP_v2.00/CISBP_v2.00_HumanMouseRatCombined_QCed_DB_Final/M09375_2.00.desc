@@ -1,0 +1,15 @@
+Motif_ID = M09375_2.00
+TF_Name = AIRE
+ENSEMBLE_ID = ENSG00000160224
+TF_ID = T321713_2.00
+TF_Species = Homo_sapiens
+Family_Name = SAND
+Family_ID = F299_2.00
+width = 18
+XX
+A |    22   36   57   43    2    9   57   50   25   45   36   50   61   18    7   52   50   22
+C |    11   16   18   25   98   89    7    7   14   14   14    2    2   82   89   20   14   12
+G |    27    2   18    9    0    2   13    4    9    7   14    9    5    0    0   14   18   26
+T |    40   46    7   23    0    0   23   39   52   34   36   39   32    0    4   14   18   40
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M01171_2.00
+TF_Name = PLAGL2
+ENSEMBLE_ID = ENSG00000126003
+TF_ID = T094897_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 10
+XX
+A |    22    4    0    0    0    0    0    0    9   21
+C |    22    4    0   15   80  100  100   93   68   21
+G |    23   81  100   85   20    0    0    0    3   21
+T |    33   11    0    0    0    0    0    7   20   37
+XX
+//

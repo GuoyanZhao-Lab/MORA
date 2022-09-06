@@ -1,0 +1,15 @@
+Motif_ID = M04726_2.00
+TF_Name = ELF2
+ENSEMBLE_ID = ENSG00000109381
+TF_ID = T176117_2.00
+TF_Species = Homo_sapiens
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 12
+XX
+A |    49   76   21    2    3    0    0  100  100   13    4   40
+C |    14    7   68   90   97    0    0    0    0    2   12   13
+G |    17    2    3    8    0  100  100    0    0   85    1   36
+T |    20   15    8    0    0    0    0    0    0    0   83   11
+XX
+//

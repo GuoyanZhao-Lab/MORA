@@ -1,0 +1,15 @@
+Motif_ID = M02809_2.00
+TF_Name = HES5
+ENSEMBLE_ID = ENSG00000197921
+TF_ID = T034341_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 12
+XX
+A |    14    3   32    0  100    0    0    0    0    0    0   42
+C |    50    0    3  100    0  100    0    0    0   85   99   10
+G |     2   97   65    0    0    0  100    0  100    1    0   30
+T |    34    0    0    0    0    0    0  100    0   14    1   18
+XX
+//

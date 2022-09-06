@@ -1,0 +1,15 @@
+Motif_ID = M04344_2.00
+TF_Name = MAF
+ENSEMBLE_ID = ENSG00000178573
+TF_ID = T059761_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 9
+XX
+A |    25   19    4   13   96    1    0   62   27
+C |    36   12    2   84    0    1   98    2   28
+G |    12   65    0    0    4   86    0   32   16
+T |    27    4   94    3    0   12    2    4   29
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M00431_2.00
+TF_Name = Prrx1
+ENSEMBLE_ID = ENSMUSG00000026586
+TF_ID = T212442_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    10   79   96    2   11   47   31   21
+C |    11    4    0    5   10    9   15   31
+G |     3   11    2    4   12   31   41   21
+T |    76    6    2   89   67   13   13   27
+XX
+//

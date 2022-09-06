@@ -1,0 +1,15 @@
+Motif_ID = M09449_2.00
+TF_Name = Nfyc
+ENSEMBLE_ID = ENSMUSG00000032897
+TF_ID = T350320_2.00
+TF_Species = Mus_musculus
+Family_Name = Unknown
+Family_ID = F319_2.00
+width = 14
+XX
+A |    13   11   61   32    0    0   98   99    0   10   73   19   59   43
+C |    33   42    9    4   99  100    0    0    0   62    3   14   18    4
+G |    20   13   27   54    0    0    0    1    0   23   23   60   17   42
+T |    34   34    3   10    1    0    2    0  100    5    1    7    6   11
+XX
+//

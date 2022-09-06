@@ -1,0 +1,15 @@
+Motif_ID = M09357_2.00
+TF_Name = Nfatc2
+ENSEMBLE_ID = ENSMUSG00000027544
+TF_ID = T317315_2.00
+TF_Species = Mus_musculus
+Family_Name = Rel
+Family_ID = F293_2.00
+width = 9
+XX
+A |    43   47    8    0    0    0    0    0   54
+C |    17   10    6    3    3    0  100  100   14
+G |    24   13    6    2    0    0    0    0    6
+T |    16   30   80   95   97  100    0    0   26
+XX
+//

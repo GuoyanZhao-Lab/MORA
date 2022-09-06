@@ -1,0 +1,15 @@
+Motif_ID = M03265_2.00
+TF_Name = Uncx
+ENSEMBLE_ID = ENSMUSG00000029546
+TF_ID = T212454_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    19    6   83   97    0    3   63   42
+C |    21   16    4    0    1    5   12    3
+G |    26    8    8    1    1    4   15   51
+T |    34   70    5    2   98   88   10    4
+XX
+//

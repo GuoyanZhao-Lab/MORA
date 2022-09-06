@@ -1,0 +1,15 @@
+Motif_ID = M04277_2.00
+TF_Name = NRL
+ENSEMBLE_ID = ENSG00000129535
+TF_ID = T059740_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 13
+XX
+A |    20   21    2   15   98    1    0   69   23   36   40   24   22
+C |    42    5    0   84    0    0  100    2   31   10   12   26   28
+G |    13   73    0    0    1   88    0   23   22   19    6   11   23
+T |    25    1   98    1    1   11    0    6   24   35   42   39   27
+XX
+//

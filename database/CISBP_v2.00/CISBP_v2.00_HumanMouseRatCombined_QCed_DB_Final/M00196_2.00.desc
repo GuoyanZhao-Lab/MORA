@@ -1,0 +1,15 @@
+Motif_ID = M00196_2.00
+TF_Name = Bbx
+ENSEMBLE_ID = ENSMUSG00000022641
+TF_ID = T328495_2.00
+TF_Species = Mus_musculus
+Family_Name = Sox
+Family_ID = F305_2.00
+width = 8
+XX
+A |     1    1    1   97    1    1    1   97
+C |     1    1   97    1    1    1    1    1
+G |     1    1    1    1    1    1   97    1
+T |    97   97    1    1   97   97    1    1
+XX
+//

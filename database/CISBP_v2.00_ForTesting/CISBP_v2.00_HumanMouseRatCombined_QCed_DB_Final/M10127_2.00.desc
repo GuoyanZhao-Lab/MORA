@@ -1,0 +1,15 @@
+Motif_ID = M10127_2.00
+TF_Name = MECOM
+ENSEMBLE_ID = ENSG00000085276
+TF_ID = T094812_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 11
+XX
+A |    11    4  100    0    0    0    4   93    0    0   15
+C |    15    0    0    0  100    0    0    0    0  100    0
+G |     4    0    0    0    0    0    0    7    0    0    0
+T |    70   96    0  100    0  100   96    0  100    0   85
+XX
+//

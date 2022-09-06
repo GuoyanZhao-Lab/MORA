@@ -1,0 +1,15 @@
+Motif_ID = M08820_2.00
+TF_Name = Atf1
+ENSEMBLE_ID = ENSMUSG00000023027
+TF_ID = T060461_2.00
+TF_Species = Mus_musculus
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 10
+XX
+A |    31    0    0  100    0    3    2    8   74   19
+C |    34    0    0    0   97    0    7   56   16   39
+G |    34    0  100    0    3   97    0   27    6   30
+T |     1  100    0    0    0    0   91    9    4   12
+XX
+//

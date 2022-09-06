@@ -1,0 +1,15 @@
+Motif_ID = M08845_2.00
+TF_Name = Crem
+ENSEMBLE_ID = ENSMUSG00000063889
+TF_ID = T060502_2.00
+TF_Species = Mus_musculus
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 11
+XX
+A |     4   46   26    0    3   96    3   22   11    3   84
+C |    57   21   41    0    0    4   90    0    3   70   10
+G |    26   33   26    0   97    0    7   78    0   23    3
+T |    13    0    7  100    0    0    0    0   86    4    3
+XX
+//

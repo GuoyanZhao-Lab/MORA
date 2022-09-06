@@ -1,0 +1,15 @@
+Motif_ID = M00529_2.00
+TF_Name = Q8VHG7_MOUSE
+ENSEMBLE_ID = ENSMUSG00000074369
+TF_ID = T212577_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    33    0  100  100    0    0    0   19
+C |     9    0    0    0    0   97   88   50
+G |     0    0    0    0    0    0    0    6
+T |    58  100    0    0  100    3   12   25
+XX
+//

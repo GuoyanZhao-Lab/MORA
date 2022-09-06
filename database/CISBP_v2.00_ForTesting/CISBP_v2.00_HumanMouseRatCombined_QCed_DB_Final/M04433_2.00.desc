@@ -1,0 +1,15 @@
+Motif_ID = M04433_2.00
+TF_Name = ZBTB45
+ENSEMBLE_ID = ENSG00000119574
+TF_ID = T094869_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 11
+XX
+A |     8   34    1   96    0   97    7    4    4   20   40
+C |    18   49   23    0    0    0   13    1   29    5   27
+G |    34   16    0    3    0    2   68   94   24   64   18
+T |    40    1   76    1  100    1   12    1   43   11   15
+XX
+//

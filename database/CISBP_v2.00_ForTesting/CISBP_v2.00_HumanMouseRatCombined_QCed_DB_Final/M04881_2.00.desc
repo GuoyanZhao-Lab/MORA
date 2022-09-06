@@ -1,0 +1,15 @@
+Motif_ID = M04881_2.00
+TF_Name = GCM2
+ENSEMBLE_ID = ENSG00000124827
+TF_ID = T197996_2.00
+TF_Species = Homo_sapiens
+Family_Name = GCM
+Family_ID = F212_2.00
+width = 9
+XX
+A |    69    0   14    7    3    0    0    6   32
+C |     4    1    0   83    0    0    0   27   13
+G |    25    0   86    4   93  100  100    4   38
+T |     2   99    0    6    4    0    0   63   17
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M08755_2.00
+TF_Name = Myog
+ENSEMBLE_ID = ENSMUSG00000026459
+TF_ID = T035689_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 13
+XX
+A |     7   30   22    0   98    0    1    0    0    0    1   19   11
+C |    49   36   26   99    0   11   97    0    0   40   57   43   38
+G |    21   10   45    1    1   88    1    0  100    5    5   16   20
+T |    23   24    7    0    1    1    1  100    0   55   37   22   31
+XX
+//

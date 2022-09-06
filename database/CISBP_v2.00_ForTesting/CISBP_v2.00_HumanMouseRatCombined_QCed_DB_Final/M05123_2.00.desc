@@ -1,0 +1,15 @@
+Motif_ID = M05123_2.00
+TF_Name = HOXD13
+ENSEMBLE_ID = ENSG00000128714
+TF_ID = T209836_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 11
+XX
+A |    11    4    1    0    5    0   93  100   99   60   15
+C |    33   87    0   96    0    0    0    0    1   19   46
+G |    38    9    0    0   95    0    0    0    0    7   12
+T |    18    0   99    4    0  100    7    0    0   14   27
+XX
+//

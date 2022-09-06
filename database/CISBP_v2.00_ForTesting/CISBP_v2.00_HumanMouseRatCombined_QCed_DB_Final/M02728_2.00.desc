@@ -1,0 +1,15 @@
+Motif_ID = M02728_2.00
+TF_Name = TCF4
+ENSEMBLE_ID = ENSG00000196628
+TF_ID = T034340_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 7
+XX
+A |    39    1   98    0    1    1    1
+C |    10   99    1   89   95    1    0
+G |    48    0    1    9    4    0   98
+T |     3    0    0    2    0   98    1
+XX
+//

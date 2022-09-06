@@ -1,0 +1,15 @@
+Motif_ID = M05381_2.00
+TF_Name = HOXA4
+ENSEMBLE_ID = ENSG00000197576
+TF_ID = T209936_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    16    0   88   98    0    0   72    3
+C |    34    9    6    2   22    7    0   46
+G |    24    5    6    0    0   59   28   14
+T |    26   86    0    0   78   34    0   37
+XX
+//

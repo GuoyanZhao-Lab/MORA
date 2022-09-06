@@ -1,0 +1,15 @@
+Motif_ID = M01737_2.00
+TF_Name = Figla
+ENSEMBLE_ID = ENSMUSG00000030001
+TF_ID = T035701_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 9
+XX
+A |    35   30    5   98    1    2    1    0   18
+C |    21   31   88    0   63   57    4    0   19
+G |    17   22    1    2   31   40    3   99   38
+T |    27   17    6    0    5    1   92    1   25
+XX
+//

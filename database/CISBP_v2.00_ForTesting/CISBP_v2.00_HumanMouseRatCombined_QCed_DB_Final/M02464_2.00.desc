@@ -1,0 +1,15 @@
+Motif_ID = M02464_2.00
+TF_Name = Sp110
+ENSEMBLE_ID = ENSMUSG00000070034
+TF_ID = T321803_2.00
+TF_Species = Mus_musculus
+Family_Name = SAND
+Family_ID = F299_2.00
+width = 9
+XX
+A |    20   20   19   63    0    0   12   38   30
+C |    32   28   28   17    1    0    0   25   23
+G |    23   27   26   20   99  100   80   24   25
+T |    25   25   27    0    0    0    8   13   22
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M03051_2.00
+TF_Name = FOXO6
+ENSEMBLE_ID = ENSG00000204060
+TF_ID = T185802_2.00
+TF_Species = Homo_sapiens
+Family_Name = Forkhead
+Family_ID = F196_2.00
+width = 14
+XX
+A |    10   10    2    0    0    0    1  100    0   98    5   13   62    8
+C |     8    4    2   98   99   99   97    0  100    1   92    4   20   74
+G |    12    3    2    0    0    1    0    0    0    1    1   79    7   11
+T |    70   83   94    2    1    0    2    0    0    0    2    4   11    7
+XX
+//

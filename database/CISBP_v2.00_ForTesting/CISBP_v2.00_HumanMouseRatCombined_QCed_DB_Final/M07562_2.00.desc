@@ -1,0 +1,15 @@
+Motif_ID = M07562_2.00
+TF_Name = ZKSCAN2
+ENSEMBLE_ID = ENSG00000155592
+TF_ID = T076455_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF,MADF
+Family_ID = F119_2.00
+width = 9
+XX
+A |    43   59   62   61   68   71   62  100    0
+C |     0    0    5    9    0   21   29    0  100
+G |    47   41   26   26   21    0    0    0    0
+T |    10    0    7    4   11    8    9    0    0
+XX
+//

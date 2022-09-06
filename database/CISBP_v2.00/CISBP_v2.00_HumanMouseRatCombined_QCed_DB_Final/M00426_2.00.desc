@@ -1,0 +1,15 @@
+Motif_ID = M00426_2.00
+TF_Name = Rax
+ENSEMBLE_ID = ENSMUSG00000024518
+TF_ID = T212433_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 9
+XX
+A |    27   22    9   80   97    4   11   38   27
+C |    24   32    5    6    0    5   11   10   21
+G |    31   19    1   10    2    6   13   40   36
+T |    18   27   85    4    1   85   65   12   16
+XX
+//

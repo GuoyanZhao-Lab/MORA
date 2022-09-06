@@ -1,0 +1,15 @@
+Motif_ID = M08770_2.00
+TF_Name = Neurod2
+ENSEMBLE_ID = ENSMUSG00000038255
+TF_ID = T035722_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    49   42    0  100    0   75   10    0    0   10
+C |     8   20  100    0    1   23    0    0   17   39
+G |    36   38    0    0   93    2    1   96   79   16
+T |     7    0    0    0    6    0   89    4    4   35
+XX
+//

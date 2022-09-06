@@ -1,0 +1,15 @@
+Motif_ID = M08049_2.00
+TF_Name = HIF1A
+ENSEMBLE_ID = ENSG00000100644
+TF_ID = T034254_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    20   11  100    0    0    0    9    9   21   17
+C |    24   27    0  100    0    4    4   85   30   32
+G |    42   27    0    0  100    1   86    2   26   28
+T |    14   35    0    0    0   95    1    4   23   23
+XX
+//

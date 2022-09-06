@@ -1,0 +1,15 @@
+Motif_ID = M04671_2.00
+TF_Name = ONECUT2
+ENSEMBLE_ID = ENSG00000119547
+TF_ID = T167059_2.00
+TF_Species = Homo_sapiens
+Family_Name = CUT,Homeodomain
+Family_ID = F164_2.00
+width = 12
+XX
+A |    82    0   12    0  100    0    0   80  100    0  100   58
+C |     0   78   28    0    0    0  100    0    0    0    0   32
+G |    13    0   60  100    0    0    0   20    0    0    0    1
+T |     5   22    0    0    0  100    0    0    0  100    0    9
+XX
+//

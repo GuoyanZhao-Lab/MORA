@@ -1,0 +1,15 @@
+Motif_ID = M07799_2.00
+TF_Name = MYC
+ENSEMBLE_ID = ENSG00000136997
+TF_ID = T034290_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    27   42    9    0   98    0   18    6    0    5
+C |    21   14   39  100    0   92    0   13    0   12
+G |    46   30   49    0    2    1   82    0   97   67
+T |     6   14    3    0    0    7    0   81    3   16
+XX
+//

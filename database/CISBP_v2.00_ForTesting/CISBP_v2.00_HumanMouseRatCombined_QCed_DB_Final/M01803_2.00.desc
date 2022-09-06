@@ -1,0 +1,15 @@
+Motif_ID = M01803_2.00
+TF_Name = Tef
+ENSEMBLE_ID = ENSMUSG00000022389
+TF_ID = T060460_2.00
+TF_Species = Mus_musculus
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 10
+XX
+A |    21   39    7    4   65    8   25   18   37   44
+C |    20   16    4    5    3   54   17   25   24   17
+G |    28   37    6   16   23    6   48   13   23   20
+T |    31    8   83   75    9   32   10   44   16   19
+XX
+//

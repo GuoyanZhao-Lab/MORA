@@ -1,0 +1,15 @@
+Motif_ID = M07932_2.00
+TF_Name = SP2
+ENSEMBLE_ID = ENSG00000167182
+TF_ID = T095047_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 15
+XX
+A |     7    4    8    1  100    0  100    6   32    4    3   14   11   15    9
+C |     3   47   91   22    0    3    0    1   57    0    8   79   57   43   48
+G |    58   46    1    0    0   97    0   93    7   96   70    0   19   34   29
+T |    32    3    0   77    0    0    0    0    4    0   19    7   13    8   14
+XX
+//

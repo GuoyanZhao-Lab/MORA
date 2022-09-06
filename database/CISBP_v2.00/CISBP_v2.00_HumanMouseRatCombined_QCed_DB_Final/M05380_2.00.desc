@@ -1,0 +1,15 @@
+Motif_ID = M05380_2.00
+TF_Name = BSX
+ENSEMBLE_ID = ENSG00000188909
+TF_ID = T209935_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    19    0   84  100    0    0   39   22
+C |    27    0   15    0    4   11    0   35
+G |    31    0    1    0   10   30   61   30
+T |    23  100    0    0   86   59    0   13
+XX
+//

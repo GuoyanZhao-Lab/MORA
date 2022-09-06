@@ -1,0 +1,15 @@
+Motif_ID = M05010_2.00
+TF_Name = PHOX2B
+ENSEMBLE_ID = ENSG00000109132
+TF_ID = T209802_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 11
+XX
+A |     6   96  100    0    1   61   36   89    0    1   91
+C |     2    0    0    0    4   12    7    0    0    3    1
+G |     0    2    0    0    2   10   56    9    0    0    1
+T |    92    2    0  100   93   17    1    2  100   96    7
+XX
+//

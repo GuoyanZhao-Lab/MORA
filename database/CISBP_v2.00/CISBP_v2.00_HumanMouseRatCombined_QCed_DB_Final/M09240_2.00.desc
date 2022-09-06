@@ -1,0 +1,15 @@
+Motif_ID = M09240_2.00
+TF_Name = Irf9
+ENSEMBLE_ID = ENSMUSG00000002325
+TF_ID = T244216_2.00
+TF_Species = Mus_musculus
+Family_Name = IRF
+Family_ID = F243_2.00
+width = 12
+XX
+A |    21  100  100  100    0   19    0  100  100  100    0    0
+C |     0    0    0    0   21   62    0    0    0    0   62    0
+G |    79    0    0    0   57    0   81    0    0    0    0   19
+T |     0    0    0    0   22   19   19    0    0    0   38   81
+XX
+//

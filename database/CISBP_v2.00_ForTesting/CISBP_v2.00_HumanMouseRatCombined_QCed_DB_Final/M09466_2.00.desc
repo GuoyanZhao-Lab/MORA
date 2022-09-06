@@ -1,0 +1,15 @@
+Motif_ID = M09466_2.00
+TF_Name = Tcf3
+ENSEMBLE_ID = ENSMUSG00000020167
+TF_ID = T035673_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    34    0  100    0    1    0    0    0   16   24
+C |    18  100    0   13   75    0    0   35   25   24
+G |    47    0    0   87   24    0  100   22   30   17
+T |     1    0    0    0    0  100    0   43   29   35
+XX
+//

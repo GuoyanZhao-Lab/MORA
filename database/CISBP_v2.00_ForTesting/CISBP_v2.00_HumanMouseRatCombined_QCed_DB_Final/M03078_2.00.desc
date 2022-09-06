@@ -1,0 +1,15 @@
+Motif_ID = M03078_2.00
+TF_Name = DLX6
+ENSEMBLE_ID = ENSG00000006377
+TF_ID = T209767_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    24    7   91  100    2    6   43   16
+C |    18    0    2    0    0    4    1   26
+G |    31    1    5    0    4    9   51   35
+T |    27   92    2    0   94   81    5   23
+XX
+//

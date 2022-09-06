@@ -1,0 +1,15 @@
+Motif_ID = M02101_2.00
+TF_Name = Noto
+ENSEMBLE_ID = ENSMUSG00000068302
+TF_ID = T212563_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    26   18   19   57   82    7   17   54   34   21
+C |    25   30   20   20    6    5    6    7   18   28
+G |    28   18    7    6    5    6   20   20   30   25
+T |    21   34   54   17    7   82   57   19   18   26
+XX
+//

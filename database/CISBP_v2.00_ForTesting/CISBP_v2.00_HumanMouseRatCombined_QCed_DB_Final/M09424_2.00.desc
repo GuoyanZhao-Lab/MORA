@@ -1,0 +1,15 @@
+Motif_ID = M09424_2.00
+TF_Name = Stat4
+ENSEMBLE_ID = ENSMUSG00000062939
+TF_ID = T337547_2.00
+TF_Species = Mus_musculus
+Family_Name = STAT
+Family_ID = F308_2.00
+width = 10
+XX
+A |     7    0    0    6    2   14   24    8   61   78
+C |    35    1    1   92   71   38   12    8   27    9
+G |     5    1    2    1    1   11   51   57    2    5
+T |    53   98   97    1   26   37   13   27   10    8
+XX
+//

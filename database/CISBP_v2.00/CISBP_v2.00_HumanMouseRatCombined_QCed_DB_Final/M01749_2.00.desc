@@ -1,0 +1,15 @@
+Motif_ID = M01749_2.00
+TF_Name = Bhlha15
+ENSEMBLE_ID = ENSMUSG00000052271
+TF_ID = T035744_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 8
+XX
+A |    62    0  100    0   80    0    0    0
+C |    15  100    0    0   20    0    0   29
+G |    23    0    0   20    0    0  100   57
+T |     0    0    0   80    0  100    0   14
+XX
+//

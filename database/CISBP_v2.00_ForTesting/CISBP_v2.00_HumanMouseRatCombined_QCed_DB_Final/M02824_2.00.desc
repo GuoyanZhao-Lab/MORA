@@ -1,0 +1,15 @@
+Motif_ID = M02824_2.00
+TF_Name = CEBPE
+ENSEMBLE_ID = ENSG00000092067
+TF_ID = T059723_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 10
+XX
+A |    45    1    1   41    2   15   12   95  100    1
+C |    23    1    0    0   84    3   79    5    0   44
+G |    27    0   12   48    2   79    0    0    0    5
+T |     5   98   87   11   12    3    9    0    0   50
+XX
+//

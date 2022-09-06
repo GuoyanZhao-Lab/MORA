@@ -1,0 +1,15 @@
+Motif_ID = M08052_2.00
+TF_Name = TWIST1
+ENSEMBLE_ID = ENSG00000122691
+TF_ID = T034273_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 13
+XX
+A |    30   29   28   15    1   98    1   90    1    1    6   14   24
+C |    21   21   16   73   98    0    5    6    1    1   10   26   26
+G |    25   21   20    9    0    1   89    3    1   96   14   29   23
+T |    24   29   36    3    1    1    5    1   97    2   70   31   27
+XX
+//

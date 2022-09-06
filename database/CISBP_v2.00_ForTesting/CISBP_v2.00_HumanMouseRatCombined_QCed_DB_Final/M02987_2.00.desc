@@ -1,0 +1,15 @@
+Motif_ID = M02987_2.00
+TF_Name = EHF
+ENSEMBLE_ID = ENSG00000135373
+TF_ID = T176124_2.00
+TF_Species = Homo_sapiens
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 12
+XX
+A |    43   83   10    7   11    0    0   99   98   12    3   51
+C |    16    3   69   75   87    0    0    1    1    2    6    9
+G |    13    3   13   17    1  100  100    0    1   85    2   24
+T |    28   11    8    1    1    0    0    0    0    1   89   16
+XX
+//

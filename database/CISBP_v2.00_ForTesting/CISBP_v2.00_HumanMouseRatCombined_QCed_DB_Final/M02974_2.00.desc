@@ -1,0 +1,15 @@
+Motif_ID = M02974_2.00
+TF_Name = SPDEF
+ENSEMBLE_ID = ENSG00000124664
+TF_ID = T176121_2.00
+TF_Species = Homo_sapiens
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 15
+XX
+A |    70    3   69   89    1    1    0    0    1    0   85   23   25   64   12
+C |     9    0    0    0    0   99  100    0    1    4    2   66   62   16   63
+G |    13    0   30    4    2    0    0  100   98   96    0    9    4    4    4
+T |     8   97    1    7   97    0    0    0    0    0   13    2    9   16   21
+XX
+//

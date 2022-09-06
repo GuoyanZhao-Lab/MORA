@@ -1,0 +1,15 @@
+Motif_ID = M11049_2.00
+TF_Name = CDC5L
+ENSEMBLE_ID = ENSG00000096401
+TF_ID = T269575_2.00
+TF_Species = Homo_sapiens
+Family_Name = Myb/SANT
+Family_ID = F266_2.00
+width = 12
+XX
+A |     0   60   10   10   10  100   80   10   60   10   80   60
+C |    10   10    0    0    0    0   10   70    0   10   10    0
+G |    90   10   30   10    0    0    0    0   30    0   10   20
+T |     0   20   60   80   90    0   10   20   10   80    0   20
+XX
+//

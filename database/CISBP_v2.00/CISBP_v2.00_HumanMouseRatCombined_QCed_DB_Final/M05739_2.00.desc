@@ -1,0 +1,15 @@
+Motif_ID = M05739_2.00
+TF_Name = SKOR2
+ENSEMBLE_ID = ENSG00000215474
+TF_ID = T321717_2.00
+TF_Species = Homo_sapiens
+Family_Name = SAND
+Family_ID = F299_2.00
+width = 14
+XX
+A |    23    7    0  100  100    0    0  100   24   49   11   19   21   32
+C |    41    0    0    0    0    0    0    0   75   36   18   30   10   24
+G |    23   14    0    0    0    0    0    0    0    7   55   15    8   23
+T |    13   79  100    0    0  100  100    0    1    8   16   36   61   21
+XX
+//

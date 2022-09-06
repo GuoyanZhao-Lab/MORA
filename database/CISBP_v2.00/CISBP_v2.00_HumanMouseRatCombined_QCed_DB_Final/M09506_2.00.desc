@@ -1,0 +1,15 @@
+Motif_ID = M09506_2.00
+TF_Name = EGR1
+ENSEMBLE_ID = ENSG00000120738
+TF_ID = T094872_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 10
+XX
+A |     2   42    0    3    0   72    0   30    0   66
+C |    94    1  100   97   97   28  100    2   88   14
+G |     0   42    0    0    0    0    0   52    4    7
+T |     4   15    0    0    3    0    0   16    8   13
+XX
+//

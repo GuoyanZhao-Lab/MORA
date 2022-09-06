@@ -1,0 +1,15 @@
+Motif_ID = M00750_2.00
+TF_Name = Ahctf1
+ENSEMBLE_ID = ENSMUSG00000026491
+TF_ID = T017413_2.00
+TF_Species = Mus_musculus
+Family_Name = AT hook
+Family_ID = F039_2.00
+width = 8
+XX
+A |    75   80   73   27   73   67   69   17
+C |     8    6    7    6    7    6    8    8
+G |     8    7    7    7    7    7    8    8
+T |     9    7   13   60   13   20   15   67
+XX
+//

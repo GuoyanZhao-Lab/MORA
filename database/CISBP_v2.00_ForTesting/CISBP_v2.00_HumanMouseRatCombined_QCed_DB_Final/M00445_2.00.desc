@@ -1,0 +1,15 @@
+Motif_ID = M00445_2.00
+TF_Name = Lhx5
+ENSEMBLE_ID = ENSMUSG00000029595
+TF_ID = T212456_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 9
+XX
+A |    15   69   89    3   11   49   37   29   28
+C |     9    9    1    4   10    5   19   24   20
+G |     5   13    4    3   16   35   27   18   18
+T |    71    9    6   90   63   11   17   29   34
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M05765_2.00
+TF_Name = SOX4
+ENSEMBLE_ID = ENSG00000124766
+TF_ID = T328063_2.00
+TF_Species = Homo_sapiens
+Family_Name = Sox
+Family_ID = F305_2.00
+width = 10
+XX
+A |    25   62  100    0  100  100   66   15   29   32
+C |    14   10    0   99    0    0    1    1   20   26
+G |    43   23    0    1    0    0    1   83   49   34
+T |    18    5    0    0    0    0   32    1    2    8
+XX
+//

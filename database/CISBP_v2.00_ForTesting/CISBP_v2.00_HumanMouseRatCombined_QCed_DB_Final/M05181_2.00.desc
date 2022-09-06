@@ -1,0 +1,15 @@
+Motif_ID = M05181_2.00
+TF_Name = HMBOX1
+ENSEMBLE_ID = ENSG00000147421
+TF_ID = T209858_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 9
+XX
+A |    14    3   85  100    0    0   98   10    3
+C |    29    2    1    0  100   16    0    3   23
+G |    27    0    4    0    0    0    0   87   32
+T |    30   95   10    0    0   84    2    0   42
+XX
+//

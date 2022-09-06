@@ -1,0 +1,15 @@
+Motif_ID = M09035_2.00
+TF_Name = TFDP1
+ENSEMBLE_ID = ENSG00000198176
+TF_ID = T172624_2.00
+TF_Species = Homo_sapiens
+Family_Name = E2F
+Family_ID = F174_2.00
+width = 14
+XX
+A |    35   27   33   32   10    3    7    5    1    8   83   63   48   31
+C |    14   13   11    8   11    1   88    2    4    3    2   19   12   18
+G |    40   52   42   43   78   94    1   90   94   88   13   16   25   28
+T |    11    8   14   17    1    2    4    3    1    1    2    2   15   23
+XX
+//

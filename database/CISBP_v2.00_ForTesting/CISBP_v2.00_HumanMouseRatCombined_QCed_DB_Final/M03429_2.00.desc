@@ -1,0 +1,15 @@
+Motif_ID = M03429_2.00
+TF_Name = Vdr
+ENSEMBLE_ID = ENSMUSG00000022479
+TF_ID = T303918_2.00
+TF_Species = Mus_musculus
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 16
+XX
+A |    25   58    0    0    1    0   81    5   25   10   33    0    0    0    0   90
+C |     8    0    0    1    1   97    0   35   45    7    0    0    0    0   95    1
+G |    66   42  100   15    2    0   16    3    5   83   67  100    9    2    1    8
+T |     1    0    0   84   96    3    3   57   25    0    0    0   91   98    4    1
+XX
+//

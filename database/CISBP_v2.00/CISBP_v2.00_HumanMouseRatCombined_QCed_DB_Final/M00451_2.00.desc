@@ -1,0 +1,15 @@
+Motif_ID = M00451_2.00
+TF_Name = Dbx1
+ENSEMBLE_ID = ENSMUSG00000030507
+TF_ID = T212463_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    75   20    0   80  100    0   20  100
+C |     0    0    0    0    0    0    0    0
+G |     0    0    0    0    0    0    0    0
+T |    25   80  100   20    0  100   80    0
+XX
+//

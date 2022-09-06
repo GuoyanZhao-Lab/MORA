@@ -1,0 +1,15 @@
+Motif_ID = M00500_2.00
+TF_Name = Tgif1
+ENSEMBLE_ID = ENSMUSG00000047407
+TF_ID = T212524_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    29   27    8    2   93    2   81   16   20   22
+C |    20   20    6    0    0   94    0   14   32   24
+G |    22   21    2   98    3    1   16   48   27   19
+T |    29   32   84    0    4    3    3   22   21   35
+XX
+//

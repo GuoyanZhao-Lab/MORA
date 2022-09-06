@@ -1,0 +1,15 @@
+Motif_ID = M03105_2.00
+TF_Name = MEOX2
+ENSEMBLE_ID = ENSG00000106511
+TF_ID = T209794_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 14
+XX
+A |    24    4   81   98    1    1   99    0   14   98    0    4   81   15
+C |    21    3    0    1    2    0    0    1    1    1    1    1    1   33
+G |    11    1   16    0    0   79    1    0   82    0    1   41   13   35
+T |    44   92    3    1   97   20    0   99    3    1   98   54    5   17
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M04237_2.00
+TF_Name = DBP
+ENSEMBLE_ID = ENSG00000105516
+TF_ID = T059726_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 12
+XX
+A |    15   32    0    0  100    0   13    0  100  100    0   25
+C |    37   10    0    0    0  100    0    0    0    0   61   27
+G |    25   58    0    0    0    0   87    0    0    0    9   34
+T |    23    0  100  100    0    0    0  100    0    0   30   14
+XX
+//

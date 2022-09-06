@@ -1,0 +1,15 @@
+Motif_ID = M03255_2.00
+TF_Name = Msx3
+ENSEMBLE_ID = ENSMUSG00000025469
+TF_ID = T212439_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 18
+XX
+A |     3   94  100    1    1   18    7   28   28   17   18    2   86  100    0    3   28   13
+C |     7    0    0    1   11    2   39   16   17   17   17    8    1    0    2    7    3   43
+G |     1    4    0    3    4   74   42   10   12   19   13    1    8    0    5    8   65   30
+T |    89    2    0   95   84    6   12   46   43   47   52   89    5    0   93   82    4   14
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M08275_2.00
+TF_Name = ZFP64
+ENSEMBLE_ID = ENSG00000020256
+TF_ID = T094784_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 15
+XX
+A |     8   26    8    7    0    0    0    0    0    2    1   11    3    7   11
+C |    41   17   34   15   95  100   85    0    0    0   52   59   80   72   42
+G |    40   43   31   15    0    0    8  100  100   97   33   11   17   12   29
+T |    11   14   27   63    5    0    7    0    0    1   14   19    0    9   18
+XX
+//

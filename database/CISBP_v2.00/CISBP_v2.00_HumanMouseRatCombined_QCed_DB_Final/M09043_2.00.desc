@@ -1,0 +1,15 @@
+Motif_ID = M09043_2.00
+TF_Name = E2f6
+ENSEMBLE_ID = ENSMUSG00000057469
+TF_ID = T172776_2.00
+TF_Species = Mus_musculus
+Family_Name = E2F
+Family_ID = F174_2.00
+width = 12
+XX
+A |    22   20   15    2   12    6    1    1   81   58   26   19
+C |    17    7   12    3   86    3    6    1    0    5   17   22
+G |    30   46   72   94    0   89   92   97   19   36   52   48
+T |    31   27    1    1    2    2    1    1    0    1    5   11
+XX
+//

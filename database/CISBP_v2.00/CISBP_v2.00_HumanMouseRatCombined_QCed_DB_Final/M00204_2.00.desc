@@ -1,0 +1,15 @@
+Motif_ID = M00204_2.00
+TF_Name = Sox18
+ENSEMBLE_ID = ENSMUSG00000046470
+TF_ID = T328506_2.00
+TF_Species = Mus_musculus
+Family_Name = Sox
+Family_ID = F305_2.00
+width = 8
+XX
+A |    30   32   35   60    8   88   90   18
+C |    21   18   19    7   50    3    3    7
+G |    24   26   23    6   23    0    6    4
+T |    25   24   23   27   19    9    1   71
+XX
+//

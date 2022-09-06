@@ -1,0 +1,15 @@
+Motif_ID = M02097_2.00
+TF_Name = Sebox
+ENSEMBLE_ID = ENSMUSG00000001103
+TF_ID = T212384_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    30   45    7    0  100  100    0    0   88   31
+C |    28   29   20    0    0    0    0    0    4   15
+G |    21    9    0    0    0    0    0    0    4   38
+T |    21   17   73  100    0    0  100  100    4   16
+XX
+//

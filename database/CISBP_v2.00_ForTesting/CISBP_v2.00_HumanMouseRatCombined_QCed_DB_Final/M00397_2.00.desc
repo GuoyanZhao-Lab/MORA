@@ -1,0 +1,15 @@
+Motif_ID = M00397_2.00
+TF_Name = Rhox6
+ENSEMBLE_ID = ENSMUSG00000006200
+TF_ID = T212399_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    23   11   89   91    7   28   54   28
+C |    32    5    3    4   19   15   24   20
+G |    15    0    7    4   12   23   10   37
+T |    30   84    1    1   62   34   12   15
+XX
+//

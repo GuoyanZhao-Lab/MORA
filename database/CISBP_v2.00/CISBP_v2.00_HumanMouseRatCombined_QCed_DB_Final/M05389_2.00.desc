@@ -1,0 +1,15 @@
+Motif_ID = M05389_2.00
+TF_Name = DPRX
+ENSEMBLE_ID = ENSG00000204595
+TF_ID = T209942_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    73    5   79    0   65  100    0   11    2   21
+C |     5    5   20    0   15    0    0   87   64   32
+G |    15   88    0    0   10    0    1    0    0   21
+T |     7    2    1  100   10    0   99    2   34   26
+XX
+//

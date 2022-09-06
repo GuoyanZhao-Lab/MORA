@@ -1,0 +1,15 @@
+Motif_ID = M04385_2.00
+TF_Name = ZSCAN29
+ENSEMBLE_ID = ENSG00000140265
+TF_ID = T076454_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF,MADF
+Family_ID = F119_2.00
+width = 20
+XX
+A |    23   26   16    0   36    1   97   21   51    0    1    1    1    0   99    1   75    6   30   26
+C |    64   47    7   44    1    0    0    7   49   99    0    0   77    5    0   75    0   77   25   19
+G |     4    5   70    0   61    0    3   71    0    0   99   37    6    0    0    1   25    4   24   40
+T |     9   22    7   56    2   99    0    1    0    1    0   62   16   95    1   23    0   13   21   15
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M02385_2.00
+TF_Name = MYRF
+ENSEMBLE_ID = ENSG00000124920
+TF_ID = T299765_2.00
+TF_Species = Homo_sapiens
+Family_Name = Ndt80/PhoG
+Family_ID = F275_2.00
+width = 8
+XX
+A |     1    1    1    1   97    1    1   97
+C |     1    1    1    1    1   97   97    1
+G |     1   97   97    1    1    1    1    1
+T |    97    1    1   97    1    1    1    1
+XX
+//

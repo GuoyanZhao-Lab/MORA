@@ -1,0 +1,15 @@
+Motif_ID = M05173_2.00
+TF_Name = LHX9
+ENSEMBLE_ID = ENSG00000143355
+TF_ID = T209855_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    14    0   97  100    0    0   66   14
+C |    32    5    3    0    0    0    0   12
+G |    17    0    0    0    0    8   34   70
+T |    37   95    0    0  100   92    0    4
+XX
+//

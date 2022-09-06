@@ -1,0 +1,15 @@
+Motif_ID = M05372_2.00
+TF_Name = ARGFX
+ENSEMBLE_ID = ENSG00000186103
+TF_ID = T209932_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 13
+XX
+A |    16    2   97   93    2    0    4   99  100    0    0   99   30
+C |    33    1    1    2    8   59   10    1    0    0    0    0    5
+G |     9    0    1    5   10    2    6    0    0    0    0    1   52
+T |    42   97    1    0   80   39   80    0    0  100  100    0   13
+XX
+//

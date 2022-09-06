@@ -1,0 +1,15 @@
+Motif_ID = M05199_2.00
+TF_Name = ALX3
+ENSEMBLE_ID = ENSG00000156150
+TF_ID = T209865_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    17    3   88  100    0    3   52   19
+C |    22   10    5    0    0    5    6   20
+G |    33    2    7    0    0    8   35   53
+T |    28   85    0    0  100   84    7    8
+XX
+//

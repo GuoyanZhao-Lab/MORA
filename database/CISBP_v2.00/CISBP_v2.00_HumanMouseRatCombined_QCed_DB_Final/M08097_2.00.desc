@@ -1,0 +1,15 @@
+Motif_ID = M08097_2.00
+TF_Name = Bcl6
+ENSEMBLE_ID = ENSMUSG00000022508
+TF_ID = T101031_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 14
+XX
+A |    24   16   14   13    4    0    0    2  100   14    3   88   91   36
+C |    17   12   66   22   18    1   85   42    0    0    2    3    3   26
+G |    20   52   10    1   11    0    0    9    0   86   92    8    2   18
+T |    39   20   10   64   67   99   15   47    0    0    3    1    4   20
+XX
+//

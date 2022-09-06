@@ -1,0 +1,15 @@
+Motif_ID = M08290_2.00
+TF_Name = MAZ
+ENSEMBLE_ID = ENSG00000103495
+TF_ID = T094836_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 9
+XX
+A |     2    0    0    0    0    9    0    0    0
+C |    53   92  100  100  100    0  100  100   89
+G |    38    0    0    0    0   35    0    0    0
+T |     7    8    0    0    0   56    0    0   11
+XX
+//

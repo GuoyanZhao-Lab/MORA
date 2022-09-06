@@ -1,0 +1,15 @@
+Motif_ID = M04904_2.00
+TF_Name = MEOX1
+ENSEMBLE_ID = ENSG00000005102
+TF_ID = T209766_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    19    0   70  100    0    0   58   24
+C |    32    0   18    0    0   11    0   37
+G |    32    0   12    0    0   25   40   23
+T |    17  100    0    0  100   64    2   16
+XX
+//

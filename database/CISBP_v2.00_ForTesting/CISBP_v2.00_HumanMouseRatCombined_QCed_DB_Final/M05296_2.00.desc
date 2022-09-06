@@ -1,0 +1,15 @@
+Motif_ID = M05296_2.00
+TF_Name = EVX2
+ENSEMBLE_ID = ENSG00000174279
+TF_ID = T209906_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    20    0   75  100    0    0   77   18
+C |    39    0   17    0    0    8    0   32
+G |    25    0    8    0    0   22   23   33
+T |    16  100    0    0  100   70    0   17
+XX
+//

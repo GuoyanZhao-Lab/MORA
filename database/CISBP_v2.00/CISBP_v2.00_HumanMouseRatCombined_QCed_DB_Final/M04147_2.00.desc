@@ -1,0 +1,15 @@
+Motif_ID = M04147_2.00
+TF_Name = USF1
+ENSEMBLE_ID = ENSG00000158773
+TF_ID = T034299_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 11
+XX
+A |    62   18    0  100    0   10    0    0  100    0   23
+C |    17   50  100    0   33    1    0    0    0   73   37
+G |    16   11    0    0    0   89    0  100    0    0   22
+T |     5   21    0    0   67    0  100    0    0   27   18
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M02772_2.00
+TF_Name = MLXIPL
+ENSEMBLE_ID = ENSG00000009950
+TF_ID = T034243_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    54   17    0   99    0    0    1    0   62   16
+C |     7   13  100    1   97    3    1    2   17   31
+G |    22   17    0    0    0   97    0   98    4    4
+T |    17   53    0    0    3    0   98    0   17   49
+XX
+//

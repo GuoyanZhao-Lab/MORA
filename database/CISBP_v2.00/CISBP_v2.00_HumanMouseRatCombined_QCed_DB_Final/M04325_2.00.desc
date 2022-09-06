@@ -1,0 +1,15 @@
+Motif_ID = M04325_2.00
+TF_Name = TEF
+ENSEMBLE_ID = ENSG00000167074
+TF_ID = T059752_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 12
+XX
+A |    18   32    0    0   81    0   17    0  100  100    3   23
+C |    30   14    0    0    0  100    0   17    0    0   54   30
+G |    28   51    0    0   19    0   83    0    0    0   13   30
+T |    24    3  100  100    0    0    0   83    0    0   30   17
+XX
+//

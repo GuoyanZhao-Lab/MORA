@@ -1,0 +1,15 @@
+Motif_ID = M05289_2.00
+TF_Name = HOXB9
+ENSEMBLE_ID = ENSG00000170689
+TF_ID = T209901_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    23    0    0   26    0   79  100   97   65   23
+C |    10    2  100    0    0    1    0    2   11   25
+G |    67    0    0   74    0    0    0    0    7   14
+T |     0   98    0    0  100   20    0    1   17   38
+XX
+//

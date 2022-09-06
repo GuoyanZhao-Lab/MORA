@@ -1,0 +1,15 @@
+Motif_ID = M00992_2.00
+TF_Name = Creb1
+ENSEMBLE_ID = ENSMUSG00000025958
+TF_ID = T060465_2.00
+TF_Species = Mus_musculus
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 10
+XX
+A |    21   27    0    0  100    0    0    0   19   56
+C |    27   22    6    0    0  100    0    0   73   16
+G |    31   37    0   94    0    0  100    0    4   17
+T |    21   14   94    6    0    0    0  100    4   11
+XX
+//

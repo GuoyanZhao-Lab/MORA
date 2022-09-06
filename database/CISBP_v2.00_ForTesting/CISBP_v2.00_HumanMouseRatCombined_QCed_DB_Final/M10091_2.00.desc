@@ -1,0 +1,15 @@
+Motif_ID = M10091_2.00
+TF_Name = ZEB1
+ENSEMBLE_ID = ENSG00000148516
+TF_ID = T075853_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF,Homeodomain
+Family_ID = F116_2.00
+width = 12
+XX
+A |    25    8   42    0  100    0    0    0    0    0   25   25
+C |    42   33    0  100    0   92   92    0    0    8    8   50
+G |    33   17   58    0    0    0    8    0  100   42   42   17
+T |     0   42    0    0    0    8    0  100    0   50   25    8
+XX
+//

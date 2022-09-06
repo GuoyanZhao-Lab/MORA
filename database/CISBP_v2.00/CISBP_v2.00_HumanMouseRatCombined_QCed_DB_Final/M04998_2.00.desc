@@ -1,0 +1,15 @@
+Motif_ID = M04998_2.00
+TF_Name = PITX3
+ENSEMBLE_ID = ENSG00000107859
+TF_ID = T209799_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    18    1   98  100    0    2    2   21
+C |    42    0    0    0    0   94   86   42
+G |    14    0    2    0   16    3    1   17
+T |    26   99    0    0   84    1   11   20
+XX
+//

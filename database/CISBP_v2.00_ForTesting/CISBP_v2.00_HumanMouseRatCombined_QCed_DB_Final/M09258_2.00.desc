@@ -1,0 +1,15 @@
+Motif_ID = M09258_2.00
+TF_Name = Mbd2
+ENSEMBLE_ID = ENSMUSG00000024513
+TF_ID = T260274_2.00
+TF_Species = Mus_musculus
+Family_Name = MBD
+Family_ID = F259_2.00
+width = 11
+XX
+A |    15    5    0    0    0    0    0    0   53   11   32
+C |    40   39   25    0  100  100    0    0   36   11   13
+G |    40   47   75   52    0    0  100  100   11   59   48
+T |     5    9    0   48    0    0    0    0    0   19    7
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M09440_2.00
+TF_Name = THAP11
+ENSEMBLE_ID = ENSG00000168286
+TF_ID = T348352_2.00
+TF_Species = Homo_sapiens
+Family_Name = THAP finger
+Family_ID = F318_2.00
+width = 22
+XX
+A |    14    3    9   50    2    2    4    5    2    2    7   83   38   28    2    0    1   88    2    2    5    3
+C |     3    6   72   34   16   22   81   15    1    0    2    3   13    7   10    2    5    1    0    1   39   53
+G |    49   80   14    4    2   40    7    0   95   94   86   10   41    8    6   94    8    9   98    5    6    6
+T |    34   11    5   12   80   36    8   80    2    4    5    4    8   57   82    4   86    2    0   92   50   38
+XX
+//

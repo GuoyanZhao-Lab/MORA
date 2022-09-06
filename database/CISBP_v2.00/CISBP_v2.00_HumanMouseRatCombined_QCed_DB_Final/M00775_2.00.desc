@@ -1,0 +1,15 @@
+Motif_ID = M00775_2.00
+TF_Name = Zbtb1
+ENSEMBLE_ID = ENSMUSG00000033454
+TF_ID = T101111_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 10
+XX
+A |    28   22   26   35    7    2    3   72   31   28
+C |    22   31   57   56   89    0   90    4   31   30
+G |    28   11    8    6    1   98    0   22    9   21
+T |    22   36    9    3    3    0    7    2   29   21
+XX
+//

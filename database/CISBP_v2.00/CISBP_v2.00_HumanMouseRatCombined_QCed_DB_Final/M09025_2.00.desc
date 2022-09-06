@@ -1,0 +1,15 @@
+Motif_ID = M09025_2.00
+TF_Name = Cux2
+ENSEMBLE_ID = ENSMUSG00000042589
+TF_ID = T167157_2.00
+TF_Species = Mus_musculus
+Family_Name = CUT,Homeodomain
+Family_ID = F164_2.00
+width = 11
+XX
+A |    16   10    6   82    2    2    1   82    4    6   24
+C |    19   20   41   10    2    8    4    5   16   33   10
+G |    21   17   18    1   17    7   94    5    8    4   19
+T |    44   53   35    7   79   83    1    8   72   57   47
+XX
+//

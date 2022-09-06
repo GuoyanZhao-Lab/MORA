@@ -1,0 +1,15 @@
+Motif_ID = M04875_2.00
+TF_Name = GATA4
+ENSEMBLE_ID = ENSG00000136574
+TF_ID = T192726_2.00
+TF_Species = Homo_sapiens
+Family_Name = GATA
+Family_ID = F201_2.00
+width = 10
+XX
+A |    18   36    0   99    0  100   98    0   28   22
+C |    32   28    0    0    0    0    0   57   22   32
+G |    35    4  100    1    0    0    0   37   40   19
+T |    15   32    0    0  100    0    2    6   10   27
+XX
+//

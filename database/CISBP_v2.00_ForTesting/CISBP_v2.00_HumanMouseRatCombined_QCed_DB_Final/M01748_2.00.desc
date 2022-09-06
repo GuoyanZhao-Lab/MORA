@@ -1,0 +1,15 @@
+Motif_ID = M01748_2.00
+TF_Name = Neurog1
+ENSEMBLE_ID = ENSMUSG00000048904
+TF_ID = T035742_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    42   17   27   67    0   79    8    1    4    9
+C |    11   59   69    3    7   14   15    0   15   27
+G |    24   17    3   19   14    6    1   87   42   24
+T |    23    7    1   11   79    1   76   12   39   40
+XX
+//

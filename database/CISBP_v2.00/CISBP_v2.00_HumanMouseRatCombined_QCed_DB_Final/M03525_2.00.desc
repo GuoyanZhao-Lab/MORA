@@ -1,0 +1,15 @@
+Motif_ID = M03525_2.00
+TF_Name = SRY
+ENSEMBLE_ID = ENSG00000184895
+TF_ID = T328081_2.00
+TF_Species = Homo_sapiens
+Family_Name = Sox
+Family_ID = F305_2.00
+width = 15
+XX
+A |    92   99    0   99   97    0   76   37    1  100    0    0    0    0    1
+C |     3    1  100    0    3    0    2   28   99    0    0    0    0    0    1
+G |     2    0    0    0    0    0   18   16    0    0    0    0  100    0    1
+T |     3    0    0    1    0  100    4   19    0    0  100  100    0  100   97
+XX
+//

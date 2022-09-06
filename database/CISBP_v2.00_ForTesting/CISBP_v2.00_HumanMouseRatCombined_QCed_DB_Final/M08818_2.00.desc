@@ -1,0 +1,15 @@
+Motif_ID = M08818_2.00
+TF_Name = Xbp1
+ENSEMBLE_ID = ENSMUSG00000020484
+TF_ID = T060458_2.00
+TF_Species = Mus_musculus
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 12
+XX
+A |     0  100    0    0    0    0    0   16   45   23   34   39
+C |     0    0  100    0    0    0    0   76   30   22    3   11
+G |    98    0    0  100    0  100   44    2   12    8    2   15
+T |     2    0    0    0  100    0   56    6   13   47   61   35
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M09565_2.00
+TF_Name = Nanog
+ENSEMBLE_ID = ENSMUSG00000012396
+TF_ID = T212403_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    11    6   11   63  100    5    4   20    6    9
+C |    23   24    4    0    0    1    4    1   57   49
+G |    48   12   12   37    0    2   62   76   28    2
+T |    18   58   73    0    0   92   30    3    9   40
+XX
+//

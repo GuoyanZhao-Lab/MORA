@@ -1,0 +1,15 @@
+Motif_ID = M03286_2.00
+TF_Name = Gbx1
+ENSEMBLE_ID = ENSMUSG00000067724
+TF_ID = T212561_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    18   14    4   89  100    0    4   43   24   18
+C |    26   32    1    4    0    0    3    1   18   27
+G |    34   21    1    4    0    2    6   51   44   24
+T |    22   33   94    3    0   98   87    5   14   31
+XX
+//

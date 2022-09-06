@@ -1,0 +1,15 @@
+Motif_ID = M09612_2.00
+TF_Name = Pparg
+ENSEMBLE_ID = ENSMUSG00000000440
+TF_ID = T303897_2.00
+TF_Species = Mus_musculus
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 14
+XX
+A |    12   32   10   13   14    7   95   67   88    6    3    4    6   81
+C |    10    1    0    2   13   69    2    4    0    0    1   11   72    6
+G |    13   60   79   82   50   17    2   27   11   92   85   24   13    4
+T |    65    7   11    3   23    7    1    2    1    2   11   61    9    9
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M03009_2.00
+TF_Name = Spic
+ENSEMBLE_ID = ENSMUSG00000004359
+TF_ID = T176529_2.00
+TF_Species = Mus_musculus
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 14
+XX
+A |    65   78   92   96   74    1   42    1    0   99   99    1    1   57
+C |    11    3    1    0    0   18   45    0    0    0    0    4    0    7
+G |    19   13    0    1    8   80   13   99  100    1    0   95    1   13
+T |     5    6    7    3   18    1    0    0    0    0    1    0   98   23
+XX
+//

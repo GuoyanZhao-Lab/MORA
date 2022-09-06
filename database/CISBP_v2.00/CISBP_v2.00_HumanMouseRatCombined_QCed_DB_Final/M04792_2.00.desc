@@ -1,0 +1,15 @@
+Motif_ID = M04792_2.00
+TF_Name = FEV
+ENSEMBLE_ID = ENSG00000163497
+TF_ID = T176133_2.00
+TF_Species = Homo_sapiens
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 11
+XX
+A |    31   65    7   29    0    0  100   78   28    2   23
+C |    18    3   87   71    0    0    0    2    2   20   21
+G |    37   24    6    0  100  100    0    0   70   10   40
+T |    14    8    0    0    0    0    0   20    0   68   16
+XX
+//

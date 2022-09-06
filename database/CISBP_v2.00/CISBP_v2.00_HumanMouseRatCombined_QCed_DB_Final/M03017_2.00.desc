@@ -1,0 +1,15 @@
+Motif_ID = M03017_2.00
+TF_Name = FOXJ2
+ENSEMBLE_ID = ENSG00000065970
+TF_ID = T185762_2.00
+TF_Species = Homo_sapiens
+Family_Name = Forkhead
+Family_ID = F196_2.00
+width = 8
+XX
+A |    41    6   84   93   98    1   99   58
+C |     3   14   15    6    0   91    0   17
+G |    55    1    1    0    0    0    1    8
+T |     1   79    0    1    2    8    0   17
+XX
+//

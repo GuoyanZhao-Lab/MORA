@@ -1,0 +1,15 @@
+Motif_ID = M09342_2.00
+TF_Name = Pax5
+ENSEMBLE_ID = ENSMUSG00000014030
+TF_ID = T311709_2.00
+TF_Species = Mus_musculus
+Family_Name = Paired box
+Family_ID = F281_2.00
+width = 19
+XX
+A |    29   31   34   30    0    8   75   16    2   17   58   52    0    1   27   13   25   66   22
+C |    24   11    5   20   23   76    8   21   54   48    3    5   28   82    3    7    2    3   68
+G |    40   31   59   35   49    3   13   54   13   31   37   23   71    3   67   23   70   22    6
+T |     7   27    2   15   28   13    4    9   31    4    2   20    1   14    3   57    3    9    4
+XX
+//

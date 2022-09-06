@@ -1,0 +1,15 @@
+Motif_ID = M11437_2.00
+TF_Name = TOPORS
+ENSEMBLE_ID = ENSG00000197579
+TF_ID = T350308_2.00
+TF_Species = Homo_sapiens
+Family_Name = Unknown
+Family_ID = F319_2.00
+width = 17
+XX
+A |     0    0    0    0   88  100   94    0    4  100    0    0    0    0    0    0  100
+C |     0  100  100   87    0    0    0    0    0    0    4  100    0    0    0    0    0
+G |     0    0    0    0    8    0    6   96    0    0   92    0    0  100  100  100    0
+T |   100    0    0   13    4    0    0    4   96    0    4    0  100    0    0    0    0
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M04021_2.00
+TF_Name = ATF6
+ENSEMBLE_ID = ENSG00000118217
+TF_ID = T059733_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 11
+XX
+A |    84    4    1  100    0    1   88    3    0   16   13
+C |     6   94   98    0   97    4    3    5    0    4   53
+G |     6    1    1    0    1   92    3    0   99    3    1
+T |     4    1    0    0    2    3    6   92    1   77   33
+XX
+//

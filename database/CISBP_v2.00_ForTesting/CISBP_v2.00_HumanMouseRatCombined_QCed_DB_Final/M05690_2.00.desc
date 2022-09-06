@@ -1,0 +1,15 @@
+Motif_ID = M05690_2.00
+TF_Name = PAX9
+ENSEMBLE_ID = ENSG00000198807
+TF_ID = T311645_2.00
+TF_Species = Homo_sapiens
+Family_Name = Paired box
+Family_ID = F281_2.00
+width = 17
+XX
+A |     0   15   47   21    0    1   79   45    0    0   18    1   19   83   12   17   32
+C |    24   73    1   28   22   61    0    4   30   99    0   35    0    1   87   34   19
+G |    38    4   50   28    1   37   19   11   70    0   82    0   79    3    0   35   29
+T |    38    8    2   23   77    1    2   40    0    1    0   64    2   13    1   14   20
+XX
+//

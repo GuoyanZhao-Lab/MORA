@@ -1,0 +1,15 @@
+Motif_ID = M08974_2.00
+TF_Name = Ovol1
+ENSEMBLE_ID = ENSMUSG00000024922
+TF_ID = T101051_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 9
+XX
+A |    71    0   57    0    0    0   86    0   57
+C |     0   86   29    0    0    0   14   86   29
+G |     0    0    0   86   14    0    0    0   14
+T |    29   14   14   14   86  100    0   14    0
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M08855_2.00
+TF_Name = PRDM6
+ENSEMBLE_ID = ENSG00000061455
+TF_ID = T094790_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 13
+XX
+A |    14   19    5    4    4    1    0    1    7   14    4   13   12
+C |    20   13   11    7    1    0    0   94   45   20   33   27   25
+G |    16   19   24   13    1    0    2    5    1    4   20    7   17
+T |    50   49   60   76   94   99   98    0   47   62   43   53   46
+XX
+//

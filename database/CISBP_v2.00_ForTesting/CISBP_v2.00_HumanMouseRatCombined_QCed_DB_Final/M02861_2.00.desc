@@ -1,0 +1,15 @@
+Motif_ID = M02861_2.00
+TF_Name = Jdp2
+ENSEMBLE_ID = ENSMUSG00000034271
+TF_ID = T060478_2.00
+TF_Species = Mus_musculus
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 9
+XX
+A |    95    0    0  100    0    0    0  100    1
+C |     1    0    0    0   69    0  100    0    9
+G |     4    0   99    0   31    0    0    0    1
+T |     0  100    1    0    0  100    0    0   89
+XX
+//

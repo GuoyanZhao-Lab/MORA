@@ -1,0 +1,15 @@
+Motif_ID = M04065_2.00
+TF_Name = SREBF1
+ENSEMBLE_ID = ENSG00000072310
+TF_ID = T034251_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    65    1    0   98    0    9    2    0   97    1
+C |    14    2   98    0   94   76    2    7    1   32
+G |    21    0    2    2    5   15    0   91    1    5
+T |     0   97    0    0    1    0   96    2    1   62
+XX
+//

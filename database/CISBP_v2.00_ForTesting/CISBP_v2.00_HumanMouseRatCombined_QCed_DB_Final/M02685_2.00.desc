@@ -1,0 +1,15 @@
+Motif_ID = M02685_2.00
+TF_Name = PBX1
+ENSEMBLE_ID = ENSG00000185630
+TF_ID = T209930_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 12
+XX
+A |    33   28    5    0   94    6    0    0   89    0   16   28
+C |    11    5    0    0    6    0    0    0    0    5   17   11
+G |    11    0    6  100    0    0    6  100    5    6   50   33
+T |    45   67   89    0    0   94   94    0    6   89   17   28
+XX
+//

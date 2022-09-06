@@ -1,0 +1,15 @@
+Motif_ID = M03295_2.00
+TF_Name = PAX4
+ENSEMBLE_ID = ENSG00000106331
+TF_ID = T237342_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain,Paired box
+Family_ID = F230_2.00
+width = 8
+XX
+A |    15   11   94   99    1    2   75   31
+C |    50    4    3    0    1    2   13   12
+G |    11   23    1    1    0    4    5   49
+T |    24   62    2    0   98   92    7    8
+XX
+//

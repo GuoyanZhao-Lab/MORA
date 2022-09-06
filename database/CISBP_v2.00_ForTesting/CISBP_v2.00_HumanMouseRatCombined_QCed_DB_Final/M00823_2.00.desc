@@ -1,0 +1,15 @@
+Motif_ID = M00823_2.00
+TF_Name = Rfx7
+ENSEMBLE_ID = ENSMUSG00000037674
+TF_ID = T318366_2.00
+TF_Species = Mus_musculus
+Family_Name = RFX
+Family_ID = F294_2.00
+width = 10
+XX
+A |     6    2   15   27    5    6   62   23   11   12
+C |     0    3   19    2   72   31    4   17   17   28
+G |    93    4    2   56    5    9   28   29   61   34
+T |     1   91   64   15   18   54    6   31   11   26
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M04141_2.00
+TF_Name = FERD3L
+ENSEMBLE_ID = ENSG00000146618
+TF_ID = T034296_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 14
+XX
+A |     0    0   57   55    0  100    0   65    0    0    1    0   30    0
+C |     0   25   11   32  100    0   13   21    0    0    8   41    0   97
+G |   100    0   32   12    0    0   24   14    0  100   57    3   70    0
+T |     0   75    0    1    0    0   63    0  100    0   34   56    0    3
+XX
+//

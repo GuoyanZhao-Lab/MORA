@@ -1,0 +1,15 @@
+Motif_ID = M08849_2.00
+TF_Name = Zeb1
+ENSEMBLE_ID = ENSMUSG00000024238
+TF_ID = T075918_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF,Homeodomain
+Family_ID = F116_2.00
+width = 10
+XX
+A |     5   34    1   83    2    2    2    1    7   24
+C |    60   14   67    1   97   95    0    1   23   44
+G |    14    8    1    1    0    1    0   81   34   27
+T |    21   44   31   15    1    2   98   17   36    5
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M01914_2.00
+TF_Name = TET1
+ENSEMBLE_ID = ENSG00000138336
+TF_ID = T167984_2.00
+TF_Species = Homo_sapiens
+Family_Name = CxxC
+Family_ID = F169_2.00
+width = 9
+XX
+A |    28   25   18   35    0    6   17   25   32
+C |    23   23   44   16  100    0   34   17   27
+G |    22   21   12   37    0   91   11   17   21
+T |    27   31   26   12    0    3   38   41   20
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M04130_2.00
+TF_Name = CLOCK
+ENSEMBLE_ID = ENSG00000134852
+TF_ID = T034288_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    28   51    6   57    0   66    0    2    6   19
+C |    16   12   85    0   82    0   10    1   19   39
+G |    28   31    2   43    0   34    0   88   26    8
+T |    28    6    7    0   18    0   90    9   49   34
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M08323_2.00
+TF_Name = KLF15
+ENSEMBLE_ID = ENSG00000163884
+TF_ID = T095022_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 15
+XX
+A |     5    4    7   14   16   10    3    9    8    0   19    0    0    0   11
+C |    65   64   71   62   23   25   85   48   89  100    0   99  100   71   69
+G |    17   18    5    9   36   46    0    1    3    0   59    0    0    1    3
+T |    13   14   17   15   25   19   12   42    0    0   22    1    0   28   17
+XX
+//

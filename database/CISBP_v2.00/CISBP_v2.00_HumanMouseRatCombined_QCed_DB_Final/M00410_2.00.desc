@@ -1,0 +1,15 @@
+Motif_ID = M00410_2.00
+TF_Name = Hoxb9
+ENSEMBLE_ID = ENSMUSG00000020875
+TF_ID = T212414_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    23   14   11   36   74    4   14   38   13   20
+C |    17    9    9    7    8   27   11    9   41   33
+G |    17   11    6    5    8    9   38   37   21   19
+T |    43   66   74   52   10   60   37   16   25   28
+XX
+//

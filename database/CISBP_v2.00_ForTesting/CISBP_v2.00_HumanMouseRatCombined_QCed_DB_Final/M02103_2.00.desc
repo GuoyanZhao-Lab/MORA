@@ -1,0 +1,15 @@
+Motif_ID = M02103_2.00
+TF_Name = Rhox8
+ENSEMBLE_ID = ENSRNOG00000031534
+TF_ID = T215465_2.00
+TF_Species = Rattus_norvegicus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 9
+XX
+A |    40    0    0    0   10    0   70  100   40
+C |    20    0    0    0    0    0    0    0   20
+G |    20  100  100    0   90    0    0    0    0
+T |    20    0    0  100    0  100   30    0   40
+XX
+//

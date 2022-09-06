@@ -1,0 +1,15 @@
+Motif_ID = M09986_2.00
+TF_Name = TEF
+ENSEMBLE_ID = ENSG00000167074
+TF_ID = T059752_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 10
+XX
+A |    55    9    0  100    0   17    0  100  100    6
+C |    27    0    0    0   56    5   11    0    0   61
+G |     9    0   36    0    0   78    6    0    0   11
+T |     9   91   64    0   44    0   83    0    0   22
+XX
+//

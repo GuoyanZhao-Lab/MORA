@@ -1,0 +1,15 @@
+Motif_ID = M05089_2.00
+TF_Name = ESX1
+ENSEMBLE_ID = ENSG00000123576
+TF_ID = T209826_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    20    2   86  100    0    0   48   29
+C |    27    9    3    0    0    9    1   18
+G |    36    0   11    0    4    7   46   43
+T |    17   89    0    0   96   84    5   10
+XX
+//

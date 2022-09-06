@@ -1,0 +1,15 @@
+Motif_ID = M00237_2.00
+TF_Name = GFI1
+ENSEMBLE_ID = ENSG00000162676
+TF_ID = T095016_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 8
+XX
+A |   100    0  100    0    0   86   17   25
+C |     0    0    0    0  100    0   66    0
+G |     0    0    0    0    0    0   17   50
+T |     0  100    0  100    0   14    0   25
+XX
+//

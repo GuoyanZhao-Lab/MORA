@@ -1,0 +1,15 @@
+Motif_ID = M09355_2.00
+TF_Name = Rela
+ENSEMBLE_ID = ENSMUSG00000024927
+TF_ID = T317313_2.00
+TF_Species = Mus_musculus
+Family_Name = Rel
+Family_ID = F293_2.00
+width = 11
+XX
+A |     7    2    1   55   41    0    1    1    1    1   24
+C |     5    1    0    5   30    5    3   24   94   93   58
+G |    57   94   92   37   19    1    2    2    1    0    6
+T |    31    3    7    3   10   94   94   73    4    6   12
+XX
+//

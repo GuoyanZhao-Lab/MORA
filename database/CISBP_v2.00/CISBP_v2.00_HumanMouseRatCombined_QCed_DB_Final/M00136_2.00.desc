@@ -1,0 +1,15 @@
+Motif_ID = M00136_2.00
+TF_Name = Mtf1
+ENSEMBLE_ID = ENSMUSG00000028890
+TF_ID = T101078_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 9
+XX
+A |     0    0    0    0    0    0    0  100   50
+C |    99    0    0    0   50    0  100    0   50
+G |     0  100    0  100    0  100    0    0    0
+T |     1    0  100    0   50    0    0    0    0
+XX
+//

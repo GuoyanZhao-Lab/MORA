@@ -1,0 +1,15 @@
+Motif_ID = M07930_2.00
+TF_Name = CTCFL
+ENSEMBLE_ID = ENSG00000124092
+TF_ID = T094884_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 15
+XX
+A |    27    9    4    0    5    1   12    1    0    5   19    2   15    1    2
+C |    11   14   81    1   92   97   75   84   99    7   11   31   42    1   11
+G |    49   72    5   91    2    0    7    0    0    6   59   55   14   96   82
+T |    13    5   10    8    1    2    6   15    1   82   11   12   29    2    5
+XX
+//

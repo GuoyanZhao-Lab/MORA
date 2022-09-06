@@ -1,0 +1,15 @@
+Motif_ID = M03572_2.00
+TF_Name = TBX1
+ENSEMBLE_ID = ENSG00000184058
+TF_ID = T339900_2.00
+TF_Species = Homo_sapiens
+Family_Name = T-box
+Family_ID = F312_2.00
+width = 8
+XX
+A |    88   10    0    0    0    1    1  100
+C |     1    5    0    2    0    5    5    0
+G |     7   80  100    1  100    1   86    0
+T |     4    5    0   97    0   93    8    0
+XX
+//

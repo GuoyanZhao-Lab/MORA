@@ -1,0 +1,15 @@
+Motif_ID = M03560_2.00
+TF_Name = TBR1
+ENSEMBLE_ID = ENSG00000136535
+TF_ID = T339893_2.00
+TF_Species = Homo_sapiens
+Family_Name = T-box
+Family_ID = F312_2.00
+width = 10
+XX
+A |    87   14    0    0    0    6    3   97   75   54
+C |     1    7    1    5    0   11    6    0    8   16
+G |     8   70   98    0  100    0   76    2    4   13
+T |     4    9    1   95    0   83   15    1   13   17
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M03344_2.00
+TF_Name = MEF2B
+ENSEMBLE_ID = ENSG00000213999
+TF_ID = T253659_2.00
+TF_Species = Homo_sapiens
+Family_Name = MADS box
+Family_ID = F256_2.00
+width = 12
+XX
+A |    37    1    0  100   47   82   96   99    0  100    3   27
+C |     2   99    1    0    0    0    0    0    0    0    1   57
+G |    47    0    0    0    0    0    0    0    0    0   96    3
+T |    14    0   99    0   53   18    4    1  100    0    0   13
+XX
+//

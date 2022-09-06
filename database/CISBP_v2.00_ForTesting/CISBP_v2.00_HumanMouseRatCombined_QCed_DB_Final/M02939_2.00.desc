@@ -1,0 +1,15 @@
+Motif_ID = M02939_2.00
+TF_Name = CENPB
+ENSEMBLE_ID = ENSG00000125817
+TF_ID = T161466_2.00
+TF_Species = Homo_sapiens
+Family_Name = CENPB
+Family_ID = F141_2.00
+width = 15
+XX
+A |    10    2    0    3    0   40    5   31   23   39   54    5   13   69   91
+C |    80   96  100    3   58   11    7   29   32   15   10   93    1    7    5
+G |     0    0    0   91   15   20    0   21   26   13   27    0   86    1    1
+T |    10    2    0    3   27   29   88   19   19   33    9    2    0   23    3
+XX
+//

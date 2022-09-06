@@ -1,0 +1,15 @@
+Motif_ID = M09162_2.00
+TF_Name = HOXB4
+ENSEMBLE_ID = ENSG00000182742
+TF_ID = T209924_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |     9   22   77   99    0    3   49    2
+C |    38    0    2    0    3    4    0   70
+G |     9    3   20    1    0   71   50   26
+T |    44   75    1    0   97   22    1    2
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M01913_2.00
+TF_Name = DNMT1
+ENSEMBLE_ID = ENSG00000130816
+TF_ID = T167983_2.00
+TF_Species = Homo_sapiens
+Family_Name = CxxC
+Family_ID = F169_2.00
+width = 10
+XX
+A |    23   22   17   27   19    0    0    4   22   31
+C |    28   27   35   28   17  100   21   14   26   20
+G |    30   31   23   25   43    0   79   77   28   31
+T |    19   20   25   20   21    0    0    5   24   18
+XX
+//

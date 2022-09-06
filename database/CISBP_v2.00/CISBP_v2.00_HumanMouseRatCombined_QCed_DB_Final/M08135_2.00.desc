@@ -1,0 +1,15 @@
+Motif_ID = M08135_2.00
+TF_Name = DUX4
+ENSEMBLE_ID = ENSG00000260596
+TF_ID = T209956_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 11
+XX
+A |    19   97  100   14    0    0   92  100    0    0   88
+C |     6    0    0   31   43   37    8    0    0   98    0
+G |     3    3    0    5   13   16    0    0    0    0    0
+T |    72    0    0   50   44   47    0    0  100    2   12
+XX
+//

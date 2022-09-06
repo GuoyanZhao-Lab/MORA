@@ -1,0 +1,15 @@
+Motif_ID = M00502_2.00
+TF_Name = Duxbl1
+ENSEMBLE_ID = ENSMUSG00000048502
+TF_ID = T212526_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    23   21   15   95    6   13   36   26   28   20
+C |    25    9    3    0    9   10   10   22   22   24
+G |    20    8   79    2   17   20   41   32   28   19
+T |    32   62    3    3   68   57   13   20   22   37
+XX
+//

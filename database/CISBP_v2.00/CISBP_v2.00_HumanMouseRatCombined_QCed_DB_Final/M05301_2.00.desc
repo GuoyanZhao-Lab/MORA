@@ -1,0 +1,15 @@
+Motif_ID = M05301_2.00
+TF_Name = PROP1
+ENSEMBLE_ID = ENSG00000175325
+TF_ID = T209908_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 11
+XX
+A |     8   99  100    0    2   33   28   89    0    0   88
+C |     3    0    0    4    9   18   23    0    0    1    0
+G |     1    1    0    0    5   28   44   10    0    0    3
+T |    88    0    0   96   84   21    5    1  100   99    9
+XX
+//

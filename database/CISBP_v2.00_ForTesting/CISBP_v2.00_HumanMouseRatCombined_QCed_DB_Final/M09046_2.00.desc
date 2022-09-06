@@ -1,0 +1,15 @@
+Motif_ID = M09046_2.00
+TF_Name = ETV1
+ENSEMBLE_ID = ENSG00000006468
+TF_ID = T176111_2.00
+TF_Species = Homo_sapiens
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 11
+XX
+A |    15   33    4   22    0    0  100   93    7    9   19
+C |    24   13   81   76    0    0    0    0    4   30   15
+G |    49   41   15    0  100  100    0    0   87   14   53
+T |    12   13    0    2    0    0    0    7    2   47   13
+XX
+//

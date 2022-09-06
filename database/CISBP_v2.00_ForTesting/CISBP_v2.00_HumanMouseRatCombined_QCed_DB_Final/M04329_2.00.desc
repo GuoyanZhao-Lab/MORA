@@ -1,0 +1,15 @@
+Motif_ID = M04329_2.00
+TF_Name = JUNB
+ENSEMBLE_ID = ENSG00000171223
+TF_ID = T059756_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 12
+XX
+A |    12   61    0    0   99    0    1    0    4   98    2   16
+C |    14    3    0    1    0  100    0    0   96    1    4   53
+G |    61   36    1   94    1    0   99    0    0    0    2   15
+T |    13    0   99    5    0    0    0  100    0    1   92   16
+XX
+//

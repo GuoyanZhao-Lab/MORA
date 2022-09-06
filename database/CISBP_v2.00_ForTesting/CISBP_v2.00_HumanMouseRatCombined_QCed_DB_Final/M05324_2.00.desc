@@ -1,0 +1,15 @@
+Motif_ID = M05324_2.00
+TF_Name = LBX2
+ENSEMBLE_ID = ENSG00000179528
+TF_ID = T209918_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    23    6   97  100    0   14   86    3
+C |    20    6    0    0   61    0    7    9
+G |     7    2    0    0    1   85    1   76
+T |    50   86    3    0   38    1    6   12
+XX
+//

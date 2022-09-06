@@ -1,0 +1,15 @@
+Motif_ID = M05577_2.00
+TF_Name = HNF4A
+ENSEMBLE_ID = ENSG00000101076
+TF_ID = T303212_2.00
+TF_Species = Homo_sapiens
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 15
+XX
+A |    32   38    0    1    1    0   94  100   99    0    0    0    0   68   30
+C |     6    1    0    0    1   96    0    0    0    0    0    0   94    0   24
+G |    56   61  100   92   18    0    6    0    1  100   93    2    1   31   20
+T |     6    0    0    7   80    4    0    0    0    0    7   98    5    1   26
+XX
+//

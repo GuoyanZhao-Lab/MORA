@@ -1,0 +1,15 @@
+Motif_ID = M09121_2.00
+TF_Name = Gata2
+ENSEMBLE_ID = ENSMUSG00000015053
+TF_ID = T192872_2.00
+TF_Species = Mus_musculus
+Family_Name = GATA
+Family_ID = F201_2.00
+width = 11
+XX
+A |    35   16   75    0   98    1   86   77   15   42   42
+C |    12   44    1    0    1    4    5    2   24   17   14
+G |    33   35    1  100    1    5    3   19   57   37   27
+T |    20    5   23    0    0   90    6    2    4    4   17
+XX
+//

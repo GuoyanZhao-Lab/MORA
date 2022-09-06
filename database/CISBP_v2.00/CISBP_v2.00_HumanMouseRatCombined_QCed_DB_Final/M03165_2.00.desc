@@ -1,0 +1,15 @@
+Motif_ID = M03165_2.00
+TF_Name = MEIS1
+ENSEMBLE_ID = ENSG00000143995
+TF_ID = T209856_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 7
+XX
+A |    31    9    0   95    0   86   22
+C |    24    6    2    4   99    0   19
+G |    13    3   98    1    0   10   39
+T |    32   82    0    0    1    4   20
+XX
+//

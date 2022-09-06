@@ -1,0 +1,15 @@
+Motif_ID = M09463_2.00
+TF_Name = Myf5
+ENSEMBLE_ID = ENSMUSG00000000435
+TF_ID = T035655_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    17   60   65    0   99    1    1    0    0    8
+C |    23   10    8  100    1    4   91    0    0   26
+G |    25   25   23    0    0   94    7    0  100    8
+T |    35    5    4    0    0    1    1  100    0   58
+XX
+//

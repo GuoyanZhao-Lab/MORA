@@ -1,0 +1,15 @@
+Motif_ID = M11390_2.00
+TF_Name = TBP
+ENSEMBLE_ID = ENSG00000112592
+TF_ID = T342320_2.00
+TF_Species = Homo_sapiens
+Family_Name = TBP
+Family_ID = F313_2.00
+width = 8
+XX
+A |     6   72    0  100  100   85    6   45
+C |     9    0    0    0    0    2    6    8
+G |    19   13    0    0    0    9   13    9
+T |    66   15  100    0    0    4   75   38
+XX
+//

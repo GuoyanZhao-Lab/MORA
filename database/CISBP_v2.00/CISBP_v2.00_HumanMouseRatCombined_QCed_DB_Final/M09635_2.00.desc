@@ -1,0 +1,15 @@
+Motif_ID = M09635_2.00
+TF_Name = NFIC
+ENSEMBLE_ID = ENSG00000141905
+TF_ID = T324626_2.00
+TF_Species = Homo_sapiens
+Family_Name = SMAD
+Family_ID = F304_2.00
+width = 8
+XX
+A |     2    0    0    0    0    0  100   44
+C |    47   38    0    0   36  100    0   19
+G |    30    0    0  100   64    0    0   34
+T |    21   62  100    0    0    0    0    3
+XX
+//

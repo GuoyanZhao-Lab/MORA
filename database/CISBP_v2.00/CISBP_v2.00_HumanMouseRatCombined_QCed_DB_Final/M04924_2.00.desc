@@ -1,0 +1,15 @@
+Motif_ID = M04924_2.00
+TF_Name = DLX3
+ENSEMBLE_ID = ENSG00000064195
+TF_ID = T209773_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    29    0   99  100    0    0   45   16
+C |    25    0    1    0    0    0    0   38
+G |    27    0    0    0    0    2   55   26
+T |    19  100    0    0  100   98    0   20
+XX
+//

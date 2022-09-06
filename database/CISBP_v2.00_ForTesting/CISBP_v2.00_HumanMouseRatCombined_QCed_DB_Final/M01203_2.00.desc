@@ -1,0 +1,15 @@
+Motif_ID = M01203_2.00
+TF_Name = CENPBD1
+ENSEMBLE_ID = ENSG00000177946
+TF_ID = T161471_2.00
+TF_Species = Homo_sapiens
+Family_Name = CENPB
+Family_ID = F141_2.00
+width = 9
+XX
+A |    32   17   16   62    5   21   13   53   38
+C |    20   25    3   10   83    3   25    7   20
+G |    21   11    4   12    4   70   20   12   26
+T |    27   47   77   16    8    6   42   28   16
+XX
+//

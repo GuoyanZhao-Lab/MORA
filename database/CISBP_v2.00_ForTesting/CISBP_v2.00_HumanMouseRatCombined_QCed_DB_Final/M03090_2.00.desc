@@ -1,0 +1,15 @@
+Motif_ID = M03090_2.00
+TF_Name = RHOXF1
+ENSEMBLE_ID = ENSG00000101883
+TF_ID = T209781_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    30   20   45  100    0    0    0   30
+C |    24    0    0    0    0  100   83   32
+G |    17    3   44    0   32    0    0   19
+T |    29   77   11    0   68    0   17   19
+XX
+//

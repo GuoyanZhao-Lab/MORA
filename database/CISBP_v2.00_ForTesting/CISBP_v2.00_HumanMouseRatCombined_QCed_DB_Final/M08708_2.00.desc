@@ -1,0 +1,15 @@
+Motif_ID = M08708_2.00
+TF_Name = Arid5b
+ENSEMBLE_ID = ENSMUSG00000019947
+TF_ID = T014643_2.00
+TF_Species = Mus_musculus
+Family_Name = ARID/BRIGHT
+Family_ID = F028_2.00
+width = 13
+XX
+A |    22   13    0    0   33   20    0   87    0    0   13   13   25
+C |     8   27   27   13    7    6    0    0   13    6   27    7   12
+G |    35   40   20   33   33   67    0   13    0    7   53   27   45
+T |    35   20   53   54   27    7  100    0   87   87    7   53   18
+XX
+//

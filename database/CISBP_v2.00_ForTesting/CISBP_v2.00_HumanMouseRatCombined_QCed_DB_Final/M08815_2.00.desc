@@ -1,0 +1,15 @@
+Motif_ID = M08815_2.00
+TF_Name = Hlf
+ENSEMBLE_ID = ENSMUSG00000003949
+TF_ID = T060454_2.00
+TF_Species = Mus_musculus
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 11
+XX
+A |    19    0    0   57    3   12    1   96   95    5   39
+C |    26    2    3    4    2    1   56    3    1   54   27
+G |    50    0   12   38    3   85    1    1    4   21    9
+T |     5   98   85    1   92    2   42    0    0   20   25
+XX
+//

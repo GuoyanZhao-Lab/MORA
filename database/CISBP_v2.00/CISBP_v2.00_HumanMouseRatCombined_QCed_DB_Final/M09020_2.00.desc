@@ -1,0 +1,15 @@
+Motif_ID = M09020_2.00
+TF_Name = RBPJ
+ENSEMBLE_ID = ENSG00000168214
+TF_ID = T166060_2.00
+TF_Species = Homo_sapiens
+Family_Name = CSL
+Family_ID = F161_2.00
+width = 11
+XX
+A |     4    1    0    0    5    2   72    2   25   19   14
+C |    22   21    1   94   73   96    3   60   21   48   36
+G |    32    2    1    0    1    0    9   31   49   29   18
+T |    42   76   98    6   21    2   16    7    5    4   32
+XX
+//

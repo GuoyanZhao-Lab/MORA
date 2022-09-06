@@ -1,0 +1,15 @@
+Motif_ID = M09259_2.00
+TF_Name = Mecp2
+ENSEMBLE_ID = ENSMUSG00000031393
+TF_ID = T260278_2.00
+TF_Species = Mus_musculus
+Family_Name = MBD
+Family_ID = F259_2.00
+width = 7
+XX
+A |     2    0    0    0    0   58   44
+C |    59  100  100    0    0    0    0
+G |    36    0    0  100  100   42   56
+T |     3    0    0    0    0    0    0
+XX
+//

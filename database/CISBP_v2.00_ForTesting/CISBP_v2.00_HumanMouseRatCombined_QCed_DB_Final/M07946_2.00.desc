@@ -1,0 +1,15 @@
+Motif_ID = M07946_2.00
+TF_Name = SPI1
+ENSEMBLE_ID = ENSG00000066336
+TF_ID = T176113_2.00
+TF_Species = Homo_sapiens
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 15
+XX
+A |    50   58   90   92   77    9   74    1    0  100  100    1    1    0   28
+C |    12    5    1    1    0    8    4    0    0    0    0    7    3   14   27
+G |    27   34    7    4    4   83   22   99  100    0    0   92    2   86   39
+T |    11    3    2    3   19    0    0    0    0    0    0    0   94    0    6
+XX
+//

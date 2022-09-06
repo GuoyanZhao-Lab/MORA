@@ -1,0 +1,15 @@
+Motif_ID = M00114_2.00
+TF_Name = Tfap2e
+ENSEMBLE_ID = ENSMUSG00000042477
+TF_ID = T010909_2.00
+TF_Species = Mus_musculus
+Family_Name = AP-2
+Family_ID = F024_2.00
+width = 10
+XX
+A |    21   22    1    0    0    0   12   46   12    0
+C |    18   32   21   96   94   33   32   25    0    0
+G |    14   14   75    0    0   14   39   23   84   96
+T |    47   32    3    4    6   53   17    6    4    4
+XX
+//

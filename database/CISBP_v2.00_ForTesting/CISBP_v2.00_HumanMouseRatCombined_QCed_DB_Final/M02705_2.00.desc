@@ -1,0 +1,15 @@
+Motif_ID = M02705_2.00
+TF_Name = RORA
+ENSEMBLE_ID = ENSG00000069667
+TF_ID = T303208_2.00
+TF_Species = Homo_sapiens
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 10
+XX
+A |    60   36   24   44   84    0    0    0    0  100
+C |     4    4   48    8    0    0    0    0  100    0
+G |     8    0   16   20   16  100  100    0    0    0
+T |    28   60   12   28    0    0    0  100    0    0
+XX
+//

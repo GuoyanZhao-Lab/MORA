@@ -1,0 +1,15 @@
+Motif_ID = M08055_2.00
+TF_Name = ASCL1
+ENSEMBLE_ID = ENSG00000139352
+TF_ID = T034291_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 13
+XX
+A |    21   18   62    3    1   97    0    2    1    0    5   21   22
+C |    26   40   10    3   98    1    4   90    1    1   31   31   25
+G |    37   29   18   94    1    1   95    8    1   99   50   24   35
+T |    16   13   10    0    0    1    1    0   97    0   14   24   18
+XX
+//

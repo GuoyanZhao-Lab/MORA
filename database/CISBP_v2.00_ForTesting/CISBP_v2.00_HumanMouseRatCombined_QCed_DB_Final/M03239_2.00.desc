@@ -1,0 +1,15 @@
+Motif_ID = M03239_2.00
+TF_Name = POU5F1B
+ENSEMBLE_ID = ENSG00000212993
+TF_ID = T209944_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 9
+XX
+A |    10   98    2    3    3   65   83   96   13
+C |    13    0    3    1   63    1    1    1    4
+G |     6    1    2   81    9    1    8    1    6
+T |    71    1   93   15   25   33    8    2   77
+XX
+//

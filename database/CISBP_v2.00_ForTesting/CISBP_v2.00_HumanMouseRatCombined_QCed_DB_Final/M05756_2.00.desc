@@ -1,0 +1,15 @@
+Motif_ID = M05756_2.00
+TF_Name = TCF7
+ENSEMBLE_ID = ENSG00000081059
+TF_ID = T328058_2.00
+TF_Species = Homo_sapiens
+Family_Name = Sox
+Family_ID = F305_2.00
+width = 15
+XX
+A |    41    4   64    1    1    0    5    0    7    0    1   65    3    7   19
+C |     6   90   14   12   98    7   35  100   51   93    0    2    4    1   10
+G |     6    1    4   67    0   93    7    0    0    7   99    1    5   89    3
+T |    47    5   18   20    1    0   53    0   42    0    0   32   88    3   68
+XX
+//

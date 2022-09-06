@@ -1,0 +1,15 @@
+Motif_ID = M04683_2.00
+TF_Name = DMRT1
+ENSEMBLE_ID = ENSG00000137090
+TF_ID = T169047_2.00
+TF_Species = Homo_sapiens
+Family_Name = DM
+Family_ID = F170_2.00
+width = 12
+XX
+A |    44   60   14    0    0   68   28    0   44   66   30   21
+C |    16    7    2    0    1    1    0  100   17    5   18   20
+G |    23   11    0  100    0    5   33    0   31   11   11   14
+T |    17   22   84    0   99   26   39    0    8   18   41   45
+XX
+//

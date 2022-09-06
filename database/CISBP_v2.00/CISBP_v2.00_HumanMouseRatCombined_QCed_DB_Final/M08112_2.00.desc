@@ -1,0 +1,15 @@
+Motif_ID = M08112_2.00
+TF_Name = ELK4
+ENSEMBLE_ID = ENSG00000158711
+TF_ID = T176131_2.00
+TF_Species = Homo_sapiens
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 11
+XX
+A |    35    2   15    0    0  100  100   21    6   16   23
+C |    20   83   85    0    0    0    0    1   30   17   26
+G |    37   15    0  100  100    0    0   78    4   56   42
+T |     8    0    0    0    0    0    0    0   60   11    9
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M01113_2.00
+TF_Name = SOHLH2
+ENSEMBLE_ID = ENSG00000120669
+TF_ID = T034271_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 9
+XX
+A |     9    0   95    0    2   22   16   20   23
+C |    15  100    4   96    2   11    6   43   25
+G |    57    0    0    0   93   21   65   23   23
+T |    19    0    1    4    3   46   13   14   29
+XX
+//

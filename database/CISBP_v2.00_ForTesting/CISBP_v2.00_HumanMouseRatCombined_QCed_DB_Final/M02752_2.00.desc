@@ -1,0 +1,15 @@
+Motif_ID = M02752_2.00
+TF_Name = EOMES
+ENSEMBLE_ID = ENSG00000163508
+TF_ID = T339896_2.00
+TF_Species = Homo_sapiens
+Family_Name = T-box
+Family_ID = F312_2.00
+width = 9
+XX
+A |    72    9    0    0    1    0    5   99   63
+C |     3    1    3    9    2   15    6    1   13
+G |    15   77   93    3   95    4   80    0    6
+T |    10   13    4   88    2   81    9    0   18
+XX
+//

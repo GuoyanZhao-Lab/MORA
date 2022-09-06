@@ -1,0 +1,15 @@
+Motif_ID = M09517_2.00
+TF_Name = Zfx
+ENSEMBLE_ID = ENSMUSG00000079509
+TF_ID = T101547_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 8
+XX
+A |     8   14   89    0    0    0    0    0
+C |    53   36    0    0    0  100  100    8
+G |    20   14   11  100  100    0    0    0
+T |    19   36    0    0    0    0    0   92
+XX
+//

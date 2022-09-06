@@ -1,0 +1,15 @@
+Motif_ID = M09324_2.00
+TF_Name = Rorc
+ENSEMBLE_ID = ENSMUSG00000028150
+TF_ID = T303927_2.00
+TF_Species = Mus_musculus
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 12
+XX
+A |    24   47   70   65    8    4   49   31    2    2    1   98
+C |    19   10   10    2   40    4    1    1    2    9   95    0
+G |    43   25   11    5   46    6   50   64   94   12    2    1
+T |    14   18    9   28    6   86    0    4    2   77    2    1
+XX
+//

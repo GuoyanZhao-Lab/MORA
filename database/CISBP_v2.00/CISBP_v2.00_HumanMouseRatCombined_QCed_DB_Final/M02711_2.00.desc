@@ -1,0 +1,15 @@
+Motif_ID = M02711_2.00
+TF_Name = RELA
+ENSEMBLE_ID = ENSG00000173039
+TF_ID = T317175_2.00
+TF_Species = Homo_sapiens
+Family_Name = Rel
+Family_ID = F293_2.00
+width = 10
+XX
+A |     0    0    0   61   56   11    0    0    0    0
+C |    22    0    0    0   17    0    0   11  100  100
+G |    61   94  100   39   22    0    0    0    0    0
+T |    17    6    0    0    5   89  100   89    0    0
+XX
+//

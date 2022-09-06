@@ -1,0 +1,15 @@
+Motif_ID = M09260_2.00
+TF_Name = MYB
+ENSEMBLE_ID = ENSG00000118513
+TF_ID = T269577_2.00
+TF_Species = Homo_sapiens
+Family_Name = Myb/SANT
+Family_ID = F266_2.00
+width = 12
+XX
+A |    13   13   99   77    0   12    0   11    8   43   13   19
+C |    41   57    1    4  100    8    1   51   63    9   41   41
+G |    18    1    0   13    0   19   98    0    1   15   22   11
+T |    28   29    0    6    0   61    1   38   28   33   24   29
+XX
+//

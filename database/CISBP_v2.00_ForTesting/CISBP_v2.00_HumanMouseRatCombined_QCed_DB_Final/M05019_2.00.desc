@@ -1,0 +1,15 @@
+Motif_ID = M05019_2.00
+TF_Name = CDX1
+ENSEMBLE_ID = ENSG00000113722
+TF_ID = T209807_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 11
+XX
+A |    13   15    0    0    3    0  100  100  100   52   12
+C |    21    0    0  100    0    0    0    0    0   15   43
+G |    39   85    0    0   97    0    0    0    0    5   17
+T |    27    0  100    0    0  100    0    0    0   28   28
+XX
+//

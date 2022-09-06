@@ -1,0 +1,15 @@
+Motif_ID = M04598_2.00
+TF_Name = ZFP41
+ENSEMBLE_ID = ENSG00000181638
+TF_ID = T095203_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 15
+XX
+A |    12    1    5    1   96  100    0    0    0    0    0    1   49    6   31
+C |    44    0   91    3    3    0  100    0  100    0  100   99    9   73   25
+G |    18   99    1    1    0    0    0    0    0    0    0    0   40    3   26
+T |    26    0    3   95    1    0    0  100    0  100    0    0    2   18   18
+XX
+//

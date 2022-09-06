@@ -1,0 +1,15 @@
+Motif_ID = M00515_2.00
+TF_Name = Obox1
+ENSEMBLE_ID = ENSMUSG00000054310
+TF_ID = T212544_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    29   15   83   99    3   13    6   15   21   23
+C |    20    3    1    0    1   80   62   45   34   28
+G |    15    2    8    1   10    2    9   18   19   19
+T |    36   80    8    0   86    5   23   22   26   30
+XX
+//

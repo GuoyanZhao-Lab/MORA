@@ -1,0 +1,15 @@
+Motif_ID = M02668_2.00
+TF_Name = Gfi1
+ENSEMBLE_ID = ENSRNOG00000002042
+TF_ID = T108872_2.00
+TF_Species = Rattus_norvegicus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 10
+XX
+A |    17   53  100  100    2    2   58   15   36   13
+C |    38   30    0    0    0   98   13   53   21   25
+G |    17   13    0    0    2    0    4   21    4   53
+T |    28    4    0    0   96    0   25   11   39    9
+XX
+//

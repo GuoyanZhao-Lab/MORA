@@ -1,0 +1,15 @@
+Motif_ID = M04557_2.00
+TF_Name = OVOL1
+ENSEMBLE_ID = ENSG00000172818
+TF_ID = T095121_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 14
+XX
+A |    42   47   36   89    0    2    0    0    0  100    4   23   10   19
+C |    18    2    4    3  100   98    0    0    0    0   24   23   38   27
+G |    20   31   25    0    0    0  100    0    0    0   11   25    3   33
+T |    20   20   35    8    0    0    0  100  100    0   61   29   49   21
+XX
+//

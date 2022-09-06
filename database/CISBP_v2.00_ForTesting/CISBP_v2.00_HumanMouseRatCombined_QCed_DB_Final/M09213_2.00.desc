@@ -1,0 +1,15 @@
+Motif_ID = M09213_2.00
+TF_Name = Pbx1
+ENSEMBLE_ID = ENSMUSG00000052534
+TF_ID = T212539_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 11
+XX
+A |    11    1   97    2    4    2   68    0   64    7   14
+C |     4    2    0   20    2    0    1   89    2    7   34
+G |     7   96    1   28   10   94   30    1   22   77   44
+T |    78    1    2   50   84    4    1   10   12    9    8
+XX
+//

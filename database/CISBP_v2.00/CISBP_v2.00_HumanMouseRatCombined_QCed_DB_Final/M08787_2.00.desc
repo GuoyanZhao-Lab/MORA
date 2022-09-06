@@ -1,0 +1,15 @@
+Motif_ID = M08787_2.00
+TF_Name = BACH2
+ENSEMBLE_ID = ENSG00000112182
+TF_ID = T059730_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 11
+XX
+A |    41    2    0   96    6   15    9   87    2    1   71
+C |    21    1    2    1   67    5   79    1    1   90    7
+G |    32    1   92    2   23    4    6    4   93    8   10
+T |     6   96    6    1    4   76    6    8    4    1   12
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M09172_2.00
+TF_Name = Dlx3
+ENSEMBLE_ID = ENSMUSG00000001510
+TF_ID = T212388_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    17   41    0   98  100    0    0   54   16   45
+C |    13   41    2    0    0    0    0    0   52   15
+G |    66   18    0    2    0    0    4   37   28   10
+T |     4    0   98    0    0  100   96    9    4   30
+XX
+//

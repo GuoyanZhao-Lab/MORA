@@ -1,0 +1,15 @@
+Motif_ID = M04202_2.00
+TF_Name = NEUROG1
+ENSEMBLE_ID = ENSG00000181965
+TF_ID = T034330_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    45   47    0  100    0   97    1    0    1    2
+C |     5   26  100    0    1    2    0    0   26   49
+G |    48   26    0    0    2    1    0  100   27    5
+T |     2    1    0    0   97    0   99    0   46   44
+XX
+//

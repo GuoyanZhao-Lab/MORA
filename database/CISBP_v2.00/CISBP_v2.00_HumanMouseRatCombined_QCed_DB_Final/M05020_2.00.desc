@@ -1,0 +1,15 @@
+Motif_ID = M05020_2.00
+TF_Name = TLX2
+ENSEMBLE_ID = ENSG00000115297
+TF_ID = T209808_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    11    0  100  100    0    0   44   30
+C |    44    0    0    0    0    1    6   24
+G |    17    0    0    0    0    0   42   33
+T |    28  100    0    0  100   99    8   13
+XX
+//

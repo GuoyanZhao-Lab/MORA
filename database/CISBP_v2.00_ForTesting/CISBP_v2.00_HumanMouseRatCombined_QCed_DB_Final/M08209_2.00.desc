@@ -1,0 +1,15 @@
+Motif_ID = M08209_2.00
+TF_Name = SIX5
+ENSEMBLE_ID = ENSG00000177045
+TF_ID = T209913_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |     3    7   81   15    9    5    3    6
+C |     1    4    6    7   12    8   10    8
+G |    93   81    7   72   12    7   79   10
+T |     3    8    6    6   67   80    8   76
+XX
+//

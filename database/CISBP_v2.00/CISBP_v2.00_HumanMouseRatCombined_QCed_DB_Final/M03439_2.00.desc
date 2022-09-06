@@ -1,0 +1,15 @@
+Motif_ID = M03439_2.00
+TF_Name = Trp53
+ENSEMBLE_ID = ENSMUSG00000059552
+TF_ID = T311093_2.00
+TF_Species = Mus_musculus
+Family_Name = p53
+Family_ID = F279_2.00
+width = 18
+XX
+A |    87    0   51    1    1    7    7   28   36   19   30   11   80    1   46    0    0    6
+C |     1   98   13    1    0   23   52   33   31   35   12   21    1   99   17    0    0   13
+G |     8    2    0    0   99    0    2   13    6    8   34   58   16    0    0    0  100    0
+T |     4    0   36   98    0   70   39   26   27   38   24   10    3    0   37  100    0   81
+XX
+//

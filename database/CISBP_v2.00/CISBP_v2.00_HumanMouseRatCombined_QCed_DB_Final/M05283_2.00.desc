@@ -1,0 +1,15 @@
+Motif_ID = M05283_2.00
+TF_Name = IRX1
+ENSEMBLE_ID = ENSG00000170549
+TF_ID = T209898_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 18
+XX
+A |    32   58    8   61   18   22   23   29   32   33   28   31   14   45    9   12   14   40
+C |    12   11   73    6   27   17   29   19   14   16   26   18   46    9   23   10   17   22
+G |    22   16    8   26    9   46   16   24   25   16   20   22   18   28    7   68   12   11
+T |    34   15   11    7   46   15   32   28   29   35   26   29   22   18   61   10   57   27
+XX
+//

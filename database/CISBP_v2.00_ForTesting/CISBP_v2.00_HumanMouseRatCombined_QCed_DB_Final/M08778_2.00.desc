@@ -1,0 +1,15 @@
+Motif_ID = M08778_2.00
+TF_Name = Max
+ENSEMBLE_ID = ENSMUSG00000059436
+TF_ID = T035748_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 11
+XX
+A |    19   37   19    2   97    1    4    6    0   13   22
+C |    26   36   30   97    1   83    0   22    0   21   51
+G |    48   24   49    1    1    4   95    1   98   61   14
+T |     7    3    2    0    1   12    1   71    2    5   13
+XX
+//

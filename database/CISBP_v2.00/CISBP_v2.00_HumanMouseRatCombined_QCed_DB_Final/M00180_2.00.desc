@@ -1,0 +1,15 @@
+Motif_ID = M00180_2.00
+TF_Name = Mybl1
+ENSEMBLE_ID = ENSMUSG00000025912
+TF_ID = T269784_2.00
+TF_Species = Mus_musculus
+Family_Name = Myb/SANT
+Family_ID = F266_2.00
+width = 9
+XX
+A |    17   98   95    0    3   10   26   19   32
+C |    34    0    5  100   18    3   28   43   19
+G |     4    2    0    0   63   75    7    8   25
+T |    45    0    0    0   16   12   39   30   24
+XX
+//

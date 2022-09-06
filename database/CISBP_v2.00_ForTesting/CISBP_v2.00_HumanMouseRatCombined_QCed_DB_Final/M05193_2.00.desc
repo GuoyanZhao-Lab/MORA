@@ -1,0 +1,15 @@
+Motif_ID = M05193_2.00
+TF_Name = TGIF2LX
+ENSEMBLE_ID = ENSG00000153779
+TF_ID = T209864_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 12
+XX
+A |     7    2   80    1   87    1   14    1    2   14    2   78
+C |    11    6    2   96    1   22   62   11    1    4   90    4
+G |     4   90    4    1   11   62   23    1   96    2    6   11
+T |    78    2   14    2    1   15    1   87    1   80    2    7
+XX
+//

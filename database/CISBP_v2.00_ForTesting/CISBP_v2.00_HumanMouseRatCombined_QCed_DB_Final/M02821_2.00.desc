@@ -1,0 +1,15 @@
+Motif_ID = M02821_2.00
+TF_Name = MGA
+ENSEMBLE_ID = ENSG00000174197
+TF_ID = T055457_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH,T-box
+Family_ID = F087_2.00
+width = 8
+XX
+A |    68   11    0    0    0    3    2   96
+C |     3    9    2   11    0    9    5    0
+G |    20   75   98    0  100    1   77    3
+T |     9    5    0   89    0   87   16    1
+XX
+//

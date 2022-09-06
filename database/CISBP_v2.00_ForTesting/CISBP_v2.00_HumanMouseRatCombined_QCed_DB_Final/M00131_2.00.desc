@@ -1,0 +1,15 @@
+Motif_ID = M00131_2.00
+TF_Name = Zscan26
+ENSEMBLE_ID = ENSMUSG00000022228
+TF_ID = T101027_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 8
+XX
+A |    72    0    0   61   20    0   56    0
+C |    28   28    0    8    0   19   26  100
+G |     0    0    0   11   80    0    0    0
+T |     0   72  100   20    0   81   18    0
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M04086_2.00
+TF_Name = MYF6
+ENSEMBLE_ID = ENSG00000111046
+TF_ID = T034261_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 12
+XX
+A |    11   58   56    0   99    9   12    0    0   56    0   32
+C |    40    4   15  100    0   34   63    0    0    2   94   10
+G |    23   37    7    0    0   55   24    0  100    9    0   46
+T |    26    1   22    0    1    2    1  100    0   33    6   12
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M03433_2.00
+TF_Name = Rara
+ENSEMBLE_ID = ENSMUSG00000037992
+TF_ID = T303935_2.00
+TF_Species = Mus_musculus
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 17
+XX
+A |    89    1    1    0    0  100   29   14   22   74   77   90    0    0    0    0   98
+C |     0    1    1    0   99    0   48   28   39    5    1    1    0    1    0   99    0
+G |    11   97   80    3    0    0    6   27    6    6   21    9  100   86    0    0    2
+T |     0    1   18   97    1    0   17   31   33   15    1    0    0   13  100    1    0
+XX
+//

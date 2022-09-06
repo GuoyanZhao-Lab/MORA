@@ -1,0 +1,15 @@
+Motif_ID = M03192_2.00
+TF_Name = UNCX
+ENSEMBLE_ID = ENSG00000164853
+TF_ID = T209879_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    13    9   81   97    2    6   47   35
+C |    28    2    4    0    1   10    5   15
+G |    21    5    8    2    3    5   39   36
+T |    38   84    7    1   94   79    9   14
+XX
+//

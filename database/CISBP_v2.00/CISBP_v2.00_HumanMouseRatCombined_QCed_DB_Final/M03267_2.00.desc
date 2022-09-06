@@ -1,0 +1,15 @@
+Motif_ID = M03267_2.00
+TF_Name = Vsx1
+ENSEMBLE_ID = ENSMUSG00000033080
+TF_ID = T212472_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    17    7   85   98    3    7   42   26
+C |    26    2    4    0    2    7    5   18
+G |    25    3    7    1    6    9   45   41
+T |    32   88    4    1   89   77    8   15
+XX
+//

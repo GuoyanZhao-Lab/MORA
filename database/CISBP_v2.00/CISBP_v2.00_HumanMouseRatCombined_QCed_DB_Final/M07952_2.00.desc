@@ -1,0 +1,15 @@
+Motif_ID = M07952_2.00
+TF_Name = GABPA
+ENSEMBLE_ID = ENSG00000154727
+TF_ID = T176128_2.00
+TF_Species = Homo_sapiens
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 11
+XX
+A |    29   37    6    8    1    0  100   99   11    4   15
+C |    35   20   82   92    0    0    0    0    6   28   19
+G |    25   38   12    0   99  100    0    0   83    6   54
+T |    11    5    0    0    0    0    0    1    0   62   12
+XX
+//

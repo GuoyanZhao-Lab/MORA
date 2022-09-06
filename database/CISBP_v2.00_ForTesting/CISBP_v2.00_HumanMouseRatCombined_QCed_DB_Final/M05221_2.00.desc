@@ -1,0 +1,15 @@
+Motif_ID = M05221_2.00
+TF_Name = MSX1
+ENSEMBLE_ID = ENSG00000163132
+TF_ID = T209873_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    18    0   99  100    0    0   32   14
+C |    31    5    1    0    0    0    2   40
+G |    32    0    0    0    0    0   63   34
+T |    19   95    0    0  100  100    3   12
+XX
+//

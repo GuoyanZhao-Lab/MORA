@@ -1,0 +1,15 @@
+Motif_ID = M05525_2.00
+TF_Name = HSF1
+ENSEMBLE_ID = ENSG00000185122
+TF_ID = T240228_2.00
+TF_Species = Homo_sapiens
+Family_Name = HSF
+Family_ID = F238_2.00
+width = 15
+XX
+A |    32    0   97   90   13   29   10    4    0    1   57    1   85   70   19
+C |    27    0    1    1   40   13    1    0  100   16   23    2    8    8   33
+G |    38  100    0    1   16   50    2    7    0   28   19   95    1    7   28
+T |     3    0    2    8   31    8   87   89    0   55    1    2    6   15   20
+XX
+//

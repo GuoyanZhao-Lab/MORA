@@ -1,0 +1,15 @@
+Motif_ID = M08973_2.00
+TF_Name = Snai2
+ENSEMBLE_ID = ENSMUSG00000022676
+TF_ID = T101035_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 11
+XX
+A |    36   20   21    0  100    0    0    0    0    0   10
+C |    31   21   15  100    0  100  100    0    0   52   42
+G |    22   24   61    0    0    0    0    0  100    0    7
+T |    11   35    3    0    0    0    0  100    0   48   41
+XX
+//

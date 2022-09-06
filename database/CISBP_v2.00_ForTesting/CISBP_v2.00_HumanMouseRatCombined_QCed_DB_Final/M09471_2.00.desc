@@ -1,0 +1,15 @@
+Motif_ID = M09471_2.00
+TF_Name = Tal1
+ENSEMBLE_ID = ENSMUSG00000028717
+TF_ID = T035696_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 8
+XX
+A |    43   26    1   67    1   26   23    4
+C |    18   24   98    5    4   66    3    0
+G |    20   38    0    4   70    8    1   77
+T |    19   12    1   24   25    0   73   19
+XX
+//

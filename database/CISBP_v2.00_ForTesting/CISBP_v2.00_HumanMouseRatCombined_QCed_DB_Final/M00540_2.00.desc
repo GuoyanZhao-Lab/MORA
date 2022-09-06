@@ -1,0 +1,15 @@
+Motif_ID = M00540_2.00
+TF_Name = Pax6
+ENSEMBLE_ID = ENSMUSG00000027168
+TF_ID = T237407_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain,Paired box
+Family_ID = F230_2.00
+width = 8
+XX
+A |     7   11   85  100    0    0   96   86
+C |    74   18   11    0    0    0    0    0
+G |     4   18    4    0    0    0    2   11
+T |    15   53    0    0  100  100    2    3
+XX
+//

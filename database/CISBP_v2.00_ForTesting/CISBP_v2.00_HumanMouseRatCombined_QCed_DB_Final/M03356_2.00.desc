@@ -1,0 +1,15 @@
+Motif_ID = M03356_2.00
+TF_Name = ESR1
+ENSEMBLE_ID = ENSG00000091831
+TF_ID = T303211_2.00
+TF_Species = Homo_sapiens
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 17
+XX
+A |    48   65    0    0    0    0   94   21   17   38    0    0  100    0    3    0    7
+C |    13    1    0    0    0   99    0   65   29   14    4    0    0  100   97   22   13
+G |    21   34   95  100    1    0    6   10   45   46    0  100    0    0    0    1   40
+T |    18    0    5    0   99    1    0    4    9    2   96    0    0    0    0   77   40
+XX
+//

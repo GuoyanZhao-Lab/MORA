@@ -1,0 +1,15 @@
+Motif_ID = M00274_2.00
+TF_Name = CRX
+ENSEMBLE_ID = ENSG00000105392
+TF_ID = T209782_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    27   20    0  100  100    0    0    0    7   34
+C |    27   60    0    0    0    0  100  100   38   26
+G |    28   10    0    0    0    0    0    0   47   25
+T |    18   10  100    0    0  100    0    0    8   15
+XX
+//

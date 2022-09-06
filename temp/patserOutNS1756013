@@ -1,0 +1,54 @@
+COMMAND LINE: /home/gzhao/tools/MORA_Singularity_v0.1/MORA_Pipeline_v0.1/patser_v3d_linux -m /home/gzhao/tools/MORA_Singularity_v0.1/database/CISBP_v2.00/CISBP_v2.00_HumanMouseRatCombined_QCed_DB_Final/M04666_2.00.matrix -f/home/gzhao/tools/MORA_Singularity_v0.1/output_MyOwnAnalysis/Randome_set51.con -a /home/gzhao/tools/MORA_Singularity_v0.1/MORA_Pipeline_v0.1/alphabet -c -li -d2
+
+File containing the matrix: /home/gzhao/tools/MORA_Singularity_v0.1/database/CISBP_v2.00/CISBP_v2.00_HumanMouseRatCombined_QCed_DB_Final/M04666_2.00.matrix
+File containing the sequence information: /home/gzhao/tools/MORA_Singularity_v0.1/output_MyOwnAnalysis/Randome_set51.con
+Type of matrix: alignment
+Total pseudo-counts added to the elements of the alignment matrix: 1
+
+Range for approximating a weight matrix with integers: 10000
+Minimum score for calculating p-values: 0
+Also score the complementary strands
+Treat unrecognized symbols as discontinuities in the sequence.
+Print scores having a ln(p-value) less than or equal
+to the negative sample-size adjusted information content
+
+***** Information for the alphabet from file "/home/gzhao/tools/MORA_Singularity_v0.1/MORA_Pipeline_v0.1/alphabet". *****
+letter   1: A (complement: T)  prior frequency = 0.250000
+letter   2: C (complement: G)  prior frequency = 0.250000
+letter   3: G (complement: C)  prior frequency = 0.250000
+letter   4: T (complement: A)  prior frequency = 0.250000
+
+width of the alignment matrix: 12
+A |  11   2  32  96   0   0   3  98   1   4  48  12
+C |  55  31   1   0   1  96   0   0   4  46   1  14
+G |  20   1  62   3   0   0  97   2   1   0  48  52
+T |  14  66   5   1  99   4   0   0  94  50   3  22
+
+Information content (base e):  10.031
+Sample size adjusted information content
+     (information content minus the average information
+     expected from an arbitrary alignment of random sequences):   9.849
+Information content after adding pseudo-counts:   9.722
+
+                                    maximum score:   12.782
+                                    minimum score:  -41.245
+            range of scores:   12.782 -  -41.245 =   54.027
+
+           minimum score for calculating p-values:    0.000
+       maximum ln(numerically calculated p-value):   -5.538
+       minimum ln(numerically calculated p-value):  -15.942
+
+ln(cutoff p-value) based on sample size adjusted information content:   -9.849
+              numerically calculated cutoff score:    7.577
+        ln(numerically calculated cutoff p-value):   -9.852
+average score above numerically calculated cutoff:    8.809
+
+ENSMUSG00000062914_ENSMUST00000080313  position=   2461  score=   9.74  ln(p-value)=  -11.51
+ENSMUSG00000062914_ENSMUST00000080313  position=   2461C score=   9.83  ln(p-value)=  -11.58
+ENSMUSG00000039166_ENSMUST00000100012  position=   4003  score=   8.21  ln(p-value)=  -10.37
+ENSMUSG00000025876_ENSMUST00000109994  position=   3698  score=   8.63  ln(p-value)=  -10.65
+ENSMUSG00000025876_ENSMUST00000109994  position=   3698C score=   8.71  ln(p-value)=  -10.71
+ENSMUSG00000021055_ENSMUST00000101291  position=   2998  score=   8.21  ln(p-value)=  -10.37
+ENSMUSG00000004872_ENSMUST00000004994  position=    120  score=   7.93  ln(p-value)=  -10.13
+ENSMUSG00000043827_ENSMUST00000055324  position=   3495  score=  11.43  ln(p-value)=  -13.46
+ENSMUSG00000043827_ENSMUST00000055324  position=   3495C score=   9.84  ln(p-value)=  -11.59

@@ -1,0 +1,15 @@
+Motif_ID = M05305_2.00
+TF_Name = ISX
+ENSEMBLE_ID = ENSG00000175329
+TF_ID = T209909_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    15    0  100  100    0    0   78   19
+C |    24   17    0    0    0    0    0    5
+G |    15    0    0    0    0    0   22   73
+T |    46   83    0    0  100  100    0    3
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M04773_2.00
+TF_Name = ERG
+ENSEMBLE_ID = ENSG00000157554
+TF_ID = T176129_2.00
+TF_Species = Homo_sapiens
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 16
+XX
+A |    39   86    1    4    0    0  100   22   78    0    0    0    0    0    4   13
+C |    20    2   99   96    0    0    0    2    0    0  100  100    0    1   11   31
+G |    29    7    0    0  100  100    0    0    0    0    0    0   97   96    3   24
+T |    12    5    0    0    0    0    0   76   22  100    0    0    3    3   82   32
+XX
+//

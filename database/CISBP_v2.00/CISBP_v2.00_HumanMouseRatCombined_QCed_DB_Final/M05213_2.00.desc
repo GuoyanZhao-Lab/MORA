@@ -1,0 +1,15 @@
+Motif_ID = M05213_2.00
+TF_Name = LHX8
+ENSEMBLE_ID = ENSG00000162624
+TF_ID = T209870_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    22    3   94   99    0    0   97    9
+C |    36    1    0    0   91    0    1   18
+G |    14    0    5    1    0  100    0   53
+T |    28   96    1    0    9    0    2   20
+XX
+//

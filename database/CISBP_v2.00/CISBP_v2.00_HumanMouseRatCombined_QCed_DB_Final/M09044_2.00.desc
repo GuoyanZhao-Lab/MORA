@@ -1,0 +1,15 @@
+Motif_ID = M09044_2.00
+TF_Name = EBF1
+ENSEMBLE_ID = ENSG00000164330
+TF_ID = T174553_2.00
+TF_Species = Homo_sapiens
+Family_Name = EBF1
+Family_ID = F178_2.00
+width = 15
+XX
+A |    35    9    4    0    3    0   30    9    5   17    1   72   21   22   18
+C |     9   25   26   99   72   98    1    4    0    0    0    2   41   27   20
+G |    35   44    4    0    0    0    1   62   94   81   99   20   26    9   20
+T |    21   22   66    1   25    2   68   25    1    2    0    6   12   42   42
+XX
+//

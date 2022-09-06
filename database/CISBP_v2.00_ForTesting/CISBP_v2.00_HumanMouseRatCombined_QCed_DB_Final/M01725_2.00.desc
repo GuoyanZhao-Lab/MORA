@@ -1,0 +1,15 @@
+Motif_ID = M01725_2.00
+TF_Name = Srebf2
+ENSEMBLE_ID = ENSMUSG00000022463
+TF_ID = T035681_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 8
+XX
+A |     8    0   41    0    0    0    0   84
+C |     0   71    0   82    0    6    0    0
+G |     0   29   59   12  100    0  100    8
+T |    92    0    0    6    0   94    0    8
+XX
+//

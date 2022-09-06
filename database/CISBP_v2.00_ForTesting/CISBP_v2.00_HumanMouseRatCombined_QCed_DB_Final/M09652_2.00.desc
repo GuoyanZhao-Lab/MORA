@@ -1,0 +1,15 @@
+Motif_ID = M09652_2.00
+TF_Name = Tead4
+ENSEMBLE_ID = ENSMUSG00000030353
+TF_ID = T346585_2.00
+TF_Species = Mus_musculus
+Family_Name = TEA
+Family_ID = F317_2.00
+width = 10
+XX
+A |    18   16   34    3    0   74   97    0    0    5
+C |    40   46   17    1    0    9    0    0   17   50
+G |    25   24   14   92  100    2    0    0   59    0
+T |    17   14   35    4    0   15    3  100   24   45
+XX
+//

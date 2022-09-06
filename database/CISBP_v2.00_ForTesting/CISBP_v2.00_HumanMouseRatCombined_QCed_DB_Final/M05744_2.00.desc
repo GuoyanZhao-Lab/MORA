@@ -1,0 +1,15 @@
+Motif_ID = M05744_2.00
+TF_Name = SMAD5
+ENSEMBLE_ID = ENSG00000113658
+TF_ID = T324623_2.00
+TF_Species = Homo_sapiens
+Family_Name = SMAD
+Family_ID = F304_2.00
+width = 10
+XX
+A |     5    0    8    2    1   99    1   81    0   43
+C |    74    0    1   98    4    0    2   12   99    7
+G |     2  100    6    0    1    1   96    2    0   36
+T |    19    0   85    0   94    0    1    5    1   14
+XX
+//

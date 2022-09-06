@@ -1,0 +1,15 @@
+Motif_ID = M04157_2.00
+TF_Name = PTF1A
+ENSEMBLE_ID = ENSG00000168267
+TF_ID = T034310_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 12
+XX
+A |    65   64    0   91    0    7    0    4   93    2   48    6
+C |    14   16   96    2    0   85    0    0    0   93    0   53
+G |    14    6    4    0   98    8    0   96    1    0   52   15
+T |     7   14    0    7    2    0  100    0    6    5    0   26
+XX
+//

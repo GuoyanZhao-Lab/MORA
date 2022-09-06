@@ -1,0 +1,15 @@
+Motif_ID = M01726_2.00
+TF_Name = Hes1
+ENSEMBLE_ID = ENSMUSG00000022528
+TF_ID = T035682_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    19   21    4   74    3   16   11    6   23   22
+C |    26   30   88    4   83    4   47   11   30   38
+G |    37   40    1   14    6   77    7   66   15   20
+T |    18    9    7    8    8    3   35   17   32   20
+XX
+//

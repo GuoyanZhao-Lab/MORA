@@ -1,0 +1,15 @@
+Motif_ID = M03395_2.00
+TF_Name = RARG
+ENSEMBLE_ID = ENSG00000172819
+TF_ID = T303240_2.00
+TF_Species = Homo_sapiens
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 18
+XX
+A |    51   92    0    0    0    0   98   79    4    2   71   58   73    0    0    1    2   95
+C |     2    1    0    0    0  100    0    3   27   43    6    2    3    1    1    2   93    0
+G |    44    6   98   96    1    0    2   15   50   14    6   38   24   98   73    1    0    3
+T |     3    1    2    4   99    0    0    3   19   41   17    2    0    1   26   96    5    2
+XX
+//

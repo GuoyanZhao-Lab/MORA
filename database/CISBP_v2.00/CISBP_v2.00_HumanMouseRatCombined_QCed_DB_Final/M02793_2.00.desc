@@ -1,0 +1,15 @@
+Motif_ID = M02793_2.00
+TF_Name = HEY1
+ENSEMBLE_ID = ENSG00000164683
+TF_ID = T034307_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    13   41    0   95    0    0    0    1   10   14
+C |    23   20   99    1  100    1   13    0   53   65
+G |    54   36    0    3    0   99    0   98   11   11
+T |    10    3    1    1    0    0   87    1   26   10
+XX
+//

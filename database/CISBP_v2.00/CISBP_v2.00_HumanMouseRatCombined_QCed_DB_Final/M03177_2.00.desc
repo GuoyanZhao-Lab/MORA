@@ -1,0 +1,15 @@
+Motif_ID = M03177_2.00
+TF_Name = ISL2
+ENSEMBLE_ID = ENSG00000159556
+TF_ID = T209868_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    13   19   85   92    4    4   15   10
+C |    28    1    0    3    2    2    2   52
+G |    11    3   11    2   60    3   81   24
+T |    48   77    4    3   34   91    2   14
+XX
+//

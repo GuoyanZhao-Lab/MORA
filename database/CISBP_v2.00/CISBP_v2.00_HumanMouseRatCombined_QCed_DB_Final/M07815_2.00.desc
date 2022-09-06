@@ -1,0 +1,15 @@
+Motif_ID = M07815_2.00
+TF_Name = JUND
+ENSEMBLE_ID = ENSG00000130522
+TF_ID = T059741_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 11
+XX
+A |    48    0    0  100    0    0    0  100    4    2   24
+C |    25    0    0    0   57    0  100    0   49   77   47
+G |    27    0   98    0   41    0    0    0   10    5   15
+T |     0  100    2    0    2  100    0    0   37   16   14
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M10595_2.00
+TF_Name = GATA2
+ENSEMBLE_ID = ENSG00000179348
+TF_ID = T192730_2.00
+TF_Species = Homo_sapiens
+Family_Name = GATA
+Family_ID = F201_2.00
+width = 10
+XX
+A |    48   23   55    0  100    0   97   94   13   55
+C |    16   23   16    0    0    0    3    0   29   10
+G |    23   35    0  100    0    0    0    0   55   22
+T |    13   19   29    0    0  100    0    6    3   13
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M05252_2.00
+TF_Name = OTX2
+ENSEMBLE_ID = ENSG00000165588
+TF_ID = T209887_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    21    0  100  100    0    1    2   13
+C |    43    0    0    0    0   97   86   45
+G |    13    0    0    0    3    1    1   22
+T |    23  100    0    0   97    1   11   20
+XX
+//

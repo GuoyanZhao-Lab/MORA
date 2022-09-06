@@ -1,0 +1,15 @@
+Motif_ID = M00140_2.00
+TF_Name = Zfp410
+ENSEMBLE_ID = ENSMUSG00000042472
+TF_ID = T101174_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 8
+XX
+A |    20    0  100    0    0    0    0  100
+C |    80   75    0    0  100  100  100    0
+G |     0    0    0    0    0    0    0    0
+T |     0   25    0  100    0    0    0    0
+XX
+//

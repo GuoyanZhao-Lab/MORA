@@ -1,0 +1,15 @@
+Motif_ID = M08053_2.00
+TF_Name = MYCN
+ENSEMBLE_ID = ENSG00000134323
+TF_ID = T034287_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 12
+XX
+A |    21   25    7    1   91    0    5    4    0    6   16   17
+C |    27   22   76   99    1   93    2    4    0   11   37   35
+G |    35   37   11    0    4    2   93    1   99   76   22   27
+T |    17   16    6    0    4    5    0   91    1    7   25   21
+XX
+//

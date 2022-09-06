@@ -1,0 +1,15 @@
+Motif_ID = M04464_2.00
+TF_Name = KLF4
+ENSEMBLE_ID = ENSG00000136826
+TF_ID = T094932_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 11
+XX
+A |    17   32    5    7   54    0   34    0    1    0   38
+C |    43   23   86   84   38   96    0  100   99   96   23
+G |    18   35    3    5    5    0   61    0    0    1   15
+T |    22   10    6    4    3    4    5    0    0    3   24
+XX
+//

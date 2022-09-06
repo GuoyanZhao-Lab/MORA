@@ -1,0 +1,15 @@
+Motif_ID = M08342_2.00
+TF_Name = ZNF596
+ENSEMBLE_ID = ENSG00000172748
+TF_ID = T095120_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 15
+XX
+A |     0    0    0    0   10    0    7    0    0    0   14    2    4    6    7
+C |     4  100    9   99    3   28   33  100    1  100   48   51   28   68   28
+G |    63    0    2    1   43   69   30    0    0    0    4   15   21   11   18
+T |    33    0   89    0   44    3   30    0   99    0   34   32   47   15   47
+XX
+//

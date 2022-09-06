@@ -1,0 +1,15 @@
+Motif_ID = M03068_2.00
+TF_Name = GCM1
+ENSEMBLE_ID = ENSG00000137270
+TF_ID = T197997_2.00
+TF_Species = Homo_sapiens
+Family_Name = GCM
+Family_ID = F212_2.00
+width = 10
+XX
+A |    12   82    0   14    4    3    0    0    1   57
+C |    34    3    0    1   89    0    0    0   16   11
+G |    24   13    1   85    4   82  100  100    0   20
+T |    30    2   99    0    3   15    0    0   83   12
+XX
+//

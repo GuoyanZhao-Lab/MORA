@@ -1,0 +1,15 @@
+Motif_ID = M04492_2.00
+TF_Name = ZIC3
+ENSEMBLE_ID = ENSG00000156925
+TF_ID = T094989_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 16
+XX
+A |    31    1   78    1    0    1    0    0    0    2    0    1    0    3    0   45
+C |    26   13    9   99  100   99  100  100   19    0  100    2    0    1    0   50
+G |    25   68   13    0    0    0    0    0    0   98    0    3  100    1   98    0
+T |    18   18    0    0    0    0    0    0   81    0    0   94    0   95    2    5
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M09560_2.00
+TF_Name = PBX3
+ENSEMBLE_ID = ENSG00000167081
+TF_ID = T209890_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 12
+XX
+A |    20    8    0  100    2    4    0   80    0   91    4   10
+C |    22    0    0    0   18    0    0    0   99    0   12   37
+G |    27    4  100    0   38    5  100   20    0    5   73   39
+T |    31   88    0    0   42   91    0    0    1    4   11   14
+XX
+//

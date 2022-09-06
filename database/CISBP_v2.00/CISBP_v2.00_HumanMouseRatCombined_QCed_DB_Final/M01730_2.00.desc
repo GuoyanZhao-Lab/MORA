@@ -1,0 +1,15 @@
+Motif_ID = M01730_2.00
+TF_Name = Msc
+ENSEMBLE_ID = ENSMUSG00000025930
+TF_ID = T035687_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    35   36   14   72    6   52    5    0    5   22
+C |    15   42   83    0   13   29   23    3   17   28
+G |    28   17    3   23   29   13    0   83   42   15
+T |    22    5    0    5   52    6   72   14   36   35
+XX
+//

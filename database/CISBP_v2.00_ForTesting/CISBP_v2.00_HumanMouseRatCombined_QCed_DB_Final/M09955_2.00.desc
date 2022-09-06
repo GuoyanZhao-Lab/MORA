@@ -1,0 +1,15 @@
+Motif_ID = M09955_2.00
+TF_Name = CREB1
+ENSEMBLE_ID = ENSG00000118260
+TF_ID = T059734_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 15
+XX
+A |    60    0    0  100    0    0    0  100    0   80    0    0    0    0   20
+C |     0    0    0    0  100    0  100    0   20   20   60  100  100   80   80
+G |    40    0  100    0    0  100    0    0    0    0    0    0    0    0    0
+T |     0  100    0    0    0    0    0    0   80    0   40    0    0   20    0
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M04645_2.00
+TF_Name = SP9
+ENSEMBLE_ID = ENSG00000217236
+TF_ID = T095444_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 12
+XX
+A |    34   15   10   66    0    7    1    0    1   42    6   17
+C |    18   64   77   30   99    6   98   99   84   44   66   48
+G |    39    8    4    1    1   81    0    0    1    1    7    8
+T |     9   13    9    3    0    6    1    1   14   13   21   27
+XX
+//

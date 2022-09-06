@@ -1,0 +1,15 @@
+Motif_ID = M03442_2.00
+TF_Name = PAX1
+ENSEMBLE_ID = ENSG00000125813
+TF_ID = T311643_2.00
+TF_Species = Homo_sapiens
+Family_Name = Paired box
+Family_ID = F281_2.00
+width = 17
+XX
+A |    19    0   15   85   17    0    1   91   40    0    0   13    0   10   93    2    6
+C |    11   22   71    1   28   14   72    0    1   19  100    0    0    0    0   98   27
+G |    31   50    0   12   37    0   27    9    2   81    0   87    6   90    2    0   61
+T |    39   28   14    2   18   86    0    0   57    0    0    0   94    0    5    0    6
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M03193_2.00
+TF_Name = GBX1
+ENSEMBLE_ID = ENSG00000164900
+TF_ID = T209880_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    24   11    1   96   99    0    0   50   14   10
+C |    20   45    0    1    0    0    3    0   25   29
+G |    43   23    0    2    1    1    2   49   55   25
+T |    13   21   99    1    0   99   95    1    6   36
+XX
+//

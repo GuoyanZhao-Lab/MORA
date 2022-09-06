@@ -1,0 +1,15 @@
+Motif_ID = M07939_2.00
+TF_Name = E2F6
+ENSEMBLE_ID = ENSG00000169016
+TF_ID = T172622_2.00
+TF_Species = Homo_sapiens
+Family_Name = E2F
+Family_ID = F174_2.00
+width = 11
+XX
+A |    29   28   16    0   14    0    0    0  100   67   35
+C |    23    9   19    0   83    0    0    2    0    0   21
+G |    29   48   65  100    0   99  100   98    0   33   34
+T |    19   15    0    0    3    1    0    0    0    0   10
+XX
+//

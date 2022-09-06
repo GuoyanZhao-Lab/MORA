@@ -1,0 +1,15 @@
+Motif_ID = M07595_2.00
+TF_Name = RBAK
+ENSEMBLE_ID = ENSG00000146587
+TF_ID = T094959_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 15
+XX
+A |     1    1   11    6   10    0    0    0    0    0    0   16    0   10   16
+C |    19   50   58   42   27   45    7   50   71   19   65   28   89   46   49
+G |    61   37    4    5   34    1    2    1   29    0    0    6    0   23   19
+T |    19   12   27   47   29   54   91   49    0   81   35   50   11   21   16
+XX
+//

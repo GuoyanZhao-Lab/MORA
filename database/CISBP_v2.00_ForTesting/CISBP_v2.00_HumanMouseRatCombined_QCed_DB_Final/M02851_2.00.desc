@@ -1,0 +1,15 @@
+Motif_ID = M02851_2.00
+TF_Name = CEBPB
+ENSEMBLE_ID = ENSG00000172216
+TF_ID = T059757_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 10
+XX
+A |    46    0    0   44    1   13    9   97  100    1
+C |    22    0    0    0   89    2   83    3    0   44
+G |    28    0    9   47    1   83    0    0    0    4
+T |     4  100   91    9    9    2    8    0    0   51
+XX
+//

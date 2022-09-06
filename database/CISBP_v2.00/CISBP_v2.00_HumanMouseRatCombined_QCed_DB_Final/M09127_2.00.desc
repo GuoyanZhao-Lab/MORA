@@ -1,0 +1,15 @@
+Motif_ID = M09127_2.00
+TF_Name = Tcfcp2l1
+ENSEMBLE_ID = ENSMUSG00000026380
+TF_ID = T199110_2.00
+TF_Species = Mus_musculus
+Family_Name = Grainyhead
+Family_ID = F215_2.00
+width = 19
+XX
+A |    43   45    0    2   35    0   10    5    3   32   41   29    0    7   31    1   16   12    9
+C |    10    5   98   62    0    2   25   20   60   29   13    4   94   58    1    6   34   20   43
+G |    31   23    2    0   55   98    2    0    3   10   32   37    4    0   54   93    7    8   15
+T |    16   27    0   36   10    0   63   75   34   29   14   30    2   35   14    0   43   60   33
+XX
+//

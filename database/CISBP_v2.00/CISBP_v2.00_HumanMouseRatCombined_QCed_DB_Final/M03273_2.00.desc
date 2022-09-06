@@ -1,0 +1,15 @@
+Motif_ID = M03273_2.00
+TF_Name = Alx1
+ENSEMBLE_ID = ENSMUSG00000036602
+TF_ID = T212488_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 13
+XX
+A |    20    7   86  100    2    2   31   55   79    0    6   83   27
+C |    20    3    0    0    7   20   15    7    2    0    4    1   15
+G |    24    1    6    0    3   10   21   35   15    0    1    5   33
+T |    36   89    8    0   88   68   33    3    4  100   89   11   25
+XX
+//

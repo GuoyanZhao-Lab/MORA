@@ -1,0 +1,15 @@
+Motif_ID = M08999_2.00
+TF_Name = Zfp281
+ENSEMBLE_ID = ENSMUSG00000041483
+TF_ID = T101166_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 15
+XX
+A |     2    1    0    8   17    0    0    0    0    0   63   18    8   10    8
+C |    96   99  100   87    0  100  100   99   99  100   23   62   67   60   59
+G |     0    0    0    0    4    0    0    0    0    0    3    7   11   16   16
+T |     2    0    0    5   79    0    0    1    1    0   11   13   14   14   17
+XX
+//

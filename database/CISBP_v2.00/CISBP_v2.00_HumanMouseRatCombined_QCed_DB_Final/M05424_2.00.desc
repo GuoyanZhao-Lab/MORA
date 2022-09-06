@@ -1,0 +1,15 @@
+Motif_ID = M05424_2.00
+TF_Name = PAX7
+ENSEMBLE_ID = ENSG00000009709
+TF_ID = T237340_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain,Paired box
+Family_ID = F230_2.00
+width = 12
+XX
+A |    29    6  100  100    0    0    0  100    0    0   92   23
+C |    23    0    0    0    0   68    0    0    0    0    1   24
+G |    25    2    0    0    0    0  100    0    0    0    0   22
+T |    23   92    0    0  100   32    0    0  100  100    7   31
+XX
+//

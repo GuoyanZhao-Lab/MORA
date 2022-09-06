@@ -1,0 +1,15 @@
+Motif_ID = M09252_2.00
+TF_Name = Mef2d
+ENSEMBLE_ID = ENSMUSG00000001419
+TF_ID = T253733_2.00
+TF_Species = Mus_musculus
+Family_Name = MADS box
+Family_ID = F256_2.00
+width = 14
+XX
+A |    32   16    9    1   86   60   87   89   94    4   97   16   37   34
+C |     9    7   79   22    5    1    1    1    0    0    1    6   49   30
+G |    28   47    3    0    1    9    3    2    0    0    2   75    7    6
+T |    31   30    9   77    8   30    9    8    6   96    0    3    7   30
+XX
+//

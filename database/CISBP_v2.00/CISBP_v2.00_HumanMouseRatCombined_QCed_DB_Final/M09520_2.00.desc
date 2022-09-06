@@ -1,0 +1,15 @@
+Motif_ID = M09520_2.00
+TF_Name = Onecut1
+ENSEMBLE_ID = ENSMUSG00000043013
+TF_ID = T167158_2.00
+TF_Species = Mus_musculus
+Family_Name = CUT,Homeodomain
+Family_ID = F164_2.00
+width = 10
+XX
+A |    24   32   97    0    0   49  100    0   61   24
+C |    14    0    0    0  100    0    0    0   16   32
+G |    38   68    3    0    0   51    0    0   10   19
+T |    24    0    0  100    0    0    0  100   13   25
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M04190_2.00
+TF_Name = MSC
+ENSEMBLE_ID = ENSG00000178860
+TF_ID = T034325_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 12
+XX
+A |    10   59   25    0  100    0   99    0    0    0    4   28
+C |    45    2   64  100    0    0    1    0    0   10   36   18
+G |    18   35   11    0    0    2    0    0  100   64    2   44
+T |    27    4    0    0    0   98    0  100    0   26   58   10
+XX
+//

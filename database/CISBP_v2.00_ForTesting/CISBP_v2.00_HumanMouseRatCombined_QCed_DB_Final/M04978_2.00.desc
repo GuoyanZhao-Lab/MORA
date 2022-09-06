@@ -1,0 +1,15 @@
+Motif_ID = M04978_2.00
+TF_Name = HOXA13
+ENSEMBLE_ID = ENSG00000106031
+TF_ID = T209791_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 11
+XX
+A |    14    4    0    0    7    0   91  100   99   57   19
+C |    28   88    0   99    0    0    0    0    1   19   41
+G |    37    8    0    0   93    0    0    0    0    5   13
+T |    21    0  100    1    0  100    9    0    0   19   27
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M09573_2.00
+TF_Name = Nkx6-1
+ENSEMBLE_ID = ENSMUSG00000035187
+TF_ID = T212481_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    16   18    0  100  100    0    0   53
+C |    18    6    0    0    0    0   10    0
+G |    42   31    0    0    0    0   56   47
+T |    24   45  100    0    0  100   34    0
+XX
+//

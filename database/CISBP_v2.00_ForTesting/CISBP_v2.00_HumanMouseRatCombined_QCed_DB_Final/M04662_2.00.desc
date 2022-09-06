@@ -1,0 +1,15 @@
+Motif_ID = M04662_2.00
+TF_Name = YBX1
+ENSEMBLE_ID = ENSG00000065978
+TF_ID = T164567_2.00
+TF_Species = Homo_sapiens
+Family_Name = CSD
+Family_ID = F158_2.00
+width = 9
+XX
+A |     0   64    9   21    6   33   66   10   42
+C |     0    0    1    0    1    5    3   68    9
+G |   100   34    0   79   69   15   25   10   35
+T |     0    2   90    0   24   47    6   12   14
+XX
+//

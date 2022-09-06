@@ -1,0 +1,15 @@
+Motif_ID = M05546_2.00
+TF_Name = IRF2
+ENSEMBLE_ID = ENSG00000168310
+TF_ID = T244083_2.00
+TF_Species = Homo_sapiens
+Family_Name = IRF
+Family_ID = F243_2.00
+width = 12
+XX
+A |    13    9   89   86   97   12    5   10   84   86   88    7
+C |    46    4    2    0    0   28   44    0    4    0    1   42
+G |    13   84    7    2    0   56    8   90   10    3    5   45
+T |    28    3    2   12    3    4   43    0    2   11    6    6
+XX
+//

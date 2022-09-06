@@ -1,0 +1,15 @@
+Motif_ID = M08789_2.00
+TF_Name = NFE2L2
+ENSEMBLE_ID = ENSG00000116044
+TF_ID = T059732_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 14
+XX
+A |    69    0    0   99    2    7    6   89    1    2   86   33   34   31
+C |     5    0    0    0   82    1   87    0    1   95    2   14    9   12
+G |    26    0   99    1   14    1    4    5   96    2    4   36   10    5
+T |     0  100    1    0    2   91    3    6    2    1    8   17   47   52
+XX
+//

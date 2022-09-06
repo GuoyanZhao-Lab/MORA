@@ -1,0 +1,15 @@
+Motif_ID = M09189_2.00
+TF_Name = Meis2
+ENSEMBLE_ID = ENSMUSG00000027210
+TF_ID = T212448_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 13
+XX
+A |    20    0    0   87    0  100    2    9    0    1    2    5   45
+C |    13    0    0    0  100    0   13   41    1    1    2   56   34
+G |    12    0  100    0    0    0   79   27    0   68   15   17   11
+T |    55  100    0   13    0    0    6   23   99   30   81   22   10
+XX
+//

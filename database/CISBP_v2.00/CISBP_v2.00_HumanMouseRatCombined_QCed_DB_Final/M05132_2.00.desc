@@ -1,0 +1,15 @@
+Motif_ID = M05132_2.00
+TF_Name = RHOXF2
+ENSEMBLE_ID = ENSG00000131721
+TF_ID = T209840_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    16    0   98  100    0    1    0   21
+C |    38    0    0    0    0   97   94   39
+G |    15    0    2    0    9    2    2   18
+T |    31  100    0    0   91    0    4   22
+XX
+//

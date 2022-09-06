@@ -1,0 +1,15 @@
+Motif_ID = M05161_2.00
+TF_Name = PDX1
+ENSEMBLE_ID = ENSG00000139515
+TF_ID = T209853_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |     7    2   80  100    0    0   64    8
+C |    55   15   20    0    0    3    0   55
+G |    13    0    0    0    0   38   36   21
+T |    25   83    0    0  100   59    0   16
+XX
+//

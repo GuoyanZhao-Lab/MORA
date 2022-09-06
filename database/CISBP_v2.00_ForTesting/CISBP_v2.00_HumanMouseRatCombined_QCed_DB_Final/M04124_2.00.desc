@@ -1,0 +1,15 @@
+Motif_ID = M04124_2.00
+TF_Name = ARNTL
+ENSEMBLE_ID = ENSG00000133794
+TF_ID = T034285_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    27   20    2   89    0    3    2    0   29   21
+C |    15   11   97    1   96    0    7    0   40   32
+G |    52   18    1    7    0   97    1   96   12   28
+T |     6   51    0    3    4    0   90    4   19   19
+XX
+//

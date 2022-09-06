@@ -1,0 +1,15 @@
+Motif_ID = M00412_2.00
+TF_Name = Six6
+ENSEMBLE_ID = ENSMUSG00000021099
+TF_ID = T212416_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 11
+XX
+A |    22   36   37    0    0  100    0  100    2    7   28
+C |    22   18   17    0    0    0    0    0   34   68   29
+G |    33   28   28   10  100    0    0    0    3    7   17
+T |    23   18   18   90    0    0  100    0   61   18   26
+XX
+//

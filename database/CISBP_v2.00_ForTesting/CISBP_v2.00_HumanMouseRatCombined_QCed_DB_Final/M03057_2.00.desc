@@ -1,0 +1,15 @@
+Motif_ID = M03057_2.00
+TF_Name = Foxj3
+ENSEMBLE_ID = ENSMUSG00000032998
+TF_ID = T186347_2.00
+TF_Species = Mus_musculus
+Family_Name = Forkhead
+Family_ID = F196_2.00
+width = 8
+XX
+A |    43    6   89   94   98    0   99   60
+C |     2    9   10    5    1   91    0   12
+G |    55    3    1    0    0    0    1   11
+T |     0   82    0    1    1    9    0   17
+XX
+//

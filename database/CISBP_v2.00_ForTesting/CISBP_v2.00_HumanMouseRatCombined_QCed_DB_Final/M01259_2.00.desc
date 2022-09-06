@@ -1,0 +1,15 @@
+Motif_ID = M01259_2.00
+TF_Name = MSANTD3
+ENSEMBLE_ID = ENSG00000066697
+TF_ID = T248289_2.00
+TF_Species = Homo_sapiens
+Family_Name = MADF
+Family_ID = F251_2.00
+width = 10
+XX
+A |    10   11   33    7   98    3    4    5   78   27
+C |    27   21   27   72    0   90    1   86   14   57
+G |    51   22   25    3    0    3    0    3    2    6
+T |    12   46   15   18    2    4   95    6    6   10
+XX
+//

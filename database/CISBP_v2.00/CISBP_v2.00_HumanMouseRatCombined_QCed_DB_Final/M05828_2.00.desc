@@ -1,0 +1,15 @@
+Motif_ID = M05828_2.00
+TF_Name = XPA
+ENSEMBLE_ID = ENSG00000136936
+TF_ID = T350263_2.00
+TF_Species = Homo_sapiens
+Family_Name = Unknown
+Family_ID = F319_2.00
+width = 11
+XX
+A |    11   12   70    0    0    1    6   92    0   73   16
+C |    47   75   10   93   91   16   85    0   97   17   47
+G |    28   13   13    0    8    8    0    8    0   10   17
+T |    14    0    7    7    1   75    9    0    3    0   20
+XX
+//

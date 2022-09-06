@@ -1,0 +1,15 @@
+Motif_ID = M04651_2.00
+TF_Name = ZBTB22
+ENSEMBLE_ID = ENSG00000236104
+TF_ID = T095460_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 17
+XX
+A |    26    3    0   99    0   24   99    0   35   50    1   56    0    0    0   61   44
+C |    24    0  100    1  100   15    0   41   13    8    0    5    0    0    0   35    8
+G |     7   36    0    0    0    4    0    9   13   41    0   14  100    1  100    0   24
+T |    43   61    0    0    0   57    1   50   39    1   99   25    0   99    0    4   24
+XX
+//

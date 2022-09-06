@@ -1,0 +1,15 @@
+Motif_ID = M09254_2.00
+TF_Name = Srf
+ENSEMBLE_ID = ENSMUSG00000015605
+TF_ID = T253736_2.00
+TF_Species = Mus_musculus
+Family_Name = MADS box
+Family_ID = F256_2.00
+width = 17
+XX
+A |    40   25   23   14    3    1   76   47   91   27   87   63    4    2   37   61   58
+C |    18   12    5   19   94   86    4    2    1    4    4    0    0    1   25   22   10
+G |    26   10   45   55    0    1    2    7    5    5    3    5   95   96   31   10   20
+T |    16   53   27   12    3   12   18   44    3   64    6   32    1    1    7    7   12
+XX
+//

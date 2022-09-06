@@ -1,0 +1,15 @@
+Motif_ID = M05832_2.00
+TF_Name = MAX
+ENSEMBLE_ID = ENSG00000125952
+TF_ID = T034282_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 6
+XX
+A |     0   97    0   16    0    0
+C |   100    0   97    0    7    0
+G |     0    3    0   84    0   99
+T |     0    0    3    0   93    1
+XX
+//

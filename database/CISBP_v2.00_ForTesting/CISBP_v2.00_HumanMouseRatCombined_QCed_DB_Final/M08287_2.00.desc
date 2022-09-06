@@ -1,0 +1,15 @@
+Motif_ID = M08287_2.00
+TF_Name = PATZ1
+ENSEMBLE_ID = ENSG00000100105
+TF_ID = T094822_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 8
+XX
+A |     0    8    0    0   22    0    0    0
+C |    94   81  100  100    0  100  100   84
+G |     0    0    0    0   35    0    0    0
+T |     6   11    0    0   43    0    0   16
+XX
+//

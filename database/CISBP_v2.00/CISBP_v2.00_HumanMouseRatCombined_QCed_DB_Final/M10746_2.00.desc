@@ -1,0 +1,15 @@
+Motif_ID = M10746_2.00
+TF_Name = POU6F1
+ENSEMBLE_ID = ENSG00000184271
+TF_ID = T209926_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 11
+XX
+A |    19   13   87   12   81   81   44    0   19  100    0
+C |     6   81    0    0    6    6    0    0    0    0    0
+G |    75    0    0    0    0   13    0    0    0    0    6
+T |     0    6   13   88   13    0   56  100   81    0   94
+XX
+//

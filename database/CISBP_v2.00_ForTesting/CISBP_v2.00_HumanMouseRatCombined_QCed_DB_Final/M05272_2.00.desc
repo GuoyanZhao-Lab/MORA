@@ -1,0 +1,15 @@
+Motif_ID = M05272_2.00
+TF_Name = GSX1
+ENSEMBLE_ID = ENSG00000169840
+TF_ID = T209894_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    24   16   81   93    1   12   65    7
+C |    24    3    2    0   53    1   13   27
+G |    15    3    9    6    1   77    8   37
+T |    37   78    8    1   45   10   14   29
+XX
+//

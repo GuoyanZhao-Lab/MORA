@@ -1,0 +1,15 @@
+Motif_ID = M09008_2.00
+TF_Name = Klf1
+ENSEMBLE_ID = ENSMUSG00000054191
+TF_ID = T101294_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 14
+XX
+A |    17   16   24   29   13    5    5   47    1   45    0    0    1   33
+C |    65   62   53   13   16   91   91   49   98    0   99   99   99   29
+G |    11   17   13   40   64    2    1    1    0   44    0    0    0    3
+T |     7    5   10   18    7    2    3    3    1   11    1    1    0   35
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M03271_2.00
+TF_Name = Meox2
+ENSEMBLE_ID = ENSMUSG00000036144
+TF_ID = T212487_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    21    2   86   98    0    0   81   24
+C |    21   13    0    1    5    6    1   31
+G |    30    4   10    0    1   32   14   25
+T |    28   81    4    1   94   62    4   20
+XX
+//

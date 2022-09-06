@@ -1,0 +1,15 @@
+Motif_ID = M09319_2.00
+TF_Name = Esrra
+ENSEMBLE_ID = ENSMUSG00000024955
+TF_ID = T303922_2.00
+TF_Species = Mus_musculus
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 12
+XX
+A |    40   16    8    2    6   94   99    0    0    1    0   99
+C |    18   13   30   26   82    1    0    0    0    1   95    0
+G |    19   49   31    8   12    5    1   99  100    4    2    1
+T |    23   22   31   64    0    0    0    1    0   94    3    0
+XX
+//

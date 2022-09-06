@@ -1,0 +1,15 @@
+Motif_ID = M01720_2.00
+TF_Name = Arnt2
+ENSEMBLE_ID = ENSMUSG00000015709
+TF_ID = T035667_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    13    9   93    7   50    0   15   73   39   16
+C |    13   66    7   57    0    7    0   27   23   16
+G |    41    9    0    0   50    0   71    0   19   24
+T |    33   16    0   36    0   93   14    0   19   44
+XX
+//

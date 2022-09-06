@@ -1,0 +1,15 @@
+Motif_ID = M03923_2.00
+TF_Name = PGR
+ENSEMBLE_ID = ENSG00000082175
+TF_ID = T303210_2.00
+TF_Species = Homo_sapiens
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 15
+XX
+A |    37    9   34   93    0   76   15   26   33    7    1    4   35    9   11
+C |    12    2   16    0   97    3   34   25   17   43    0    0   19   81   40
+G |    38   82   18    5    3   10   18   22   34    2   98    1   20    4   10
+T |    13    7   32    2    0   11   33   27   16   48    1   95   26    6   39
+XX
+//

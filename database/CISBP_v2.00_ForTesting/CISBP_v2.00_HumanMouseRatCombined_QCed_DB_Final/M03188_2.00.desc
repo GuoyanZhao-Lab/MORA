@@ -1,0 +1,15 @@
+Motif_ID = M03188_2.00
+TF_Name = HESX1
+ENSEMBLE_ID = ENSG00000163666
+TF_ID = T209875_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 15
+XX
+A |    19    2   96   99    1    2   29   11    1   90   93    2    6   95   36
+C |    34    2    0    0    0    1    0    0   60    4    3    2    3    0    8
+G |    13    1    1    1    1    2   70   81    1    2    2    0    1    2   32
+T |    34   95    3    0   98   95    1    8   38    4    2   96   90    3   24
+XX
+//

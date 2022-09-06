@@ -1,0 +1,15 @@
+Motif_ID = M03447_2.00
+TF_Name = NFAT5
+ENSEMBLE_ID = ENSG00000102908
+TF_ID = T317170_2.00
+TF_Species = Homo_sapiens
+Family_Name = Rel
+Family_ID = F293_2.00
+width = 14
+XX
+A |    13   30    0    0   90   58   21    1    0    0    0    0   93    1
+C |    42    5    0    0    0   20    9    0    0    0  100  100    0   45
+G |    15   20  100   22    7    9    1    0    0    0    0    0    7    3
+T |    30   45    0   78    3   13   69   99  100  100    0    0    0   51
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M09287_2.00
+TF_Name = HNF4G
+ENSEMBLE_ID = ENSG00000164749
+TF_ID = T303238_2.00
+TF_Species = Homo_sapiens
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 14
+XX
+A |    28   46    7   18   15    1   95   85   92    1    2    4    2   70
+C |    25    3    2    7   31   93    2    1    0    0    1   50   83    6
+G |    36   40   85   33   28    1    2   14    7   97   38   13    2   13
+T |    11   11    6   42   26    5    1    0    1    2   59   33   13   11
+XX
+//

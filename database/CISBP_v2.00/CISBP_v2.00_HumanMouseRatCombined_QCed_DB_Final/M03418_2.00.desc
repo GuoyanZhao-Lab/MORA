@@ -1,0 +1,15 @@
+Motif_ID = M03418_2.00
+TF_Name = Rarg
+ENSEMBLE_ID = ENSMUSG00000001288
+TF_ID = T303898_2.00
+TF_Species = Mus_musculus
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 17
+XX
+A |    83   94    0    0    0    0  100   27    6   68   55   80    0    0    0    0  100
+C |     0    0    0    0    0  100    0   51   35   10    1    1    0    0    0  100    0
+G |    16    6  100   97    0    0    0    7   48   12   43   19  100   94    0    0    0
+T |     1    0    0    3  100    0    0   15   11   10    1    0    0    6  100    0    0
+XX
+//

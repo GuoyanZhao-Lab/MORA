@@ -1,0 +1,15 @@
+Motif_ID = M01752_2.00
+TF_Name = Usf2
+ENSEMBLE_ID = ENSMUSG00000058239
+TF_ID = T035747_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    35   25    0  100    0    0    0    0   77   17
+C |    26   37  100    0  100    0    0    0    5   32
+G |    19   18    0    0    0  100    0  100   12   18
+T |    20   20    0    0    0    0  100    0    6   33
+XX
+//

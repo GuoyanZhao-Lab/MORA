@@ -1,0 +1,15 @@
+Motif_ID = M00133_2.00
+TF_Name = Sp4
+ENSEMBLE_ID = ENSMUSG00000025323
+TF_ID = T101053_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 10
+XX
+A |    21   42    3   16    0    0    0   30   10   21
+C |    46   50   91    1   99  100   83   56   54   30
+G |    12    3    2   67    0    0    0    1   12   15
+T |    21    5    4   16    1    0   17   13   24   34
+XX
+//

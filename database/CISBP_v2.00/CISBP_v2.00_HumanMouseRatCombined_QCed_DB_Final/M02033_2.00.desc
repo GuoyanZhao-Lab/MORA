@@ -1,0 +1,15 @@
+Motif_ID = M02033_2.00
+TF_Name = A1JVI6_MOUSE
+ENSEMBLE_ID = A1JVI6_MOUSE
+TF_ID = T203894_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    24    0    0  100    0    0   13   22
+C |    24    0    0    0    0    0    0   25
+G |     3    0  100    0    0    0   87   31
+T |    49  100    0    0  100  100    0   22
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M03144_2.00
+TF_Name = BARX1
+ENSEMBLE_ID = ENSG00000131668
+TF_ID = T209839_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 17
+XX
+A |     7   95  100    8    3   10   18   18   50   22   17    4   97   99    6    9   23
+C |     2    0    0    8   46    9   26   11    5    6    6    1    0    0   10   25    7
+G |     1    4    0   16   23   71   29    7    3    8    5    0    3    1   13   32   57
+T |    90    1    0   68   28   10   27   64   42   64   72   95    0    0   71   34   13
+XX
+//

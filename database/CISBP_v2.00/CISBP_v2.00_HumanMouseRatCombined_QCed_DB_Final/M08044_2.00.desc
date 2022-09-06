@@ -1,0 +1,15 @@
+Motif_ID = M08044_2.00
+TF_Name = Tbx2
+ENSEMBLE_ID = ENSMUSG00000000093
+TF_ID = T340137_2.00
+TF_Species = Mus_musculus
+Family_Name = T-box
+Family_ID = F312_2.00
+width = 21
+XX
+A |     9   15   41    0    9    9    6    3    0    6   88   41   38    0    3    3   82    0    0    3   15
+C |     6   67   35   26   26   67   15    0    0    0    0    6   18    3    0    3    0    0    0   44   26
+G |    85   12    0    9   21    9    3   97  100   91    0   24    0    3   97    0    9  100    6    6    6
+T |     0    6   24   65   44   15   76    0    0    3   12   29   44   94    0   94    9    0   94   47   53
+XX
+//

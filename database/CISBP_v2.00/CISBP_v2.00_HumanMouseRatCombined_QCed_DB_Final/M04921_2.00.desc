@@ -1,0 +1,15 @@
+Motif_ID = M04921_2.00
+TF_Name = GSC2
+ENSEMBLE_ID = ENSG00000063515
+TF_ID = T209772_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    21   10   80  100    4   10   10   17
+C |    44   12    5    0   15   68   62   34
+G |    14    0   11    0   10   13   10   27
+T |    21   78    4    0   71    9   18   22
+XX
+//

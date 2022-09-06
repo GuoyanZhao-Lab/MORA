@@ -1,0 +1,15 @@
+Motif_ID = M04918_2.00
+TF_Name = ALX4
+ENSEMBLE_ID = ENSG00000052850
+TF_ID = T209771_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    17    1   85  100    0    1   49   22
+C |    23   14    5    0    0    9   12   23
+G |    32    3   10    0    0   10   32   45
+T |    28   82    0    0  100   80    7   10
+XX
+//

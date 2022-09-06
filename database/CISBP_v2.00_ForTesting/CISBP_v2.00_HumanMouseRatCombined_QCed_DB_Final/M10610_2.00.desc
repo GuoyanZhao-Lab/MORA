@@ -1,0 +1,15 @@
+Motif_ID = M10610_2.00
+TF_Name = TFCP2
+ENSEMBLE_ID = ENSG00000135457
+TF_ID = T199008_2.00
+TF_Species = Homo_sapiens
+Family_Name = Grainyhead
+Family_ID = F215_2.00
+width = 11
+XX
+A |     0    0    0    0    0    0   33    0   33    0    0
+C |   100    0    0    0   17    0   33    0    0   17   83
+G |     0    0   67  100   50   17    0   67   33   83   17
+T |     0  100   33    0   33   83   34   33   34    0    0
+XX
+//

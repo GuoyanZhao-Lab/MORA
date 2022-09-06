@@ -1,0 +1,15 @@
+Motif_ID = M04478_2.00
+TF_Name = OSR1
+ENSEMBLE_ID = ENSG00000143867
+TF_ID = T094954_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 10
+XX
+A |    20   10    0    0   88    0    0    2    7   22
+C |    23    4   99    7    2   99   29    1   11   11
+G |    18   86    0    0    2    0    0   96   11   36
+T |    39    0    1   93    8    1   71    1   71   31
+XX
+//

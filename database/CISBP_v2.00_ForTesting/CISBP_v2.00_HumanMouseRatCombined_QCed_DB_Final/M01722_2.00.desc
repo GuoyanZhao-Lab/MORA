@@ -1,0 +1,15 @@
+Motif_ID = M01722_2.00
+TF_Name = Hey2
+ENSEMBLE_ID = ENSMUSG00000019789
+TF_ID = T035670_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 9
+XX
+A |    27    2   82    1    6    3    5   19   15
+C |    11   97    1   90    2   16    5   22   58
+G |    53    0   15    3   91    1   85   22   14
+T |     9    1    2    6    1   80    5   37   13
+XX
+//

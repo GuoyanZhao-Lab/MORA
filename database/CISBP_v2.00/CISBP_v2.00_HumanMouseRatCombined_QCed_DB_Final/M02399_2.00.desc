@@ -1,0 +1,15 @@
+Motif_ID = M02399_2.00
+TF_Name = Nr2c1
+ENSEMBLE_ID = ENSMUSG00000005897
+TF_ID = T303904_2.00
+TF_Species = Mus_musculus
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 8
+XX
+A |    38   59    0    0    0    0   99   33
+C |     8    0    0    0    0   99    1   27
+G |    46   41  100  100    1    0    0   11
+T |     8    0    0    0   99    1    0   29
+XX
+//

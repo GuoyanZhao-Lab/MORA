@@ -1,0 +1,15 @@
+Motif_ID = M09381_2.00
+TF_Name = Nfib
+ENSEMBLE_ID = ENSMUSG00000008575
+TF_ID = T324766_2.00
+TF_Species = Mus_musculus
+Family_Name = SMAD
+Family_ID = F304_2.00
+width = 9
+XX
+A |     8   15   32    0    1    0   99   45   22
+C |    26   52    0    1   99  100    1    0   21
+G |    42   27    3   97    0    0    0   55   55
+T |    24    6   65    2    0    0    0    0    2
+XX
+//

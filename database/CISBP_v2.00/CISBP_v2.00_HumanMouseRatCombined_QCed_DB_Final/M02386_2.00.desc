@@ -1,0 +1,15 @@
+Motif_ID = M02386_2.00
+TF_Name = Myrf
+ENSEMBLE_ID = ENSMUSG00000036098
+TF_ID = T299792_2.00
+TF_Species = Mus_musculus
+Family_Name = Ndt80/PhoG
+Family_ID = F275_2.00
+width = 10
+XX
+A |    14   14   10    8   49   15   12   49   13   16
+C |    42   36    4   15   12   56   61   17   33   40
+G |    19   34   84    9   33    9   15   19   30   26
+T |    25   16    2   68    6   20   12   15   24   18
+XX
+//

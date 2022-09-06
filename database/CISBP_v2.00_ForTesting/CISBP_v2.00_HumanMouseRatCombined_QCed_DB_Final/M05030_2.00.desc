@@ -1,0 +1,15 @@
+Motif_ID = M05030_2.00
+TF_Name = VAX2
+ENSEMBLE_ID = ENSG00000116035
+TF_ID = T209811_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    11    0   86  100    0    0   73   22
+C |    44    0   14    0    0    0    0   32
+G |    26    0    0    0    0   20   27   34
+T |    19  100    0    0  100   80    0   12
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M00526_2.00
+TF_Name = Tlx2
+ENSEMBLE_ID = ENSMUSG00000068327
+TF_ID = T212564_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    73    5    0   90   95   40   21   73
+C |     0    0   10    0    0    0    0    0
+G |     0    0    0    0    0    0    0   20
+T |    27   95   90   10    5   60   79    7
+XX
+//

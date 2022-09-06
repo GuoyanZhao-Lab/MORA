@@ -1,0 +1,15 @@
+Motif_ID = M09071_2.00
+TF_Name = Ehf
+ENSEMBLE_ID = ENSMUSG00000012350
+TF_ID = T176535_2.00
+TF_Species = Mus_musculus
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 15
+XX
+A |    25   45   84   14   20   75    0    0  100  100   23    3   27   25   17
+C |    21   15    1   45   51   23    0    0    0    0    1   19   10   25   36
+G |    38   17    1   19   29    2  100  100    0    0   76    4   41   41   35
+T |    16   23   14   22    0    0    0    0    0    0    0   74   22    9   12
+XX
+//

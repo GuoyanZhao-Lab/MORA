@@ -1,0 +1,15 @@
+Motif_ID = M03470_2.00
+TF_Name = RUNX2
+ENSEMBLE_ID = ENSG00000124813
+TF_ID = T319383_2.00
+TF_Species = Homo_sapiens
+Family_Name = Runt
+Family_ID = F296_2.00
+width = 9
+XX
+A |    48   74   95    0    0   28    0   86   64
+C |    14    6    5  100  100    1  100    6   10
+G |     4   14    0    0    0   69    0    6   17
+T |    34    6    0    0    0    2    0    2    9
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M09003_2.00
+TF_Name = Hic1
+ENSEMBLE_ID = ENSMUSG00000043099
+TF_ID = T101179_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 9
+XX
+A |     9    0    0    0  100   63    7   12   18
+C |     9    0    0   98    0   35   93   75   51
+G |    63  100   98    0    0    0    0   10   11
+T |    19    0    2    2    0    2    0    3   20
+XX
+//

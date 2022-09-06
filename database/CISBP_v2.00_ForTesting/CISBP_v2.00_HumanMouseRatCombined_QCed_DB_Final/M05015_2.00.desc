@@ -1,0 +1,15 @@
+Motif_ID = M05015_2.00
+TF_Name = NANOG
+ENSEMBLE_ID = ENSG00000111704
+TF_ID = T209805_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    17    3   50  100    0    3   20   11
+C |    21   23    0    0   21   33   15   35
+G |    29   12   50    0   19   34   61   29
+T |    33   62    0    0   60   30    4   25
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M01918_2.00
+TF_Name = XP_006525770.1
+ENSEMBLE_ID = XP_006525770.1
+TF_ID = T168544_2.00
+TF_Species = Mus_musculus
+Family_Name = CxxC
+Family_ID = F169_2.00
+width = 8
+XX
+A |    12    7   13    2    3    0   62   18
+C |    74    2   84    0   95    3   14    6
+G |    12   79    1   86    0   84    6    6
+T |     2   12    2   12    2   13   18   70
+XX
+//

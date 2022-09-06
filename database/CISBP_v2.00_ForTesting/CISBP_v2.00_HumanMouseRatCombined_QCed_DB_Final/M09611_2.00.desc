@@ -1,0 +1,15 @@
+Motif_ID = M09611_2.00
+TF_Name = NR2C2
+ENSEMBLE_ID = ENSG00000177463
+TF_ID = T303244_2.00
+TF_Species = Homo_sapiens
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 14
+XX
+A |    29   66    7    2    1    2   97   57   90    2    1    0    3   91
+C |    12    1    0    1    6   81    0    1    0    0    1    5   82    1
+G |    53   32   91   87   11   11    2   40   10   97   86   13    8    6
+T |     6    1    2   10   82    6    1    2    0    1   12   82    7    2
+XX
+//

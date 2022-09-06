@@ -1,0 +1,15 @@
+Motif_ID = M09408_2.00
+TF_Name = Sry
+ENSEMBLE_ID = ENSMUSG00000069036
+TF_ID = T328514_2.00
+TF_Species = Mus_musculus
+Family_Name = Sox
+Family_ID = F305_2.00
+width = 9
+XX
+A |    10   37    8   10    0    6   19   26   34
+C |    29    4    0    0    7    0    4    9   24
+G |    14    4    4    3   91    3    4    7    3
+T |    47   55   88   87    2   91   73   58   39
+XX
+//

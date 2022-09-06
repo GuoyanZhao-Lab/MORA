@@ -1,0 +1,15 @@
+Motif_ID = M09075_2.00
+TF_Name = Elk4
+ENSEMBLE_ID = ENSMUSG00000026436
+TF_ID = T176541_2.00
+TF_Species = Mus_musculus
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 13
+XX
+A |    21   34   43   18   25    2    3   94   97   23    9   30   18
+C |    26   17   10   56   65    0    1    4    0    2   41   11   21
+G |    43   44   43   22    5   98   95    2    2   71   11   53   46
+T |    10    5    4    4    5    0    1    0    1    4   39    6   15
+XX
+//

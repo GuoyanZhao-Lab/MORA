@@ -1,0 +1,15 @@
+Motif_ID = M09168_2.00
+TF_Name = HNF1B
+ENSEMBLE_ID = ENSG00000275410
+TF_ID = T209959_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 15
+XX
+A |    32   15    3   15   98   94    6   41   76    5    2   69   80    8   24
+C |     7    3    8    8    0    4    1    0    0    2    4    6    9   73   36
+G |    36   76    8    5    2    1    0   59    6   12    0   14    7    4    6
+T |    25    6   81   72    0    1   93    0   18   81   94   11    4   15   34
+XX
+//

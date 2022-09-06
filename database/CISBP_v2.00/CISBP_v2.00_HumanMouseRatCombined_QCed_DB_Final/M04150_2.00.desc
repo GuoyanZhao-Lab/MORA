@@ -1,0 +1,15 @@
+Motif_ID = M04150_2.00
+TF_Name = HAND2
+ENSEMBLE_ID = ENSG00000164107
+TF_ID = T034305_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    69   82    0  100    0    0    1    0    0   42
+C |    23   11  100    0   98   97    0    1   57    5
+G |     5    6    0    0    0    3    0   99   21   30
+T |     3    1    0    0    2    0   99    0   22   23
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M03499_2.00
+TF_Name = SOX21
+ENSEMBLE_ID = ENSG00000125285
+TF_ID = T328064_2.00
+TF_Species = Homo_sapiens
+Family_Name = Sox
+Family_ID = F305_2.00
+width = 13
+XX
+A |    13    0   99   98    0   11   15    2   99    0    0    0   73
+C |     2   98    0    1    0    0   12   26    0    0    0    0    1
+G |     6    1    1    1    0   79   31    1    1   32    0  100    4
+T |    79    1    0    0  100   10   42   71    0   68  100    0   22
+XX
+//

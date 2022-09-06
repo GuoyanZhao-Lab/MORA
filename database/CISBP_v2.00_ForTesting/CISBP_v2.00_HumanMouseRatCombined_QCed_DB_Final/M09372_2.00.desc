@@ -1,0 +1,15 @@
+Motif_ID = M09372_2.00
+TF_Name = Runx1
+ENSEMBLE_ID = ENSMUSG00000022952
+TF_ID = T319428_2.00
+TF_Species = Mus_musculus
+Family_Name = Runt
+Family_ID = F296_2.00
+width = 12
+XX
+A |    23   52   70   85    0    0   85    0   97   38   41   26
+C |    35   11    2    7   99  100    1   98    1    4   19   36
+G |    30    4   24    7    0    0    9    1    0   51   28   27
+T |    12   33    4    1    1    0    5    1    2    7   12   11
+XX
+//

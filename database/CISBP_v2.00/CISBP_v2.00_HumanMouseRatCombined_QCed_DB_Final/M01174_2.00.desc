@@ -1,0 +1,15 @@
+Motif_ID = M01174_2.00
+TF_Name = Osr1
+ENSEMBLE_ID = ENSMUSG00000048387
+TF_ID = T101234_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 8
+XX
+A |     0    0    0  100    0    0    0    0
+C |     0  100    0    0  100   50    0    0
+G |   100    0    0    0    0    0  100    0
+T |     0    0  100    0    0   50    0  100
+XX
+//

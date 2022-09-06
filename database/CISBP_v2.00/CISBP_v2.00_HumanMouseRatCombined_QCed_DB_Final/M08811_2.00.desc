@@ -1,0 +1,15 @@
+Motif_ID = M08811_2.00
+TF_Name = MAFB
+ENSEMBLE_ID = ENSG00000204103
+TF_ID = T059767_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 11
+XX
+A |    22   22   25   56   13   10    9   91    2    3   82
+C |    43   19   16   10   31    6   85    0    1   90    6
+G |    11   14   42   14   45    2    2    1   90    6    2
+T |    24   45   17   20   11   82    4    8    7    1   10
+XX
+//

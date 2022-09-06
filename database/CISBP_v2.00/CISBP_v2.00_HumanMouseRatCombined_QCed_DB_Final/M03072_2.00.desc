@@ -1,0 +1,15 @@
+Motif_ID = M03072_2.00
+TF_Name = GRHL1
+ENSEMBLE_ID = ENSG00000134317
+TF_ID = T199007_2.00
+TF_Species = Homo_sapiens
+Family_Name = Grainyhead
+Family_ID = F215_2.00
+width = 10
+XX
+A |    46   79   89    0    7    4    0    4    5   16
+C |     7    1    0  100   81    1    0    1    8   16
+G |    32   16    2    0    3   88  100    1    2   12
+T |    15    4    9    0    9    7    0   94   85   56
+XX
+//

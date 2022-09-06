@@ -1,0 +1,15 @@
+Motif_ID = M08709_2.00
+TF_Name = TFE3
+ENSEMBLE_ID = ENSG00000068323
+TF_ID = T034247_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |     3    1   92    2    4    1    0   91    1   16
+C |    12   97    3   81    1    2    3    4   85   48
+G |     5    0    3    2   93    1   95    3    1    4
+T |    80    2    2   15    2   96    2    2   13   32
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M05186_2.00
+TF_Name = NKX6-2
+ENSEMBLE_ID = ENSG00000148826
+TF_ID = T209860_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    28    0   84  100    0    3   78    5
+C |     3    8    2    0    0   13    6   42
+G |    13    1   14    0    0   45   12   32
+T |    56   91    0    0  100   39    4   21
+XX
+//

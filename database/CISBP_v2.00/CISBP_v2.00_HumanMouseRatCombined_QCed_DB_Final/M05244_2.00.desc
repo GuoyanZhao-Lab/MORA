@@ -1,0 +1,15 @@
+Motif_ID = M05244_2.00
+TF_Name = PHOX2A
+ENSEMBLE_ID = ENSG00000165462
+TF_ID = T209884_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    15    1   85  100    0    0   47   18
+C |    24   13    2    0    0   13   13   26
+G |    38    5   13    0    0    7   32   49
+T |    23   81    0    0  100   80    8    7
+XX
+//

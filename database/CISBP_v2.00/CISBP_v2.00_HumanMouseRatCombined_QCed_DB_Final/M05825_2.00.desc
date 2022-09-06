@@ -1,0 +1,15 @@
+Motif_ID = M05825_2.00
+TF_Name = TEAD1
+ENSEMBLE_ID = ENSG00000187079
+TF_ID = T346530_2.00
+TF_Species = Homo_sapiens
+Family_Name = TEA
+Family_ID = F317_2.00
+width = 9
+XX
+A |    24    8    0   46  100    0    0    3   24
+C |    29    0    6   14    0    7    0   53   18
+G |     5   92   93    0    0    0   99    3   45
+T |    42    0    1   40    0   93    1   41   13
+XX
+//

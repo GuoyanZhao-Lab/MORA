@@ -1,0 +1,15 @@
+Motif_ID = M11358_2.00
+TF_Name = STAT5A
+ENSEMBLE_ID = ENSG00000126561
+TF_ID = T337445_2.00
+TF_Species = Homo_sapiens
+Family_Name = STAT
+Family_ID = F308_2.00
+width = 8
+XX
+A |    21   40   18    0    0    5    2   29
+C |    32   15   29    0    0   95   35   21
+G |    31   11   18    0    0    0    6   21
+T |    16   34   35  100  100    0   57   29
+XX
+//

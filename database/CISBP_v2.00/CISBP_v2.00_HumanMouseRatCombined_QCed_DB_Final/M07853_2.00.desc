@@ -1,0 +1,15 @@
+Motif_ID = M07853_2.00
+TF_Name = REST
+ENSEMBLE_ID = ENSG00000084093
+TF_ID = T094810_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 15
+XX
+A |     0    2    2    3    0    0   44   14    3    0    0    5    0    0    4
+C |    99    0    9    1   98   98    7   18    0    0    0   13   98    3    1
+G |     0    0   89    6    0    0   38   10   97  100    0   75    1    0   94
+T |     1   98    0   90    2    2   11   58    0    0  100    7    1   97    1
+XX
+//

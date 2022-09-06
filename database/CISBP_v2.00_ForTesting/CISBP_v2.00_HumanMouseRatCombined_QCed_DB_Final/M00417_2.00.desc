@@ -1,0 +1,15 @@
+Motif_ID = M00417_2.00
+TF_Name = Otp
+ENSEMBLE_ID = ENSMUSG00000021685
+TF_ID = T212422_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    28   13   17   69   93   10   15   48
+C |    22   38   18   11    4   11   16   10
+G |    31   13    5    9    3    8   18   26
+T |    19   36   60   11    0   71   51   16
+XX
+//

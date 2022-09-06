@@ -1,0 +1,15 @@
+Motif_ID = M05730_2.00
+TF_Name = RFX7
+ENSEMBLE_ID = ENSG00000181827
+TF_ID = T318251_2.00
+TF_Species = Homo_sapiens
+Family_Name = RFX
+Family_ID = F294_2.00
+width = 9
+XX
+A |     5    0    3    1   21    1    1   55    8
+C |    48    0    1   17    0   84   31    2   27
+G |    28  100    1    0   79    3    6   39   26
+T |    19    0   95   82    0   12   62    4   39
+XX
+//

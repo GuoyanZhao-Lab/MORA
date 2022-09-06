@@ -1,0 +1,15 @@
+Motif_ID = M02731_2.00
+TF_Name = PRDM1
+ENSEMBLE_ID = ENSG00000057657
+TF_ID = T094789_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 12
+XX
+A |    14   94    1    0    0    0    0   88    0    0    1    3
+C |    64    2   99    0    2    0   99    5   99    0    1    1
+G |     6    3    0    0    0    0    0    6    0    0    0    2
+T |    16    1    0  100   98  100    1    1    1  100   98   94
+XX
+//

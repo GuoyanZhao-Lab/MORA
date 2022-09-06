@@ -1,0 +1,15 @@
+Motif_ID = M01912_2.00
+TF_Name = KMT2A
+ENSEMBLE_ID = ENSG00000118058
+TF_ID = T167982_2.00
+TF_Species = Homo_sapiens
+Family_Name = CxxC
+Family_ID = F169_2.00
+width = 10
+XX
+A |    22   22   31    0    2   17   12   17   16   23
+C |    21   26   23   93    6   39   44   33   31   32
+G |    22   11   19    1   91   28   17   27   24   19
+T |    35   41   27    6    1   16   27   23   29   26
+XX
+//

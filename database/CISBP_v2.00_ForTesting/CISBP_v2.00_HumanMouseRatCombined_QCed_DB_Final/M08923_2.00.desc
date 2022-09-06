@@ -1,0 +1,15 @@
+Motif_ID = M08923_2.00
+TF_Name = INSM1
+ENSEMBLE_ID = ENSG00000173404
+TF_ID = T095129_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 12
+XX
+A |     0    0    3    0    0    0    0    3    3   72   26   71
+C |    38    0   91  100  100  100  100    0    0   12   74   23
+G |     0   94    6    0    0    0    0    0   62   16    0    0
+T |    62    6    0    0    0    0    0   97   35    0    0    6
+XX
+//

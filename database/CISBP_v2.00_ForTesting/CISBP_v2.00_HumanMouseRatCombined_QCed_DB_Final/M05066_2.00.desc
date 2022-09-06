@@ -1,0 +1,15 @@
+Motif_ID = M05066_2.00
+TF_Name = LHX4
+ENSEMBLE_ID = ENSG00000121454
+TF_ID = T209821_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    11    2   76  100    0    0   75   30
+C |    30   22    6    0    0   18    0   27
+G |    27    2   18    0    0    7   23   29
+T |    32   74    0    0  100   75    2   14
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M05000_2.00
+TF_Name = HOXB6
+ENSEMBLE_ID = ENSG00000108511
+TF_ID = T209800_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    31   15   85   99    1   13   72    1
+C |    22    6    0    0   69    8    5   63
+G |    10    2    2    1    0   75   16   10
+T |    37   77   13    0   30    4    7   26
+XX
+//

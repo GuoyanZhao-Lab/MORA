@@ -1,0 +1,15 @@
+Motif_ID = M05636_2.00
+TF_Name = THRB
+ENSEMBLE_ID = ENSG00000151090
+TF_ID = T303234_2.00
+TF_Species = Homo_sapiens
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 19
+XX
+A |     0   39  100    1    0   28    2   83    2   17    1   35   99    2    2   27    0   95   18
+C |    30    5    0    0    1    0   98    0   63    7   26    9    1    5    3    0   88    0   41
+G |     0   56    0   98   99    0    0   17    3   71    0   56    0   92   94    0    5    5    4
+T |    70    0    0    1    0   72    0    0   32    5   73    0    0    1    1   73    7    0   37
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M11183_2.00
+TF_Name = PPARA
+ENSEMBLE_ID = ENSG00000186951
+TF_ID = T303247_2.00
+TF_Species = Homo_sapiens
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 20
+XX
+A |    14   57   57   72   57   14    0   86    0    0   14   14  100   71  100    0    0    0    0   86
+C |    72   14    0   14    0   72   29    0    0    0   29   86    0    0    0    0    0    0   86    0
+G |    14    0   43   14   14   14    0   14  100  100   14    0    0    0    0  100   71    0   14    0
+T |     0   29    0    0   29    0   71    0    0    0   43    0    0   29    0    0   29  100    0   14
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M04057_2.00
+TF_Name = ZBED1
+ENSEMBLE_ID = ENSG00000214717
+TF_ID = T025994_2.00
+TF_Species = Homo_sapiens
+Family_Name = BED ZF
+Family_ID = F077_2.00
+width = 12
+XX
+A |    51   10   51    5    1    7    3    2   96    0   91    7
+C |    32   11    1    2   97    1   93    5    1   47    4   11
+G |    10    0   45    1    1   91    0   93    0    2    5   30
+T |     7   79    3   92    1    1    4    0    3   51    0   52
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M00428_2.00
+TF_Name = Pitx3
+ENSEMBLE_ID = ENSMUSG00000025229
+TF_ID = T212438_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    21   17   77   96    4   10    7   20
+C |    28    4    2    1    4   74   65   36
+G |    19    4   12    2   24    6    8   22
+T |    32   75    9    1   68   10   20   22
+XX
+//

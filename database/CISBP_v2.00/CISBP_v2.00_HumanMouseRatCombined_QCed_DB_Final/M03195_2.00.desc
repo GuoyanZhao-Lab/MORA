@@ -1,0 +1,15 @@
+Motif_ID = M03195_2.00
+TF_Name = PKNOX2
+ENSEMBLE_ID = ENSG00000165495
+TF_ID = T209885_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 12
+XX
+A |     3    0   98    0  100    1    4    0    0    1    1   97
+C |     0    0    0   99    0    0   29    0    0    2   98    0
+G |     1  100    1    0    0   91   67    0  100    1    1    2
+T |    96    0    1    1    0    8    0  100    0   96    0    1
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M09593_2.00
+TF_Name = Hsf1
+ENSEMBLE_ID = ENSMUSG00000022556
+TF_ID = T240319_2.00
+TF_Species = Mus_musculus
+Family_Name = HSF
+Family_ID = F238_2.00
+width = 15
+XX
+A |    17   60    2   92   87   22   22    4    2    0    1   69    3   87   78
+C |    22    1    1    4    3   30   24    5    1  100   30    1    2    4    6
+G |    13   35   96    2    5   24   35    2    3    0    1   27   92    6    9
+T |    48    4    1    2    5   24   19   89   94    0   68    3    3    3    7
+XX
+//

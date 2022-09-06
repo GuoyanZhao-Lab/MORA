@@ -1,0 +1,15 @@
+Motif_ID = M09347_2.00
+TF_Name = RELB
+ENSEMBLE_ID = ENSG00000104856
+TF_ID = T317171_2.00
+TF_Species = Homo_sapiens
+Family_Name = Rel
+Family_ID = F293_2.00
+width = 12
+XX
+A |    27   14    7   18   36   45    4    4    3   14   22   33
+C |    15    7    4    0    0   44    0    0   13   64   71   38
+G |    47   75   89   82   64    0   11   14    0   18    7   11
+T |    11    4    0    0    0   11   85   82   84    4    0   18
+XX
+//

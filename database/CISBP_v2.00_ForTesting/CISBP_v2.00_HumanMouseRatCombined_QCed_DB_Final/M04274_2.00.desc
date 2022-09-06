@@ -1,0 +1,15 @@
+Motif_ID = M04274_2.00
+TF_Name = ATF4
+ENSEMBLE_ID = ENSG00000128272
+TF_ID = T059739_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 14
+XX
+A |    23   15   68    0    0  100    0    0    0    0  100    0   16   12
+C |     9   10   16    0    0    0  100    0    0  100    0   16   59   57
+G |    57   58   16    0  100    0    0  100    0    0    0   16   10    9
+T |    11   17    0  100    0    0    0    0  100    0    0   68   15   22
+XX
+//

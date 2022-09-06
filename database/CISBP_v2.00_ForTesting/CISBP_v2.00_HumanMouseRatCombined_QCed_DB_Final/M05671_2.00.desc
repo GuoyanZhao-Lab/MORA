@@ -1,0 +1,15 @@
+Motif_ID = M05671_2.00
+TF_Name = RXRA
+ENSEMBLE_ID = ENSG00000186350
+TF_ID = T303246_2.00
+TF_Species = Homo_sapiens
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 15
+XX
+A |    24   41    0    0    0    0  100   97   97    0    0    0    0   91   25
+C |     6    0    0    0    0   90    0    0    0    0    0    0   93    0   35
+G |    67   59  100   94    1    3    0    2    3  100   95    2    2    9   14
+T |     3    0    0    6   99    7    0    1    0    0    5   98    5    0   26
+XX
+//

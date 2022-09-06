@@ -1,0 +1,15 @@
+Motif_ID = M01172_2.00
+TF_Name = VEZF1
+ENSEMBLE_ID = ENSG00000136451
+TF_ID = T094931_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 10
+XX
+A |     7    0    0    0    1    1   41    5   24   33
+C |    79  100  100  100   99   98   36   55   17   18
+G |    14    0    0    0    0    0   11    7   21   15
+T |     0    0    0    0    0    1   12   33   38   34
+XX
+//

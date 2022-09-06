@@ -1,0 +1,15 @@
+Motif_ID = M00465_2.00
+TF_Name = Lbx2
+ENSEMBLE_ID = ENSMUSG00000034968
+TF_ID = T212480_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    24   18   71   79   10   20   47   21
+C |    27   22    1    7   29   17   10   20
+G |    19    8   16    0   15   27   32   43
+T |    30   52   12   14   46   36   11   16
+XX
+//

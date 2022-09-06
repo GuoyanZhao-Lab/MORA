@@ -1,0 +1,15 @@
+Motif_ID = M09406_2.00
+TF_Name = Tcf7l1
+ENSEMBLE_ID = ENSMUSG00000055799
+TF_ID = T328510_2.00
+TF_Species = Mus_musculus
+Family_Name = Sox
+Family_ID = F305_2.00
+width = 11
+XX
+A |    11   12    1    1    0    2    4   90   41   10   15
+C |    30   42   82    3    7    0   14    1    0   38   11
+G |    30   21    5    0    1    1   78    2    1   47    6
+T |    29   25   12   96   92   97    4    7   58    5   68
+XX
+//

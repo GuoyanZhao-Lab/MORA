@@ -1,0 +1,15 @@
+Motif_ID = M05581_2.00
+TF_Name = PPARD
+ENSEMBLE_ID = ENSG00000112033
+TF_ID = T303214_2.00
+TF_Species = Homo_sapiens
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 16
+XX
+A |    36   31   48    1    1    0    0   99   91   92    0    0    0    1   88   29
+C |    22    9    1    0    0    0   80    0    0    0    0    0    0   83    0   29
+G |    18   53   51   98   84    3    7    1    6    8   99   87    3    5   12   15
+T |    24    7    0    1   15   97   13    0    3    0    1   13   97   11    0   27
+XX
+//

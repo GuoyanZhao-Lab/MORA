@@ -1,0 +1,15 @@
+Motif_ID = M03461_2.00
+TF_Name = Rfx2
+ENSEMBLE_ID = ENSMUSG00000024206
+TF_ID = T318364_2.00
+TF_Species = Mus_musculus
+Family_Name = RFX
+Family_ID = F294_2.00
+width = 16
+XX
+A |    11    4    1   18   32    0    0   95    3   22   11   12   72   97    0   19
+C |    36    0    1   11    3   83   76    1    2    0    1   53    1    0   95   27
+G |    37   96    1    1   54    2    0    1    1   78   88    3    9    2    0   44
+T |    16    0   97   70   11   15   24    3   94    0    0   32   18    1    5   10
+XX
+//

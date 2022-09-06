@@ -1,0 +1,15 @@
+Motif_ID = M01488_2.00
+TF_Name = Spdef
+ENSEMBLE_ID = ENSMUSG00000024215
+TF_ID = T176540_2.00
+TF_Species = Mus_musculus
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 10
+XX
+A |    32   43   31   20   28    1    1   87   30   29
+C |    20   13   29   54   65    0    1    1   17   25
+G |    26   16   24   19    5   99   95    6    6   30
+T |    22   28   16    7    2    0    3    6   47   16
+XX
+//

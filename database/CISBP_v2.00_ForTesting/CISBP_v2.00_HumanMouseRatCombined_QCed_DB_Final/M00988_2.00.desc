@@ -1,0 +1,15 @@
+Motif_ID = M00988_2.00
+TF_Name = BCL11B
+ENSEMBLE_ID = ENSG00000127152
+TF_ID = T094903_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 9
+XX
+A |    34   24    4    0   61    2    0   43   20
+C |    18   30    7    0    2   96  100   18   28
+G |    31   20    8  100    9    1    0   29   27
+T |    17   26   81    0   28    1    0   10   25
+XX
+//

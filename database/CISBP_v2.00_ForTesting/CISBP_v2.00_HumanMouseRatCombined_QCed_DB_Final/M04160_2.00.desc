@@ -1,0 +1,15 @@
+Motif_ID = M04160_2.00
+TF_Name = NEUROD2
+ENSEMBLE_ID = ENSG00000171532
+TF_ID = T034313_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    49   53    0   94    1   92    2    0    0    8
+C |     9   16   99    1    7    2    5    0    5   41
+G |    36   29    1    5    5    6    3  100   56    8
+T |     6    2    0    0   87    0   90    0   39   43
+XX
+//

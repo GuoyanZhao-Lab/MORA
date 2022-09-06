@@ -1,0 +1,15 @@
+Motif_ID = M02863_2.00
+TF_Name = Creb3l2
+ENSEMBLE_ID = ENSMUSG00000038648
+TF_ID = T060483_2.00
+TF_Species = Mus_musculus
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 13
+XX
+A |     2    1   68    0    0  100    0    0    0    0    0    1   87
+C |     9    1   11    1    0    0  100    0    0    0    0   99    2
+G |     2   97   21    0   99    0    0  100    0  100   97    0   10
+T |    87    1    0   99    1    0    0    0  100    0    3    0    1
+XX
+//

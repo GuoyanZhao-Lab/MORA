@@ -1,0 +1,15 @@
+Motif_ID = M08188_2.00
+TF_Name = ATF3
+ENSEMBLE_ID = ENSG00000162772
+TF_ID = T059750_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 10
+XX
+A |    20   61    0    0  100    2    0    0  100    0
+C |    19    0    0    0    0   51    0  100    0   43
+G |    41   39    0  100    0   47    0    0    0    0
+T |    20    0  100    0    0    0  100    0    0   57
+XX
+//

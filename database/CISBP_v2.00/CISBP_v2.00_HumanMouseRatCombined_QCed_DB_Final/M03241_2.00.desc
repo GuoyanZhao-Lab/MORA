@@ -1,0 +1,15 @@
+Motif_ID = M03241_2.00
+TF_Name = NOTO
+ENSEMBLE_ID = ENSG00000214513
+TF_ID = T209946_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    19   13    8   96  100    0    1   65   33   17
+C |    26   36    8    2    0    0    0    2    3   30
+G |    36   18    0    0    0    0   29   12   61   27
+T |    19   33   84    2    0  100   70   21    3   26
+XX
+//

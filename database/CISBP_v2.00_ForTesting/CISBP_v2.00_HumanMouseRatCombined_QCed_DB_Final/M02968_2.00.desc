@@ -1,0 +1,15 @@
+Motif_ID = M02968_2.00
+TF_Name = ERF
+ENSEMBLE_ID = ENSG00000105722
+TF_ID = T176116_2.00
+TF_Species = Homo_sapiens
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 10
+XX
+A |    84    3   11    0    0   96   87   27    0   30
+C |     2   81   87    0    1    1    0    6   16   14
+G |    13    3    2  100   99    2    0   67    4   45
+T |     1   13    0    0    0    1   13    0   80   11
+XX
+//

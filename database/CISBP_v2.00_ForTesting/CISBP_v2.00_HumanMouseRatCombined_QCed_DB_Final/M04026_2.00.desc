@@ -1,0 +1,15 @@
+Motif_ID = M04026_2.00
+TF_Name = BATF3
+ENSEMBLE_ID = ENSG00000123685
+TF_ID = T059737_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 11
+XX
+A |    10   60    0    0   99    0    1    1    4    2    7
+C |    11   11    1    0    0   95    0    1    2    0   66
+G |    70   26    0   96    1    2   99    4   92   78   16
+T |     9    3   99    4    0    3    0   94    2   20   11
+XX
+//

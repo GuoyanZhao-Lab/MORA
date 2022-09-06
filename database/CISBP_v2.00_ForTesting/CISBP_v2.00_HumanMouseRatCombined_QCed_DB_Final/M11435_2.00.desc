@@ -1,0 +1,15 @@
+Motif_ID = M11435_2.00
+TF_Name = BPTF
+ENSEMBLE_ID = ENSG00000171634
+TF_ID = T350295_2.00
+TF_Species = Homo_sapiens
+Family_Name = Unknown
+Family_ID = F319_2.00
+width = 14
+XX
+A |    42   33   29   25   79   33   92   92   17   75   25   42   25   54
+C |    17   33   37   63    4   50    4    4   67   17   54   12   25    8
+G |    33   17   21    8    8    0    4    0   12    4    4   38   17   17
+T |     8   17   13    4    9   17    0    4    4    4   17    8   33   21
+XX
+//

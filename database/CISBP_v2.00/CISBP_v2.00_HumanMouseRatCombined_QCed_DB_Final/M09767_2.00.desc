@@ -1,0 +1,15 @@
+Motif_ID = M09767_2.00
+TF_Name = ARID5B
+ENSEMBLE_ID = ENSG00000150347
+TF_ID = T014544_2.00
+TF_Species = Homo_sapiens
+Family_Name = ARID/BRIGHT
+Family_ID = F028_2.00
+width = 14
+XX
+A |     0    0   20   20    0   87    0    0   13   13   20   17   40    0
+C |    13   26    6    7    0    6    0    0   13    7   13   33    0   20
+G |    27   27   47   73    7    7    0    0   67   13   60   50    0   20
+T |    60   47   27    0   93    0  100  100    7   67    7    0   60   60
+XX
+//

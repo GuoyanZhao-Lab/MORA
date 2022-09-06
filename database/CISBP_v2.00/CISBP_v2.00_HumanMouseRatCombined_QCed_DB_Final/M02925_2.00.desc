@@ -1,0 +1,15 @@
+Motif_ID = M02925_2.00
+TF_Name = SCRT2
+ENSEMBLE_ID = ENSG00000215397
+TF_ID = T095442_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 13
+XX
+A |    44   33    0    0   99  100    1  100    9    0    0    7   12
+C |     8   19    2  100    1    0   99    0    0    1    0    4   23
+G |    40    3   78    0    0    0    0    0   91   99    0   73   44
+T |     8   45   20    0    0    0    0    0    0    0  100   16   21
+XX
+//

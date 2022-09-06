@@ -1,0 +1,15 @@
+Motif_ID = M08814_2.00
+TF_Name = Fosb
+ENSEMBLE_ID = ENSMUSG00000003545
+TF_ID = T060453_2.00
+TF_Species = Mus_musculus
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 9
+XX
+A |    39    2    2   87   20    9    8   94    6
+C |    24    0    1    5   80    1   88    3   28
+G |    32    1   91    6    0    2    2    1   26
+T |     5   97    6    2    0   88    2    2   40
+XX
+//

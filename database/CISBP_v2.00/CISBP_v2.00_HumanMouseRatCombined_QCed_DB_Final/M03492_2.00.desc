@@ -1,0 +1,15 @@
+Motif_ID = M03492_2.00
+TF_Name = SOX10
+ENSEMBLE_ID = ENSG00000100146
+TF_ID = T328059_2.00
+TF_Species = Homo_sapiens
+Family_Name = Sox
+Family_ID = F305_2.00
+width = 16
+XX
+A |   100  100    0  100   99    0   33    0    0    0  100    0    0    0    0    0
+C |     0    0  100    0    1    0    0    0    5  100    0    0    0    0    0    0
+G |     0    0    0    0    0    0   67    0   44    0    0  100    0  100    0    1
+T |     0    0    0    0    0  100    0  100   51    0    0    0  100    0  100   99
+XX
+//

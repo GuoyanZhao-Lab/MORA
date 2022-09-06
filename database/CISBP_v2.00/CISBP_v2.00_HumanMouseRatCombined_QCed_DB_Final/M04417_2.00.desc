@@ -1,0 +1,15 @@
+Motif_ID = M04417_2.00
+TF_Name = GLI3
+ENSEMBLE_ID = ENSG00000106571
+TF_ID = T094846_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 15
+XX
+A |     5   41   41    8    9    0    2    0    0    0    0    0    0    0    5
+C |    82   12   19   48    8    3    0    0    0    0    0    0    4  100   42
+G |    12    3   10   16   68    0   98   77  100    1  100  100    4    0    6
+T |     1   44   30   28   15   97    0   23    0   99    0    0   92    0   47
+XX
+//

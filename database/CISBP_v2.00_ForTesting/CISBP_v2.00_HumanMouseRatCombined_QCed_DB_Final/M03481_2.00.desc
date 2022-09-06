@@ -1,0 +1,15 @@
+Motif_ID = M03481_2.00
+TF_Name = NFIA
+ENSEMBLE_ID = ENSG00000162599
+TF_ID = T324628_2.00
+TF_Species = Homo_sapiens
+Family_Name = SMAD
+Family_ID = F304_2.00
+width = 10
+XX
+A |    25   22    0    0    0    0  100  100   26   31
+C |    24   15    0    0  100  100    0    0   23   16
+G |    27   38    0  100    0    0    0    0   32   18
+T |    24   25  100    0    0    0    0    0   19   35
+XX
+//

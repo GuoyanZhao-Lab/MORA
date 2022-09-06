@@ -1,0 +1,15 @@
+Motif_ID = M01751_2.00
+TF_Name = Arntl
+ENSEMBLE_ID = ENSMUSG00000055116
+TF_ID = T035746_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    27    5   84    0    2    2    0   75    7   26
+C |    15   94    5   95    1    1    0   14   56   26
+G |    33    0    6    0   97    2  100    5   12   23
+T |    25    1    5    5    0   95    0    6   25   25
+XX
+//

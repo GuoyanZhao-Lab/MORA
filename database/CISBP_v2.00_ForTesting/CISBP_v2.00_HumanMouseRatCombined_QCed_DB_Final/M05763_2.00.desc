@@ -1,0 +1,15 @@
+Motif_ID = M05763_2.00
+TF_Name = BBX
+ENSEMBLE_ID = ENSG00000114439
+TF_ID = T328062_2.00
+TF_Species = Homo_sapiens
+Family_Name = Sox
+Family_ID = F305_2.00
+width = 13
+XX
+A |     6    2   96   71    1   37   17   13    4   27    2    0   89
+C |     0    0    2    0   87    9   34   41    8    2    0   99    4
+G |     3   98    0    2    7   40   35    9   87    0    4    0    0
+T |    91    0    2   27    5   14   14   37    1   71   94    1    7
+XX
+//

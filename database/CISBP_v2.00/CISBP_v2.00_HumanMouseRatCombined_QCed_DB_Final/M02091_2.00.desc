@@ -1,0 +1,15 @@
+Motif_ID = M02091_2.00
+TF_Name = VENTX
+ENSEMBLE_ID = ENSG00000151650
+TF_ID = T209862_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |     5    0  100  100    0    0   76    6
+C |     3    6    0    0    0    4    0   20
+G |    14    0    0    0    0   13   24   54
+T |    78   94    0    0  100   83    0   20
+XX
+//

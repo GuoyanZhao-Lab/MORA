@@ -1,0 +1,15 @@
+Motif_ID = M01492_2.00
+TF_Name = Elf4
+ENSEMBLE_ID = ENSMUSG00000031103
+TF_ID = T176544_2.00
+TF_Species = Mus_musculus
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 10
+XX
+A |    35   30   20   29   14   11   90   79   28   21
+C |    19   28   43   52    1    6    0    1   17   25
+G |    22   19   25   12   79   77    1    1   44   12
+T |    24   23   12    7    6    6    9   19   11   42
+XX
+//

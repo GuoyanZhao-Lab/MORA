@@ -1,0 +1,15 @@
+Motif_ID = M09538_2.00
+TF_Name = Spi1
+ENSEMBLE_ID = ENSMUSG00000002111
+TF_ID = T176525_2.00
+TF_Species = Mus_musculus
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 10
+XX
+A |    64   12   83    0    0  100   99    3    0    8
+C |     0   17    1    0    0    0    0    7    1   10
+G |    15   71   16  100  100    0    0   90    0   77
+T |    21    0    0    0    0    0    1    0   99    5
+XX
+//

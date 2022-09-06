@@ -1,0 +1,15 @@
+Motif_ID = M04945_2.00
+TF_Name = VSX1
+ENSEMBLE_ID = ENSG00000100987
+TF_ID = T209778_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    21    5   92  100    0    3   68   14
+C |    27    6    3    0    0    0    0   13
+G |    27    0    4    0    2    4   29   68
+T |    25   89    1    0   98   93    3    5
+XX
+//

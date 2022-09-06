@@ -1,0 +1,15 @@
+Motif_ID = M00995_2.00
+TF_Name = Jun
+ENSEMBLE_ID = ENSMUSG00000052684
+TF_ID = T060493_2.00
+TF_Species = Mus_musculus
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 9
+XX
+A |    41    0    0  100    0    0    6   70   45
+C |    16    0    5    0  100    5   58   30   16
+G |    26    0   89    0    0   53    0    0    8
+T |    17  100    6    0    0   42   36    0   31
+XX
+//

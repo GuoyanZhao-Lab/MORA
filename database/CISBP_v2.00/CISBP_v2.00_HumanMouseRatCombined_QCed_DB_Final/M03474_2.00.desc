@@ -1,0 +1,15 @@
+Motif_ID = M03474_2.00
+TF_Name = GMEB2
+ENSEMBLE_ID = ENSG00000101216
+TF_ID = T321711_2.00
+TF_Species = Homo_sapiens
+Family_Name = SAND
+Family_ID = F299_2.00
+width = 8
+XX
+A |     8    7   98    2    0    0   73   68
+C |    16    3    0   98    2    8   20   24
+G |    24   24    2    0   98    0    4    7
+T |    52   66    0    0    0   92    3    1
+XX
+//

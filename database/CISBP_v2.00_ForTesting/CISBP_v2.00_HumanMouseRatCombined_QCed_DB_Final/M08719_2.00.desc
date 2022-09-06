@@ -1,0 +1,15 @@
+Motif_ID = M08719_2.00
+TF_Name = EPAS1
+ENSEMBLE_ID = ENSG00000116016
+TF_ID = T034267_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 9
+XX
+A |    23   17   86    2    2    0    0   37   16
+C |    25    7    2   91    1    0    0   47   49
+G |    45   24   11    3   97    0  100    6   13
+T |     7   52    1    4    0  100    0   10   22
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M09450_2.00
+TF_Name = Nrf1
+ENSEMBLE_ID = ENSMUSG00000058440
+TF_ID = T350323_2.00
+TF_Species = Mus_musculus
+Family_Name = Unknown
+Family_ID = F319_2.00
+width = 17
+XX
+A |     7   12    7   10    8    5    0   72    6    1    0    0    0   76    7   23   18
+C |    48   42   34    0   89    0   99   17    5    1   99    3   95    7   35   18   10
+G |    35   19   24   90    2   95    1    8   18   98    1   93    1   12   50   13   65
+T |    10   27   35    0    1    0    0    3   71    0    0    4    4    5    8   46    7
+XX
+//

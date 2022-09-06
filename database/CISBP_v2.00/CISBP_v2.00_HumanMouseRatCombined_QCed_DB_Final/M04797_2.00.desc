@@ -1,0 +1,15 @@
+Motif_ID = M04797_2.00
+TF_Name = ETV4
+ENSEMBLE_ID = ENSG00000175832
+TF_ID = T176135_2.00
+TF_Species = Homo_sapiens
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 12
+XX
+A |    23    9    7    2    0  100   99   94    0    4    5   57
+C |    26   15   92    0    0    0    0    0    0   21   87   15
+G |    40   10    0   98    0    0    1    4    2   75    2   12
+T |    11   66    1    0  100    0    0    2   98    0    6   16
+XX
+//

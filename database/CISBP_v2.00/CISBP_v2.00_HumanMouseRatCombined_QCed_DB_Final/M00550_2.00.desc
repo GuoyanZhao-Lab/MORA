@@ -1,0 +1,15 @@
+Motif_ID = M00550_2.00
+TF_Name = Pou3f4
+ENSEMBLE_ID = ENSMUSG00000056854
+TF_ID = T238383_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain,POU
+Family_ID = F231_2.00
+width = 10
+XX
+A |    34   23   63   89    2    7   47   37   26   28
+C |    20    5    3    2    4   10   29   15   21   21
+G |    15    7    5    1    0   39   10   32   22   20
+T |    31   65   29    8   94   44   14   16   31   31
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M09446_2.00
+TF_Name = Epas1
+ENSEMBLE_ID = ENSMUSG00000024140
+TF_ID = T350317_2.00
+TF_Species = Mus_musculus
+Family_Name = Unknown
+Family_ID = F319_2.00
+width = 9
+XX
+A |    23   17   86    2    2    0    0   37   16
+C |    25    7    2   91    1    0    0   47   49
+G |    45   24   11    3   97    0  100    6   13
+T |     7   52    1    4    0  100    0   10   22
+XX
+//

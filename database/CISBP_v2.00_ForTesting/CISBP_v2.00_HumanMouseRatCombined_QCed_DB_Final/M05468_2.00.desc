@@ -1,0 +1,15 @@
+Motif_ID = M05468_2.00
+TF_Name = POU2F3
+ENSEMBLE_ID = ENSG00000137709
+TF_ID = T238192_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain,POU
+Family_ID = F231_2.00
+width = 11
+XX
+A |    30    9   99    2    0    3   56   77   96   10   19
+C |    15   27    0    6    0   64    1    3    1    5   21
+G |    27    8    1    3   96   12    2   12    1    9   32
+T |    28   56    0   89    4   21   41    8    2   76   28
+XX
+//

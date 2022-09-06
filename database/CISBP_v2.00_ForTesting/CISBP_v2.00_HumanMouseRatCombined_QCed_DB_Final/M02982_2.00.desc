@@ -1,0 +1,15 @@
+Motif_ID = M02982_2.00
+TF_Name = ELK1
+ENSEMBLE_ID = ENSG00000126767
+TF_ID = T176122_2.00
+TF_Species = Homo_sapiens
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 10
+XX
+A |    68    3    1    0    0   99   95    6    2   29
+C |     4   94   99    0    0    1    1    5   12   14
+G |    19    3    0  100   98    0    0   89    2   38
+T |     9    0    0    0    2    0    4    0   84   19
+XX
+//

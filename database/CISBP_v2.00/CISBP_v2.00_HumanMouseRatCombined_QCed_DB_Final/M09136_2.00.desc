@@ -1,0 +1,15 @@
+Motif_ID = M09136_2.00
+TF_Name = LHX2
+ENSEMBLE_ID = ENSG00000106689
+TF_ID = T209795_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 12
+XX
+A |    13    9   11    3   77   96    0    1   58   17   18    9
+C |    18   26   43    1   18    3    2    1    1   23   24   21
+G |    24   32    2    0    4    0    2   24   35   49   12   24
+T |    45   33   44   96    1    1   96   74    6   11   46   46
+XX
+//

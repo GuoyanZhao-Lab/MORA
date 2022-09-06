@@ -1,0 +1,15 @@
+Motif_ID = M03448_2.00
+TF_Name = NFKB1
+ENSEMBLE_ID = ENSG00000109320
+TF_ID = T317172_2.00
+TF_Species = Homo_sapiens
+Family_Name = Rel
+Family_ID = F293_2.00
+width = 13
+XX
+A |    62    0    0    0    1   91   49    0    0    2    0    0    7
+C |    22    0    0    0    0    1    0    6   99   98  100  100    8
+G |     8  100  100   95   99    8    0    1    0    0    0    0   16
+T |     8    0    0    5    0    0   51   93    1    0    0    0   69
+XX
+//

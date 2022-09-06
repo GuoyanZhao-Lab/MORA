@@ -1,0 +1,15 @@
+Motif_ID = M02688_2.00
+TF_Name = Nobox
+ENSEMBLE_ID = ENSMUSG00000029736
+TF_ID = T212459_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |     0   95  100    3    5   39   10    5
+C |     3    0    0    3    0    0   32   34
+G |     0    0    0    5   11   58   47   16
+T |    97    5    0   89   84    3   11   45
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M00789_2.00
+TF_Name = Dmrtc2
+ENSEMBLE_ID = ENSMUSG00000011349
+TF_ID = T169124_2.00
+TF_Species = Mus_musculus
+Family_Name = DM
+Family_ID = F170_2.00
+width = 13
+XX
+A |    34   47   26   68    2   19    0   88   12   40   54   38   31
+C |    22   17   39   10    2    0    0    0    3   26   31   14   23
+G |    22   18   17   11    3   81    0    0    3    8    7   15   23
+T |    22   18   18   11   93    0  100   12   82   26    8   33   23
+XX
+//

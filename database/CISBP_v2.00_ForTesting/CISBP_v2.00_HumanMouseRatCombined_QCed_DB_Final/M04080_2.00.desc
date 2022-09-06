@@ -1,0 +1,15 @@
+Motif_ID = M04080_2.00
+TF_Name = MLX
+ENSEMBLE_ID = ENSG00000108788
+TF_ID = T034260_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 8
+XX
+A |    17    0  100    0    0    0    0   30
+C |    21  100    0  100    0    0    0   32
+G |    32    0    0    0  100    0  100   20
+T |    30    0    0    0    0  100    0   18
+XX
+//

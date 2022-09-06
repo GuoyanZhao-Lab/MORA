@@ -1,0 +1,15 @@
+Motif_ID = M04666_2.00
+TF_Name = CUX2
+ENSEMBLE_ID = ENSG00000111249
+TF_ID = T167057_2.00
+TF_Species = Homo_sapiens
+Family_Name = CUT,Homeodomain
+Family_ID = F164_2.00
+width = 12
+XX
+A |    11    2   32   96    0    0    3   98    1    4   48   12
+C |    55   31    1    0    1   96    0    0    4   46    1   14
+G |    20    1   62    3    0    0   97    2    1    0   48   52
+T |    14   66    5    1   99    4    0    0   94   50    3   22
+XX
+//

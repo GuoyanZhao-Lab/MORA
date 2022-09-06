@@ -1,0 +1,15 @@
+Motif_ID = M09173_2.00
+TF_Name = Evx2
+ENSEMBLE_ID = ENSMUSG00000001815
+TF_ID = T212394_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 12
+XX
+A |     8    1    1    2  100    0    8   39    3   22   11   14
+C |    22    4    0    6    0    4    0    1   71   31   32   27
+G |    17    1    1    6    0    0   46   59    9    5   18   15
+T |    53   94   98   86    0   96   46    1   17   42   39   44
+XX
+//

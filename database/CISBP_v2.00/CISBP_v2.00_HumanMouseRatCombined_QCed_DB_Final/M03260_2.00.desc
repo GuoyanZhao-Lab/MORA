@@ -1,0 +1,15 @@
+Motif_ID = M03260_2.00
+TF_Name = Barhl1
+ENSEMBLE_ID = ENSMUSG00000026805
+TF_ID = T212444_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 16
+XX
+A |     4   92   99   42    9   14   15   10   18   18    4   90  100   46    7   15
+C |     1    0    0    2   35    1   32   33   32   37    1    0    0    1   39    2
+G |     0    1    1   10    8   79   31   12   37   13    0    1    0   11    8   76
+T |    95    7    0   46   48    6   22   45   13   32   95    9    0   42   46    7
+XX
+//

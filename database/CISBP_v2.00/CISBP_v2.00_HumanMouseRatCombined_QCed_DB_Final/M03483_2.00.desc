@@ -1,0 +1,15 @@
+Motif_ID = M03483_2.00
+TF_Name = SOX8
+ENSEMBLE_ID = ENSG00000005513
+TF_ID = T328054_2.00
+TF_Species = Homo_sapiens
+Family_Name = Sox
+Family_ID = F305_2.00
+width = 16
+XX
+A |    99  100    0  100  100    0   32    0    5    0  100    0    0    0    0    0
+C |     0    0  100    0    0    0    2    0    8   99    0    0    0    0    0    1
+G |     0    0    0    0    0    0   59    0   70    0    0   99    0  100    0    0
+T |     1    0    0    0    0  100    7  100   17    1    0    1  100    0  100   99
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M09413_2.00
+TF_Name = STAT4
+ENSEMBLE_ID = ENSG00000138378
+TF_ID = T337446_2.00
+TF_Species = Homo_sapiens
+Family_Name = STAT
+Family_ID = F308_2.00
+width = 11
+XX
+A |     5    0    0    2    1    1   28    7   64   95   32
+C |    35    1    1   94   55   36   11   10   33    1   19
+G |     4    0    1    0    1   18   45   58    1    2   36
+T |    56   99   98    4   43   45   16   25    2    2   13
+XX
+//

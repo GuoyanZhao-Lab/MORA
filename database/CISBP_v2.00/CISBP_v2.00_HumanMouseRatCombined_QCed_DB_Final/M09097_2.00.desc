@@ -1,0 +1,15 @@
+Motif_ID = M09097_2.00
+TF_Name = FOXO4
+ENSEMBLE_ID = ENSG00000184481
+TF_ID = T185792_2.00
+TF_Species = Homo_sapiens
+Family_Name = Forkhead
+Family_ID = F196_2.00
+width = 9
+XX
+A |    53   43   25   85  100  100    0  100   75
+C |    36   18    4   15    0    0  100    0   11
+G |    11   35    0    0    0    0    0    0   11
+T |     0    4   71    0    0    0    0    0    3
+XX
+//

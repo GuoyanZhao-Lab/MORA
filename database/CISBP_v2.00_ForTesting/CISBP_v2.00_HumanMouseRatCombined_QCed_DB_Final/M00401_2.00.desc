@@ -1,0 +1,15 @@
+Motif_ID = M00401_2.00
+TF_Name = Phox2b
+ENSEMBLE_ID = ENSMUSG00000012520
+TF_ID = T212404_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    24   19   20   65   93   13   19   32
+C |    26   34   19    8    5   18   21   20
+G |    29   21   10   13    0    8   20   27
+T |    21   26   51   14    2   61   40   21
+XX
+//

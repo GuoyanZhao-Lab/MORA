@@ -1,0 +1,15 @@
+Motif_ID = M04450_2.00
+TF_Name = GLIS2
+ENSEMBLE_ID = ENSG00000126603
+TF_ID = T094898_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 14
+XX
+A |    20    3   39   26    3   21    3   26    0    0    1    0    0    0
+C |    10   84    8   27   64    1   41    0    0    0    0    0    0   17
+G |    48   12    2    2    5   77    0   55   98  100   99  100  100    4
+T |    22    1   51   45   28    1   56   19    2    0    0    0    0   79
+XX
+//

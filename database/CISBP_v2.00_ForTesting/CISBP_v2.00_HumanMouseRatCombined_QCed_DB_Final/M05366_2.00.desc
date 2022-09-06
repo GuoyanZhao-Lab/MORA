@@ -1,0 +1,15 @@
+Motif_ID = M05366_2.00
+TF_Name = SHOX
+ENSEMBLE_ID = ENSG00000185960
+TF_ID = T209931_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    18    7   90  100    0    5   55   29
+C |    22   10    3    0    0    3    6   17
+G |    24    3    5    0    0    6   30   43
+T |    36   80    2    0  100   86    9   11
+XX
+//

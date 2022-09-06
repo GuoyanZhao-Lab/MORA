@@ -1,0 +1,15 @@
+Motif_ID = M09081_2.00
+TF_Name = Erg
+ENSEMBLE_ID = ENSMUSG00000040732
+TF_ID = T176548_2.00
+TF_Species = Mus_musculus
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 14
+XX
+A |    28   28   49    9   49    1    0   99   94   28   14   28   27   24
+C |    22   22   11   74   49    0    1    0    0    1   31   12   23   30
+G |    39   38   30   16    1   99   99    0    1   68   14   46   40   37
+T |    11   12   10    1    1    0    0    1    5    3   41   14   10    9
+XX
+//

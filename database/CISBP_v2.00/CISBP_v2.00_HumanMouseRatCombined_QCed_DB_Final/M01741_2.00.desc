@@ -1,0 +1,15 @@
+Motif_ID = M01741_2.00
+TF_Name = Mitf
+ENSEMBLE_ID = ENSMUSG00000035158
+TF_ID = T035711_2.00
+TF_Species = Mus_musculus
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    20    6   46    1   19    5    0   73    6   22
+C |    34   88   11   80    7    2    0   10   46   31
+G |    22    3   19    3   73    5   99    9    8   19
+T |    24    3   24   16    1   88    1    8   40   28
+XX
+//

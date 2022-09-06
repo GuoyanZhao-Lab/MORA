@@ -1,0 +1,15 @@
+Motif_ID = M03290_2.00
+TF_Name = Lhx8
+ENSEMBLE_ID = ENSMUSG00000096225
+TF_ID = T212605_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 12
+XX
+A |     5   54   99    2    2   11    1   97   97    0    1   93
+C |     2    0    0    1    1    1   91    1    1    1   51    1
+G |     1   45    1    1    1   88    0    1    1    0    1    2
+T |    92    1    0   96   96    0    8    1    1   99   47    4
+XX
+//

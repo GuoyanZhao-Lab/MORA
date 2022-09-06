@@ -1,0 +1,15 @@
+Motif_ID = M02902_2.00
+TF_Name = HIC2
+ENSEMBLE_ID = ENSG00000169635
+TF_ID = T095078_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 9
+XX
+A |    46    0    8    1    8   30   51   16   16
+C |     7    2    6   99   91   70   15   45   35
+G |    40    0   83    0    0    0   26   25   20
+T |     7   98    3    0    1    0    8   14   29
+XX
+//

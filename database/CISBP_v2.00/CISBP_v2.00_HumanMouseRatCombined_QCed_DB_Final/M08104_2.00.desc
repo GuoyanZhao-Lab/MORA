@@ -1,0 +1,15 @@
+Motif_ID = M08104_2.00
+TF_Name = NFYA
+ENSEMBLE_ID = ENSG00000001167
+TF_ID = T159918_2.00
+TF_Species = Homo_sapiens
+Family_Name = CBF/NF-Y
+Family_ID = F138_2.00
+width = 11
+XX
+A |    15    8    1    3   96    0    2    1    2   13    7
+C |    18   56   10    7    0    3    0    0    1   39   38
+G |    28   23    4   87    3    2    1   98   97    8   16
+T |    39   13   85    3    1   95   97    1    0   40   39
+XX
+//

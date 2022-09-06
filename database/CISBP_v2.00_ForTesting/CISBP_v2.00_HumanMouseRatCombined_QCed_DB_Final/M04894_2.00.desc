@@ -1,0 +1,15 @@
+Motif_ID = M04894_2.00
+TF_Name = UBP1
+ENSEMBLE_ID = ENSG00000153560
+TF_ID = T199009_2.00
+TF_Species = Homo_sapiens
+Family_Name = Grainyhead
+Family_ID = F215_2.00
+width = 18
+XX
+A |    53   57    0    8   34    0   22   19   17   35   52   58    0    7   31    0   26   21
+C |     7    1   89   57    2   14   19   20   33   14    9    1   87   58    3   11   16   19
+G |    20   16   11    2   58   86    1    9   14   33   21   19   12    2   57   89    2    8
+T |    20   26    0   33    6    0   58   52   36   18   18   22    1   33    9    0   56   52
+XX
+//

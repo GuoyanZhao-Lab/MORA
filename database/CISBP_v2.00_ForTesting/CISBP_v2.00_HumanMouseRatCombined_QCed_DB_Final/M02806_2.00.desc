@@ -1,0 +1,15 @@
+Motif_ID = M02806_2.00
+TF_Name = OLIG1
+ENSEMBLE_ID = ENSG00000184221
+TF_ID = T034333_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    85   52    0   98    0   99    2    0    0    3
+C |     2   36  100    0    0    1    1    0   18   19
+G |    11   12    0    1    1    0    0   99   40    2
+T |     2    0    0    1   99    0   97    1   42   76
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M01482_2.00
+TF_Name = Gabpa
+ENSEMBLE_ID = ENSMUSG00000008976
+TF_ID = T176533_2.00
+TF_Species = Mus_musculus
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 9
+XX
+A |    63   15   15    0    1   98   78   38   13
+C |     8   65   81    0    1    0    2    5   22
+G |    18   17    4  100   98    2    0   55    6
+T |    11    3    0    0    0    0   20    2   59
+XX
+//

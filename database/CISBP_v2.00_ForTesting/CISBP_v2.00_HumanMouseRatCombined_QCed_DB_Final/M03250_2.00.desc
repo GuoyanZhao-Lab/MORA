@@ -1,0 +1,15 @@
+Motif_ID = M03250_2.00
+TF_Name = Otx1
+ENSEMBLE_ID = ENSMUSG00000005917
+TF_ID = T212398_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    28    4   85   99    0    6    2   14
+C |    23    4    5    0    3   88   71   22
+G |    13    0    6    1   11    4    8   35
+T |    36   92    4    0   86    2   19   29
+XX
+//

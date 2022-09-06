@@ -1,0 +1,15 @@
+Motif_ID = M00276_2.00
+TF_Name = PBX4
+ENSEMBLE_ID = ENSG00000105717
+TF_ID = T209784_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 11
+XX
+A |    31    9    4   91  100    0    8   92   54   24   29
+C |    20   62    5    0    0    0    0    0    5   16   20
+G |    29    9    5    0    0    0    0    0   19   16   21
+T |    20   20   86    9    0  100   92    8   22   44   30
+XX
+//

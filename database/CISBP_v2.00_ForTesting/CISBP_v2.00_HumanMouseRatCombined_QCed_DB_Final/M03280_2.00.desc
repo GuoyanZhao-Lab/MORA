@@ -1,0 +1,15 @@
+Motif_ID = M03280_2.00
+TF_Name = Meis3
+ENSEMBLE_ID = ENSMUSG00000041420
+TF_ID = T212509_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 12
+XX
+A |     4    0   91    0   99    7    3    0    1    8    0   88
+C |     3    7    0   95    0    1   41    1    1    4   90    2
+G |     0   93    3    3    1   79   54    1   95    1    9    6
+T |    93    0    6    2    0   13    2   98    3   87    1    4
+XX
+//

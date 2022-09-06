@@ -1,0 +1,15 @@
+Motif_ID = M04199_2.00
+TF_Name = BHLHE22
+ENSEMBLE_ID = ENSG00000180828
+TF_ID = T034329_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    86   37    0   94    0   99    0    0    0    2
+C |     4   43  100    0    0    0    4    0   18   36
+G |     6   20    0    6    0    1    0  100   46    2
+T |     4    0    0    0  100    0   96    0   36   60
+XX
+//

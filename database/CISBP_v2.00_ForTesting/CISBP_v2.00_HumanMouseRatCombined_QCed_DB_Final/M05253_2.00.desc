@@ -1,0 +1,15 @@
+Motif_ID = M05253_2.00
+TF_Name = DRGX
+ENSEMBLE_ID = ENSG00000165606
+TF_ID = T209888_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    21    1   94  100    0    0   52   36
+C |    27    6    1    0    0   12    7   14
+G |    31    0    5    0    0    3   35   44
+T |    21   93    0    0  100   85    6    6
+XX
+//

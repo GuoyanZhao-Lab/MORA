@@ -1,0 +1,15 @@
+Motif_ID = M04212_2.00
+TF_Name = MESP2
+ENSEMBLE_ID = ENSG00000188095
+TF_ID = T034338_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 12
+XX
+A |    14   83   64    1   98   25   82    0    1    0    0   22
+C |    56    0   33   99    0    0    0    0    0    3   59   10
+G |    15   17    3    0    1    0    0    1   99   57    0   58
+T |    15    0    0    0    1   75   18   99    0   40   41   10
+XX
+//

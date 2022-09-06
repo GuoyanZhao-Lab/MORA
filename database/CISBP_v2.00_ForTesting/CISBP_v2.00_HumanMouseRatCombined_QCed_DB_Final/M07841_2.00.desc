@@ -1,0 +1,15 @@
+Motif_ID = M07841_2.00
+TF_Name = MAFK
+ENSEMBLE_ID = ENSG00000198517
+TF_ID = T059766_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 15
+XX
+A |     6   31    8   14   85    5    1    1  100    0    0   95   39   43   31
+C |    20   56    7    2    3   46    0   99    0    0  100    1   18    5    6
+G |    70    3    3   76    5   47    0    0    0   96    0    2   19    2    3
+T |     4   10   82    8    7    2   99    0    0    4    0    2   24   50   60
+XX
+//

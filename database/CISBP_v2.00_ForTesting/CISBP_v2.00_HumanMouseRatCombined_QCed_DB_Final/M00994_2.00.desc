@@ -1,0 +1,15 @@
+Motif_ID = M00994_2.00
+TF_Name = Cebpa
+ENSEMBLE_ID = ENSMUSG00000034957
+TF_ID = T060479_2.00
+TF_Species = Mus_musculus
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 8
+XX
+A |     0    0   33    0    0    4  100  100
+C |     0    0    0   91    0   74    0    0
+G |     0   11   38    0  100    0    0    0
+T |   100   89   29    9    0   22    0    0
+XX
+//

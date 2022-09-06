@@ -1,0 +1,15 @@
+Motif_ID = M01204_2.00
+TF_Name = TIGD1
+ENSEMBLE_ID = ENSG00000221944
+TF_ID = T161475_2.00
+TF_Species = Homo_sapiens
+Family_Name = CENPB
+Family_ID = F141_2.00
+width = 10
+XX
+A |    21   18   82    1    3    3    2    4   11   24
+C |    28    6    2    1    0    1   94    5   50   21
+G |    19    1   13    1    3   89    0   76   27   16
+T |    32   75    3   97   94    7    4   15   12   39
+XX
+//

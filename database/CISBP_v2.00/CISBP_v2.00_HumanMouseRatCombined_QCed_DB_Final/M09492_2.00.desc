@@ -1,0 +1,15 @@
+Motif_ID = M09492_2.00
+TF_Name = Ddit3
+ENSEMBLE_ID = ENSMUSG00000025408
+TF_ID = T060463_2.00
+TF_Species = Mus_musculus
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 10
+XX
+A |    50    0    1   93    0    1   20   97   98    4
+C |    34    3    1    1    5    0   55    2    0   30
+G |    14    1   97    2    2   96    0    1    1   16
+T |     2   96    1    4   93    3   25    0    1   50
+XX
+//

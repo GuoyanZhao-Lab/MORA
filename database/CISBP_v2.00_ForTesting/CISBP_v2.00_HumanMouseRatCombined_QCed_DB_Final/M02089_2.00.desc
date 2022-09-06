@@ -1,0 +1,15 @@
+Motif_ID = M02089_2.00
+TF_Name = ZFHX2
+ENSEMBLE_ID = ENSG00000136367
+TF_ID = T209848_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    26   18   14   63   93    2    9   70   33   21
+C |    26   30   13   10    2    3   18    3   19   27
+G |    27   19    3   18    3    2   10   13   30   26
+T |    21   33   70    9    2   93   63   14   18   26
+XX
+//

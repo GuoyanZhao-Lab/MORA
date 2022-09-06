@@ -1,0 +1,15 @@
+Motif_ID = M01023_2.00
+TF_Name = Gli1
+ENSEMBLE_ID = ENSMUSG00000025407
+TF_ID = T101054_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 10
+XX
+A |    28    5   81    0    0   90    0    0   17   40
+C |    26    5   10  100  100   10  100  100   58   20
+G |    29   85    9    0    0    0    0    0    8   20
+T |    17    5    0    0    0    0    0    0   17   20
+XX
+//

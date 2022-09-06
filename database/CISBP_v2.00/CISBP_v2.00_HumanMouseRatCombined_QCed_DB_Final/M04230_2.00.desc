@@ -1,0 +1,15 @@
+Motif_ID = M04230_2.00
+TF_Name = CREM
+ENSEMBLE_ID = ENSG00000095794
+TF_ID = T059724_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 12
+XX
+A |    18   41    1    1   89    0   61    4    9   87    7   24
+C |    34   13   13    4    1   90    7    3   84    2   50   29
+G |    25   41    1   80    3   10   30    2    5   10   11   30
+T |    23    5   85   15    7    0    2   91    2    1   32   17
+XX
+//

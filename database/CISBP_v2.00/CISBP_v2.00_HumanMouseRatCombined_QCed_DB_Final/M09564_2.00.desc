@@ -1,0 +1,15 @@
+Motif_ID = M09564_2.00
+TF_Name = Phox2a
+ENSEMBLE_ID = ENSMUSG00000007946
+TF_ID = T212402_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 12
+XX
+A |    17   18   86  100    1    5   29   44   85    0    9   74
+C |    41    5    1    0    8   35   21   14    3    0    6    2
+G |    15    0    8    0    4   16   23   39    7    0    2    5
+T |    27   77    5    0   87   44   27    3    5  100   83   19
+XX
+//

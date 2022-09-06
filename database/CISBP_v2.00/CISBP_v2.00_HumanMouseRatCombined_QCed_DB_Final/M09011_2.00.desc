@@ -1,0 +1,15 @@
+Motif_ID = M09011_2.00
+TF_Name = Zic2
+ENSEMBLE_ID = ENSMUSG00000061524
+TF_ID = T101372_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 15
+XX
+A |    19   22   16   10   27    0    6    5    6    0    9    1   41    1   42
+C |    13   14   60   48   39   99   92   16    2   87    2    0    9    7   28
+G |    38   60   12    5    7    0    0    0   91    8    7   98   21   79    8
+T |    30    4   12   37   27    1    2   79    1    5   82    1   29   13   22
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M03214_2.00
+TF_Name = RAX2
+ENSEMBLE_ID = ENSG00000173976
+TF_ID = T209905_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    14    9   81   97    2    5   44   27
+C |    32    1    5    0    2    9    4   18
+G |    19    6    9    2    4    6   44   41
+T |    35   84    5    1   92   80    8   14
+XX
+//

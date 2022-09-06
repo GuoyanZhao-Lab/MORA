@@ -1,0 +1,15 @@
+Motif_ID = M02722_2.00
+TF_Name = Spz1
+ENSEMBLE_ID = ENSMUSG00000046957
+TF_ID = T350321_2.00
+TF_Species = Mus_musculus
+Family_Name = Unknown
+Family_ID = F319_2.00
+width = 11
+XX
+A |     0   17    0    0   33   33   83    8    0    8    0
+C |    17   75   17   17   17    0    8   92   83   75   25
+G |    66    8    0   75    0    0    0    0    0   17    0
+T |    17    0   83    8   50   67    9    0   17    0   75
+XX
+//

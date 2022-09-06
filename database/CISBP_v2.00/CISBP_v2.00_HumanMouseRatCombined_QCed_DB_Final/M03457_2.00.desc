@@ -1,0 +1,15 @@
+Motif_ID = M03457_2.00
+TF_Name = RFX4
+ENSEMBLE_ID = ENSG00000111783
+TF_ID = T318248_2.00
+TF_Species = Homo_sapiens
+Family_Name = RFX
+Family_ID = F294_2.00
+width = 15
+XX
+A |    16    1    0    3    5    0    0   65   33    0   15   76   99    0   15
+C |    44    0    1    7    1  100   29   13    2    0   74    0    0  100   27
+G |    25   97    0    0   93    0    1   22   64  100    0    3    1    0   54
+T |    15    2   99   90    1    0   70    0    1    0   11   21    0    0    4
+XX
+//

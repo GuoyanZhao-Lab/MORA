@@ -1,0 +1,15 @@
+Motif_ID = M05403_2.00
+TF_Name = DUXA
+ENSEMBLE_ID = ENSG00000258873
+TF_ID = T209954_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 11
+XX
+A |    11   59  100    4    0    0   96  100    0    0   91
+C |    18    0    0   35   35   28    4    0    0  100    0
+G |     4   41    0    8   21    7    0    0    0    0    8
+T |    67    0    0   53   44   65    0    0  100    0    1
+XX
+//

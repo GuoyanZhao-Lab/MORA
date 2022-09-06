@@ -1,0 +1,15 @@
+Motif_ID = M00452_2.00
+TF_Name = Isx
+ENSEMBLE_ID = ENSMUSG00000031621
+TF_ID = T212465_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    24   17   19   61   89    8   19   31
+C |    26   34   16    9    0   11   16   15
+G |    30   21    8   16    6    8   20   37
+T |    20   28   57   14    5   73   45   17
+XX
+//

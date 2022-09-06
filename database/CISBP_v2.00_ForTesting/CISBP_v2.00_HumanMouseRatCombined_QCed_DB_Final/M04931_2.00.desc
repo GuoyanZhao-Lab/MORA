@@ -1,0 +1,15 @@
+Motif_ID = M04931_2.00
+TF_Name = PITX1
+ENSEMBLE_ID = ENSG00000069011
+TF_ID = T209774_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    15    0  100  100    0    0    0   19
+C |    52    0    0    0    0  100   97   50
+G |     7    0    0    0    0    0    0   13
+T |    26  100    0    0  100    0    3   18
+XX
+//

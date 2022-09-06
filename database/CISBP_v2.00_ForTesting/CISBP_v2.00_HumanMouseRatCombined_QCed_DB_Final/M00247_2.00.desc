@@ -1,0 +1,15 @@
+Motif_ID = M00247_2.00
+TF_Name = WT1
+ENSEMBLE_ID = ENSG00000184937
+TF_ID = T095226_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 11
+XX
+A |    53   23   72    0   80   10   20   80   22   22   22
+C |    12    2    3    0    0    0    0    0   12   23   23
+G |    13    3   13    0    0    0   19   10   13   23   23
+T |    22   72   12  100   20   90   61   10   53   32   32
+XX
+//

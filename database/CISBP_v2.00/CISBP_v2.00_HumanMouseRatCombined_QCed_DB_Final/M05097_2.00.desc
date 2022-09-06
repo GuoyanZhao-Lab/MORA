@@ -1,0 +1,15 @@
+Motif_ID = M05097_2.00
+TF_Name = SIX1
+ENSEMBLE_ID = ENSG00000126778
+TF_ID = T209830_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    21   28    1   11   95    0   90    0   12    7
+C |    35   24   41    0    2   12   10   66   25   36
+G |    20   27    3   87    0    0    0   12   52   25
+T |    24   21   55    2    3   88    0   22   11   32
+XX
+//

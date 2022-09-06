@@ -1,0 +1,15 @@
+Motif_ID = M04914_2.00
+TF_Name = HOXC8
+ENSEMBLE_ID = ENSG00000037965
+TF_ID = T209769_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 8
+XX
+A |    28   12   72   97    2    7   68    1
+C |    16    5    1    0   59    4    5   53
+G |    15    2    3    3    1   79   18   14
+T |    41   81   24    0   38   10    9   32
+XX
+//

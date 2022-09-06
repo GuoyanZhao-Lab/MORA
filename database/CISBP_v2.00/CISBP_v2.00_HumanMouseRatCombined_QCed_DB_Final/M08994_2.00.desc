@@ -1,0 +1,15 @@
+Motif_ID = M08994_2.00
+TF_Name = Egr2
+ENSEMBLE_ID = ENSMUSG00000037868
+TF_ID = T101144_2.00
+TF_Species = Mus_musculus
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 14
+XX
+A |    11   17   11   19    3   32    0    1    1   68    2   31    4   30
+C |    50   53   54   73   92    1   98   99   93   30   95    7   73   42
+G |    17   11   10    1    2   42    2    0    0    1    1   40   13   14
+T |    22   19   25    7    3   25    0    0    6    1    2   22   10   14
+XX
+//

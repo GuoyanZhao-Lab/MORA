@@ -1,0 +1,15 @@
+Motif_ID = M02805_2.00
+TF_Name = FIGLA
+ENSEMBLE_ID = ENSG00000183733
+TF_ID = T034331_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    50   39    0   97    0    0    3    2    9   26
+C |    15   39   98    2   77   85    0    2   12   16
+G |    10    9    0    0   23   15    1   93   32   16
+T |    25   13    2    1    0    0   96    3   47   42
+XX
+//

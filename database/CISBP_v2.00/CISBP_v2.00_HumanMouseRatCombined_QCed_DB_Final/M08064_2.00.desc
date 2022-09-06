@@ -1,0 +1,15 @@
+Motif_ID = M08064_2.00
+TF_Name = FOSL2
+ENSEMBLE_ID = ENSG00000075426
+TF_ID = T059721_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 11
+XX
+A |    16   29   54    0    0   95    0    0    4  100    0
+C |    19   11    1    0    0    1   62    0   96    0   26
+G |    39   51   44    0  100    4   34    0    0    0   37
+T |    26    9    1  100    0    0    4  100    0    0   37
+XX
+//

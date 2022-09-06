@@ -1,0 +1,15 @@
+Motif_ID = M01663_2.00
+TF_Name = Arid5a
+ENSEMBLE_ID = ENSRNOG00000015382
+TF_ID = T014756_2.00
+TF_Species = Rattus_norvegicus
+Family_Name = ARID/BRIGHT
+Family_ID = F028_2.00
+width = 10
+XX
+A |    23   19   23   53   33   93    4   15   29   25
+C |    26   32   26    7   12    0    2   22   18   25
+G |    25   18   33   29    9    5    2    5   32   24
+T |    26   31   18   11   46    2   92   58   21   26
+XX
+//

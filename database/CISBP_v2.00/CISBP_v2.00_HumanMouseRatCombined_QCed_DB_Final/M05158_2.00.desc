@@ -1,0 +1,15 @@
+Motif_ID = M05158_2.00
+TF_Name = LMX1B
+ENSEMBLE_ID = ENSG00000136944
+TF_ID = T209850_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 11
+XX
+A |    49   39   19    0    0  100  100    0    0  100   61
+C |    14   10   10   13    0    0    0    0    0    0   12
+G |    20    9   13    4    0    0    0    0    0    0   11
+T |    17   42   58   83  100    0    0  100  100    0   16
+XX
+//

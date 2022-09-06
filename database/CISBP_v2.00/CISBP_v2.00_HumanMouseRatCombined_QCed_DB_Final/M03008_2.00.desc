@@ -1,0 +1,15 @@
+Motif_ID = M03008_2.00
+TF_Name = SPIB
+ENSEMBLE_ID = ENSG00000269404
+TF_ID = T176138_2.00
+TF_Species = Homo_sapiens
+Family_Name = Ets
+Family_ID = F180_2.00
+width = 14
+XX
+A |    47   73   93   94   75    4   35    2    0  100   99    1    2   41
+C |    15    3    1    0    1    9   53    0    0    0    0   10    4    9
+G |    24   18    2    0    2   86   12   98  100    0    0   89    1   26
+T |    14    6    4    6   22    1    0    0    0    0    1    0   93   24
+XX
+//

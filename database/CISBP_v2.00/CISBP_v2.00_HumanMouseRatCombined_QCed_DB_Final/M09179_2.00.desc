@@ -1,0 +1,15 @@
+Motif_ID = M09179_2.00
+TF_Name = Hnf1b
+ENSEMBLE_ID = ENSMUSG00000020679
+TF_ID = T212412_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 15
+XX
+A |    40   16    4   10   94   89    8   39   74    8    1   71   78    8   25
+C |     6    3    6    8    0    6    2    0    3    2    3    7    9   70   28
+G |    34   74    5    7    4    1    0   61    3   11    1    9    8    4    7
+T |    20    7   85   75    2    4   90    0   20   79   95   13    5   18   40
+XX
+//

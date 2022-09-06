@@ -1,0 +1,15 @@
+Motif_ID = M08732_2.00
+TF_Name = ARNT
+ENSEMBLE_ID = ENSG00000143437
+TF_ID = T034294_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 9
+XX
+A |    15   14   70    1    1    0    0   36   16
+C |    28    7    3   95    0    0    1   53   50
+G |    43   24   25    0   99    0   99    2   14
+T |    14   55    2    4    0  100    0    9   20
+XX
+//

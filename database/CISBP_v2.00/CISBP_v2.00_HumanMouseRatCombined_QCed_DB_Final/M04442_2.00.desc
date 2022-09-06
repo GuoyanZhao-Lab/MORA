@@ -1,0 +1,15 @@
+Motif_ID = M04442_2.00
+TF_Name = SNAI1
+ENSEMBLE_ID = ENSG00000124216
+TF_ID = T094886_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 10
+XX
+A |    14   26    0  100    0    0    0    0    9   18
+C |    35   12  100    0  100  100    0    0   59   35
+G |    14   60    0    0    0    0    0  100    0   15
+T |    37    2    0    0    0    0  100    0   32   32
+XX
+//

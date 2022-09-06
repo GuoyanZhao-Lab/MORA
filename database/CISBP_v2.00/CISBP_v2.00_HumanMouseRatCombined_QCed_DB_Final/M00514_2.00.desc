@@ -1,0 +1,15 @@
+Motif_ID = M00514_2.00
+TF_Name = Nkx2-4
+ENSEMBLE_ID = ENSMUSG00000054160
+TF_ID = T212543_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    25   14   55   91    8   23   33   11   22   22
+C |    18   32    3    0    2    4    3   31   27   26
+G |    13   22   32    3   77   19   53   34   22   21
+T |    44   32   10    6   13   54   11   24   29   31
+XX
+//

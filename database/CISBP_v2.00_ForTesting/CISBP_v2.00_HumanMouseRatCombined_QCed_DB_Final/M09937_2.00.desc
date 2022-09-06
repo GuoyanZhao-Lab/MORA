@@ -1,0 +1,15 @@
+Motif_ID = M09937_2.00
+TF_Name = HLF
+ENSEMBLE_ID = ENSG00000108924
+TF_ID = T059728_2.00
+TF_Species = Homo_sapiens
+Family_Name = bZIP
+Family_ID = F091_2.00
+width = 10
+XX
+A |    67    6    0   56    0   17    0   94  100    0
+C |     5    0    5    0   61    5   17    0    0   67
+G |    17    0   28   39    0   78    5    0    0    0
+T |    11   94   67    5   39    0   78    6    0   33
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M05359_2.00
+TF_Name = MIXL1
+ENSEMBLE_ID = ENSG00000185155
+TF_ID = T209928_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 11
+XX
+A |     9   82  100    4    4   24   46   81    0    1   84
+C |     5    0    0   12   33   25   18    2    0   16    2
+G |     1   16    0    2   18   26   32   13    0    0    5
+T |    85    2    0   82   45   25    4    4  100   83    9
+XX
+//

@@ -1,0 +1,15 @@
+Motif_ID = M05164_2.00
+TF_Name = BARHL2
+ENSEMBLE_ID = ENSG00000143032
+TF_ID = T209854_2.00
+TF_Species = Homo_sapiens
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 9
+XX
+A |    20    0   95  100   85    0    2   21    8
+C |    42    0    0    0    0   74    0   13   20
+G |    12    0    0    0    1    0   95   51    8
+T |    26  100    5    0   14   26    3   15   64
+XX
+//

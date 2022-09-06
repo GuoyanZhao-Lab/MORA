@@ -1,0 +1,15 @@
+Motif_ID = M10947_2.00
+TF_Name = SRF
+ENSEMBLE_ID = ENSG00000112658
+TF_ID = T253657_2.00
+TF_Species = Homo_sapiens
+Family_Name = MADS box
+Family_ID = F256_2.00
+width = 18
+XX
+A |    61   27    9   43    0    0   70    6  100    0   94   30    0    0    3    3   97    6
+C |    24   21   24    9  100  100    0    0    0    0    0    0    0    0    0   94    0    6
+G |    12   18   27   12    0    0    0    0    0    0    0    0  100  100   76    0    0    3
+T |     3   34   40   36    0    0   30   94    0  100    6   70    0    0   21    3    3   85
+XX
+//

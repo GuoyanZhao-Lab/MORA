@@ -1,0 +1,15 @@
+Motif_ID = M04094_2.00
+TF_Name = TCF21
+ENSEMBLE_ID = ENSG00000118526
+TF_ID = T034269_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 12
+XX
+A |    11   87   88    0  100    0    1    0    0    0    3   31
+C |    49    5    9  100    0    0   96    0    0   12   32   17
+G |    20    7    2    0    0   97    2    0  100   14    4   44
+T |    20    1    1    0    0    3    1  100    0   74   61    8
+XX
+//

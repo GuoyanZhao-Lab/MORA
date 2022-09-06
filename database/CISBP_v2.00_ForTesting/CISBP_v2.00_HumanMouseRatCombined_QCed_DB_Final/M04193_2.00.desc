@@ -1,0 +1,15 @@
+Motif_ID = M04193_2.00
+TF_Name = ATOH7
+ENSEMBLE_ID = ENSG00000179774
+TF_ID = T034327_2.00
+TF_Species = Homo_sapiens
+Family_Name = bHLH
+Family_ID = F082_2.00
+width = 10
+XX
+A |    70   42    0   82    2   73    0    0    1    2
+C |    10   30  100    0   12   19    3    0   22   55
+G |    14   22    0   12    6    8    3  100   36    0
+T |     6    6    0    6   80    0   94    0   41   43
+XX
+//

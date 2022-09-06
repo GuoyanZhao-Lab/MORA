@@ -1,0 +1,15 @@
+Motif_ID = M04569_2.00
+TF_Name = HIC1
+ENSEMBLE_ID = ENSG00000177374
+TF_ID = T095155_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 10
+XX
+A |    14   48    0    0    0    0   64   46    6   14
+C |    40    4    0    0   98  100   34   31   81   45
+G |    21   43    0  100    2    0    0   13    5   21
+T |    25    5  100    0    0    0    2   10    8   20
+XX
+//

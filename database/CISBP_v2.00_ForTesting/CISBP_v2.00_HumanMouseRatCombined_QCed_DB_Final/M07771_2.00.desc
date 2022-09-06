@@ -1,0 +1,15 @@
+Motif_ID = M07771_2.00
+TF_Name = ZNF674
+ENSEMBLE_ID = ENSG00000251192
+TF_ID = T095470_2.00
+TF_Species = Homo_sapiens
+Family_Name = C2H2 ZF
+Family_ID = F135_2.00
+width = 12
+XX
+A |    12    6    2    0   14    0    1    0   14    6    1    0
+C |    35   30   36   25    0    0   34    0   69   38   97  100
+G |    23   10   31    0   82   87   15   98   13    0    0    0
+T |    30   54   31   75    4   13   50    2    4   56    2    0
+XX
+//

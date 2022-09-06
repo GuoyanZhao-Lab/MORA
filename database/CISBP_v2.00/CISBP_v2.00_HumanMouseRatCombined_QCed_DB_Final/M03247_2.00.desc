@@ -1,0 +1,15 @@
+Motif_ID = M03247_2.00
+TF_Name = Hoxd13
+ENSEMBLE_ID = ENSMUSG00000001819
+TF_ID = T212395_2.00
+TF_Species = Mus_musculus
+Family_Name = Homeodomain
+Family_ID = F223_2.00
+width = 10
+XX
+A |    26   13    1    2   11  100    5   15   43    6
+C |     9    5    0    0    2    0    0    0    0   32
+G |    30   18    2    0    1    0    0   17   53   54
+T |    35   64   97   98   86    0   95   68    4    8
+XX
+//

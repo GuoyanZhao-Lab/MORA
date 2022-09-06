@@ -1,0 +1,15 @@
+Motif_ID = M09296_2.00
+TF_Name = ESRRG
+ENSEMBLE_ID = ENSG00000196482
+TF_ID = T303248_2.00
+TF_Species = Homo_sapiens
+Family_Name = Nuclear receptor
+Family_ID = F278_2.00
+width = 9
+XX
+A |     7    7   79  100    0    0    7    7   83
+C |     0   71    0    0    7    7    0   79    3
+G |    15    7   21    0   86   93    0    0   10
+T |    78   15    0    0    7    0   93   14    4
+XX
+//
