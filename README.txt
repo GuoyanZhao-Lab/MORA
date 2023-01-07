@@ -1,3 +1,5 @@
+Motif Over Representation Analysis (MORA) is a fully automated pipeline to detect enrichment of known TF binding motifs in any query sequences. This repository provides source code and documentation of the single machine version of the pipeline. 
+
 1) Make sure you system has software-properties-common and libparallel-forkmanager-perl installed.
 If not following command would install the required packages.
  
