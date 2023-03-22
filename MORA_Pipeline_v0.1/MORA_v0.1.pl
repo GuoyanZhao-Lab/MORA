@@ -238,7 +238,7 @@ sub calculate_ORI{
     #    # calculate ORI for each transcription factor matrix for each randome sequence set
     print "Output directory: ", $output_dir, "\n";
     my $HOME = $ENV{HOME};
-    my $Query_prefix = "JEM_IRF1dep_class1_class3"; #make this an input once pipeline works
+    (my $Query_prefix = $Sepcific_gene_file_fa) =~ s/\.fa//; #make this an input once pipeline works
     my $QUERYCON = "$in_dir".$Query_prefix.".con";
     my $QUERYFASTA = "$in_dir".$Query_prefix.".fa";
    

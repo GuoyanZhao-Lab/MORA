@@ -9,18 +9,18 @@
 ###########################################################################################
 
 #!/bin/bash
-INDIR=~/tools/MORA-Singularity/ExampleInput/
-OUTDIR=~/tools/MORA-Singularity/output_runExampleInput/
+INDIR=~/MORA-Singularity/CustomInput/
+OUTDIR=~/MORA-Singularity/output_runCustomInput/
 
-QUERYFASTA=~/tools/MORA-Singularity/ExampleInput/JEM_IRF1dep_class1_class3.fa
-BGGeneFASTA=~/tools/MORA-Singularity/ExampleInput/BackgroundGene.fa
+QUERYFASTA=GSE56026_STAT1_human_KD_Down_GeneNames.fa
+BGGeneFASTA=GSE56026_STAT1_human_KD_Down_Backgrounds.fa
 N=100
 
-DBDIR=~/tools/MORA-Singularity/database/CISBP_v2.00/CISBP_v2.00_HumanMouseRatCombined_QCed_DB_Final
-DBFILE=~/tools/MORA-Singularity/database/CISBP_v2.00/CISBP_v2.00_HumanMouseRatCombined_QCed_DB_Final.txt
-TEMPDIR=~/tools/MORA-Singularity/temp/
+DBDIR=~/MORA-Singularity/database/CISBP_v2.00/CISBP_v2.00_HumanMouseRatCombined_QCed_DB_Final
+DBFILE=~/MORA-Singularity/database/CISBP_v2.00/CISBP_v2.00_HumanMouseRatCombined_QCed_DB_Final.txt
+TEMPDIR=~/MORA-Singularity/temp/
 
 NUMBERTHREAD=25
 STEPNUMBER=0
 
-perl ~/tools/MORA-Singularity/MORA_Pipeline_v0.1/MORA_v0.1.pl ${INDIR} ${OUTDIR}   ${QUERYFASTA} ${BGGeneFASTA} ${N}  ${DBDIR} ${DBFILE}  ${TEMPDIR} ${NUMBERTHREAD} ${STEPNUMBER}
+perl ~/MORA-Singularity/MORA_Pipeline_v0.1/MORA_v0.1.pl ${INDIR} ${OUTDIR}   ${QUERYFASTA} ${BGGeneFASTA} ${N}  ${DBDIR} ${DBFILE}  ${TEMPDIR} ${NUMBERTHREAD} ${STEPNUMBER}
