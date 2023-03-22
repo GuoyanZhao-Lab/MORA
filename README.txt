@@ -18,7 +18,7 @@ cd MORA-Singularity/ExampleInput
 
 2) issue the following command to run the pipeline using input files in the "ExampleInput" 
 directory and the test database (a smaller version of the database).
-./run_ExampleData_UsingTestDatabase_command.sh
+../run_ExampleData_UsingTestDatabase_command.sh
 
 You will see the following outputs:
 
@@ -42,7 +42,7 @@ A new directory named "output_ExampleOutput_UsingTestDatabase" will appear in th
 directory and the actual database CISBP_2.00. (contains > 3000 transcription factor's position weight matrices). 
 It takes about 8.5 mins to finish the analysis.
 
-./run_ExampleData_UsingFullDatabase_command.sh
+../run_ExampleData_UsingFullDatabase_command.sh
 run script path = /home/gzhao/tools/MORA-Singularity/MORA_Pipeline_v0.1
 
 Input directory:        /home/gzhao/tools/MORA-Singularity/ExampleInput/
